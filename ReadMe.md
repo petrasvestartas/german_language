@@ -3,3 +3,4 @@
 * Do you speak in english? [shprehen zy inglish] **sprechen Sie Englisch?**
 * Excuse me [ferzaiung] **Verzeihung**
 * I am sorry [es tut mi lait] **Es tut mir leid**
+* How are doing? [Vy getes ynen] **Wie geht es Ihnen?**
