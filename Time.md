@@ -1,101 +1,4 @@
 
-Es ist …	It is …
-Uhr	o’clock
-Viertel	quarter
-halb	half
-nach	past (after)
-vor	to (before)
-Wie spät ist es?	What time is it
-
-
-___
-
-When we have a full hour we put the word ‘Uhr‘ at the end.
-
-1 Uhr:
-
-Es ist ein Uhr. = It’s one o’clock.
-
-10 Uhr:
-
-Es ist zehn Uhr. = It’s ten o’clock.
-
-___
-
-To tell the exact time you say the hour and then the minutes but make sure you put the word ‘Uhr‘ this time between the hour and the minutes when you speak it.
-
-2:16 Uhr:
-Es ist zwei Uhr sechzehn.
-It’s two sixteen.
-
-3:25 Uhr:
-Es ist drei Uhr fünfundzwanzig.
-It’s three twenty-five.
-
-7:34 Uhr:
-Es ist sieben Uhr vierunddreißig.
-It’s seven thirty-four.
-
-5:45 Uhr:
-Es ist fünf Uhr fünfundvierzig.
-It’s five fourty-five.
-
-___
-
-Another way of telling the time is to use the word: nach.
-
-But be careful – this time you say the minutes first.
-
-10:05 Uhr:
-Es ist fünf nach zehn.
-It’s five past ten.
-
-12:10 Uhr:
-Es ist zehn nach zwölf.
-It’s ten past twelve.
-
-4:02 Uhr:
-Es ist zwei nach vier.  
-It’s two past four.
-
-___
-
-If we have less than 30 minutes to the next hour we can use the word: vor.
-
-2:50 Uhr:
-Es ist zehn vor drei.
-It’s ten to (before) three.
-
-3:40 Uhr:
-Es ist zwanzig vor vier.
-It’s twenty to (before) four.
-
-___
-
-You can divide an hour like a pie into quarters (4×15 minutes) and use the words: Viertel vor and Viertel nach.
-
-8:45 Uhr:
-
-Es ist Viertel vor neun.
-
-It’s (a) quarter to nine.
-
-6:15 Uhr:
-
-Es ist Viertel nach sechs.
-
-It’s (a) quarter past six.
-
-
-Learn German Easily
-
-Created by Lucas Kern
-
-Telling time in German
-
-Today I want to show you different ways how to tell time in German.
-
-Telling time in German - Learn German Easily
 
 By the way, time in German means ‘Zeit’.
 
@@ -131,7 +34,7 @@ If you follow the pink link, I will explain how to correctly pronounce the umlau
 
 Let's start easy to tell the time
 
-Example 1
+___
 
 Example No 1
 
@@ -148,6 +51,8 @@ Es ist zehn Uhr. = It’s ten o’clock.
 
 
 This is how you tell the exact time in German
+
+___
 
 Example 2
 
@@ -183,6 +88,8 @@ It’s five fourty-five.
 
 Telling the time with the word 'nach'
 
+___
+
 Example 3
 
 Example No 3
@@ -213,6 +120,8 @@ It’s two past four.
 
 Telling the time with the word 'vor'
 
+___
+
 Example 4
 
 Example No 4
@@ -234,6 +143,8 @@ It’s twenty to (before) four.
 
 
 Telling the time in German with the word 'Viertel vor/nach'
+
+___
 
 Example 5
 
@@ -257,6 +168,8 @@ It’s (a) quarter past six.
 
 Telling the time with the word 'halb'
 
+___
+
 Example 6
 
 Example No 6
@@ -278,6 +191,8 @@ It’s half past eight.
 Es ist halb zehn.
 
 It’s half past nine.
+
+___
 
 Example 7
 
