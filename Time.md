@@ -30,8 +30,6 @@ It has an a umlaut.
 
 If you follow the pink link, I will explain how to correctly pronounce the umlauts.
 
-
-
 Let's start easy to tell the time
 
 ___
@@ -47,8 +45,6 @@ Es ist ein Uhr. = It’s one o’clock.
 10 Uhr:
 
 Es ist zehn Uhr. = It’s ten o’clock.
-
-
 
 This is how you tell the exact time in German
 
@@ -84,8 +80,6 @@ Es ist fünf Uhr fünfundvierzig.
 
 It’s five fourty-five.
 
-
-
 Telling the time with the word 'nach'
 
 ___
@@ -116,8 +110,6 @@ Es ist zwei nach vier.
 
 It’s two past four.
 
-
-
 Telling the time with the word 'vor'
 
 ___
@@ -140,8 +132,6 @@ Es ist zwanzig vor vier.
 
 It’s twenty to (before) four.
 
-
-
 Telling the time in German with the word 'Viertel vor/nach'
 
 ___
@@ -163,8 +153,6 @@ It’s (a) quarter to nine.
 Es ist Viertel nach sechs.
 
 It’s (a) quarter past six.
-
-
 
 Telling the time with the word 'halb'
 
