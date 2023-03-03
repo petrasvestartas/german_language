@@ -13,7 +13,7 @@
 ## Conjugation "to be"
 * **ich bin**	I am
 * **du bist**	you are
-* **er/sie/es** ist	he/she/it is
+* **er/sie/es ist** he/she/it is
 * **wir sind**	we are
 * **ihr seid**	you are (as in: you guys are)
 * **sie sind**	they are
