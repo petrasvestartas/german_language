@@ -9,8 +9,7 @@
 * 8 = acht
 * 9 = neun
 * 10 = zehn
-
-
+___
 * 11 = elf
 * 12 = zwölf
 * 13 = dreizehn
@@ -21,21 +20,18 @@
 * 18 = achtzehn
 * 19 = neunzehn
 * 20 = zwanzig
-
-
+___
 * 21 = einundzwanzig
 * 22 = zweiundzwanzig
 * 23 = dreiundzwanzig
 * 24 = vierundzwanzig
 * 25 = fünfundzwanzig
-
-
+___
 * 30 = dreißig
 * 31 = einunddreißig
 * 32 = zweiunddreißig
 * 33 = dreiunddreißig
-
-
+___
 * 40 = vierzig
 * 50 = fünfzig
 * 60 = sechzig
@@ -43,8 +39,7 @@
 * 80 = achtzig
 * 90 = neunzig
 * 100 = einhundert (hundert)
-
-
+___
 * 101 = einhunderteins
 * 102 = einhundertzwei
 * 103 = einhundertdrei
@@ -56,13 +51,13 @@
 * 131 = einhunderteinunddreißig
 * 140 = einhundertvierzig
 * 150 = einhundertfünfzig 
-
+___
 * 200 = zweihundert
 * 201 = zweihunderteins
 * 210 = zweihundertzehn
 * 300 = dreihundert
 * 400 = vierhundert
-
+___
 * 1.000 = eintausend (tausend)
 * 1.001 = eintausendeins
 * 1.100 = eintausendeinhundert
