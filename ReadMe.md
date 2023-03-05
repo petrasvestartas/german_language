@@ -9,6 +9,7 @@
 * 💬 Excuse me [ferzaiung] **Verzeihung**
 * 💬 I am sorry [es tut mi lait] **Es tut mir leid**
 * 💬 How are doing? [Vy getes ynen] **Wie geht es Ihnen?**
+* 🏠 I bought cardboard boxes. [Ih habe kartons gekauft] **Ich habe Kartons gekauft**
 
 ## Conjugation "to be"
 * **ich bin**	I am
