@@ -10,6 +10,7 @@
 * 💬 I am sorry [es tut mi lait] **Es tut mir leid**
 * 💬 How are doing? [Vy getes ynen] **Wie geht es Ihnen?**
 * 🏠 I bought cardboard boxes. [Ih habe kartons gekauft] **Ich habe Kartons gekauft**
+* 🏠 Can I speak with Philippe Frei? Kann ich mit Philippe Frei sprechen?
 
 ## Conjugation "to be"
 * **ich bin**	I am
