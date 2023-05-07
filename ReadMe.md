@@ -13,6 +13,7 @@
 * 🏠 Can I speak with Philippe Frei? [Kan ih mit ... shprechen?] **Kann ich mit Philippe Frei sprechen?**
 * 🏠 I live in St. Gallen [Ih wone in St. Gallen] **Ich wohne in St. Gallen**
 * :moneybag:  How much does it cost? [Vy fyl kosten es]  **Wie viel (how much) kosten es (it) ?**
+* 🚂 right, left, up, down, straight [rehts, links, obe, unte, gehadeaus] **rechts, links, oben, unten, geradeaus**
 
 ## Conjugation "to be"
 * **ich bin**	I am
