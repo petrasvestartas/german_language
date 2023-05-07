@@ -11,6 +11,7 @@
 * 💬 How are doing? [Vy getes ynen] **Wie geht es Ihnen?**
 * 🏠 I bought cardboard boxes. [Ih habe kartons gekauft] **Ich habe Kartons gekauft**
 * 🏠 Can I speak with Philippe Frei? [Kan ih mit ... shprechen?] **Kann ich mit Philippe Frei sprechen?**
+* How much does it cost? [Vy fyl kosten es]  **Wie viel (how much) kosten es (it) ?**
 
 ## Conjugation "to be"
 * **ich bin**	I am
