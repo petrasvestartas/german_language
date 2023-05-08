@@ -16,7 +16,7 @@
 * 🚂 right, left, up, down, straight [rehts, links, obe, unte, gehadeaus] **rechts, links, oben, unten, geradeaus**
 * 🏠 width, length, height [brait, lange, hoh] **Breite, Länge, Höhe**
 * :book: page [zeite] **Seite**
-* 🏠 components [bauteile] ** Bauteile**
+* 🏠 components [bauteile] **Bauteile**
 
 ## Conjugation "to be"
 * **ich bin**	I am
