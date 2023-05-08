@@ -17,6 +17,7 @@
 * 🏠 width, length, height [brait, lange, hoh] **Breite, Länge, Höhe**
 * :book: page [zeite] **Seite**
 * 🏠 components [bauteile] **Bauteile**
+* :one: :two: once, twice [ainmal, cvaimal] **einmal, zweimal**
 
 ## Conjugation "to be"
 * **ich bin**	I am
