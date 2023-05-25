@@ -9,3 +9,5 @@
 **der Salat** - salotos vyriska gimine \
 **die Pizza** - pizza moteriska gimine \
 **das Sandwich, ein Sandwich** nekatroji gimine \
+
+
