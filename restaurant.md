@@ -5,9 +5,11 @@
 * **Is die Pizza lecker?** Is the pizza delicious?
 * **Nein, die Pizza ist kalt!** No, the pizza is cold!
 * **Die Reichnung, bitte!** The check, please!
+* **Der Kellner** Waiter
 
 **der Salat** - salotos vyriska gimine \
 **die Pizza** - pizza moteriska gimine \
-**das Sandwich, ein Sandwich** nekatroji gimine \
+**das Sandwich, ein Sandwich, das Salz** nekatroji gimine \
 
-
+**kalt** - cold \
+**heis** - hot \
