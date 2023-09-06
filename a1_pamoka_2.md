@@ -12,6 +12,6 @@
 
 # Klausiamieji zodziai
 
-  Wer - kas - zmogas
+-  Wer - kas - zmogas
   Was - kas - objektas
   Wie - kaip
