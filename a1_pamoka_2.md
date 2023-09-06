@@ -1,13 +1,13 @@
 
 # Pasisveikinimas
 
-  Guten Morgen!
-  Tschüs
-  Gute Nacht!
-  Tag!
-  Morgen!
-  Guten Abend!
-  Auf Wiendersehen!
+-  Guten Morgen!
+-  Tschüs
+-  Gute Nacht!
+-  Tag!
+-  Morgen!
+-  Guten Abend!
+-  Auf Wiendersehen!
 
 
 # Klausiamieji zodziai
