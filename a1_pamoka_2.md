@@ -12,9 +12,13 @@
 
 # Klausiamieji zodziai
 
--  Wer - kas - zmogas
+-  Wer - kas - zmogas - Wer sind Sie?
 -  Was - kas - objektas
--  Wie - kaip
+-  Wie - kaip - Wie heissen Sie?
+-  Woher - is kur - vieta - Ich kommer aus der Scweiz (-/dem/der/den) - Woher kommen Sie?
+
+
+
 
 # Linksniavimas
 
