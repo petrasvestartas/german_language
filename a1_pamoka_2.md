@@ -15,3 +15,11 @@
 -  Wer - kas - zmogas
 -  Was - kas - objektas
 -  Wie - kaip
+
+# Linksniavimas
+
+- Ich komme | heisse | bin
+- Du kommt | heisst | bist
+- Sie kommt | heissen | sind
+
+
