@@ -81,5 +81,5 @@
 
 ##  Irregular Past Participle separable verbs
 - ausschlafen - aus**ge**schlaf**en** - slept in
-- anfangen - an**ge**fang**n** - has started
+- anfangen - an**ge**fang**en** - has started
 - mitnehmen - mit**ge**nomm**en** - taken with
