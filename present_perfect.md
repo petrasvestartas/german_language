@@ -38,3 +38,9 @@
 - anmachen - **ange**mach**t** turned on
 - zumachen - **zuge**mach**t** - closed
 
+## Verbs ending with -IEREN are formed WITHOUT ge
+- studieren - studier**t** - studied
+- buchstabieren - buchstabier**t** - spelled
+- fotografieren - fotografier**t** - photographed
+- telefonierent - telefornier**t** - phoned
+- funktionieren - funktionier**t** - worked / functioned
