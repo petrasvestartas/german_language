@@ -44,3 +44,10 @@
 - fotografieren - fotografier**t** - photographed
 - telefonierent - telefornier**t** - phoned
 - funktionieren - funktionier**t** - worked / functioned
+- reparieren - reparieren**t** - repaired
+- kombinieren - kombinier**t** - combined
+- diskutieren - diskutier**t** - discussed
+- organisieren - organisier**t** - organized
+- renovieren - renovier**t** - renovated
+- passieren - passier**t** - has happened - Was ist denn hier passiert?
+- 
