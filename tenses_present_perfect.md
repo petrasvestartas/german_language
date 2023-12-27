@@ -60,7 +60,7 @@
 - schreiben - **ge**schreib**en** - written
 - nehmen - **ge**nomm**en** - taken
 - schlafen - **ge**schlaf**en** - slept
-- treffen - **ge**tr**o**f**en** - met
+- treffen - **ge**tr**o**ff**en** - met
 - fahren - **ge**fahr**en** - driven
 - halten - **ge**halt**en** - held
 - laufen - **ge**lauf**en** - walked, jogged
