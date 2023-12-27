@@ -33,7 +33,7 @@
 
 ## Separable verbs PREFIX+GE...T
 - einkaufen - **einge**kauf**t** - bought
-- abholen - **abge**holt**t** - picked up
+- abholen - **abge**hol**t** - picked up
 - aufmachen - **aufge**mach**t** - opened up
 - anmachen - **ange**mach**t** turned on
 - zumachen - **zuge**mach**t** - closed
