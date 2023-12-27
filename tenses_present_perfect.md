@@ -50,4 +50,18 @@
 - organisieren - organisier**t** - organized
 - renovieren - renovier**t** - renovated
 - passieren - passier**t** - has happened - Was ist denn hier passiert?
-- 
+
+ ## Irregular Past Participle with -en
+- sehen - **ge**seh**en** - saw each other
+- trinken - **ge**tr**u**nk**en** - drank
+- essen - **geg**ess**en** - ate
+- lesen - **ge**les**en** - read
+- sprechen - **ge**spr**o**ch**en** - spoken
+- schreiben - **ge**schreib**en** - written
+- nehmen - **ge**nomm**en** - taken
+- schlafen - **ge**schlaf**en** - slept
+- treffen - **ge**tr**o**f**en** - met
+- fahren - **ge**fahr**en** - driven
+- halten - **ge**halt**en** - held
+- laufen - **ge**lauf**en** - walked, jogged
+- geben - **ge**geb**en** - given
