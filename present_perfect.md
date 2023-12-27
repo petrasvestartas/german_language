@@ -2,8 +2,8 @@
 
 ## Structure
 
-  Ich **habe** Hausaufgaben **gemacht**.
-  Du **hast** Hausaufgaben **gemacht**.
+-  Ich **habe** Hausaufgaben **gemacht**.
+-  Du **hast** Hausaufgaben **gemacht**.
   Er/Sie/Es **hat** Hausaufgaben **gemacht**.
   Wir **haben** Hausaufgaben **gemacht**.
   Iht **habt** Hausaufgaben **gemacht**.
