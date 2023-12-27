@@ -36,5 +36,5 @@
 - abholen - **abge**holt**t** - picked up
 - aufmachen - **aufge**mach**t** - opened up
 - anmachen - **ange**mach**t** turned on
-- zumachen - **zuge**macht**t** - closed
+- zumachen - **zuge**mach**t** - closed
 
