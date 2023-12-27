@@ -31,3 +31,10 @@
 - Ich **habe** heute frei **gehabt** == Ich **hatte** heute frei.
 - Katie **hat** eine Wohnung in Australien **gehabt**. == Katie **hatte** eine **Wohnung** in Australien.
 
+## Separable verbs PREFIX+GE...T
+- einkaufen - **einge**kauf**t** - bought
+- abholen - **abge**holt**t** - picked up
+- aufmachen - **aufge**mach**t** - opened up
+- anmachen - **ange**mach**t** turned on
+- zumachen - **zuge**macht**t** - closed
+
