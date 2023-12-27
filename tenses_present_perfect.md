@@ -65,3 +65,21 @@
 - halten - **ge**halt**en** - held
 - laufen - **ge**lauf**en** - walked, jogged
 - geben - **ge**geb**en** - given
+
+## Irregular Past Participle with -t
+- denken - **gedacht** - thought
+- bringen - **gebracht** - brought
+- kennen - **ge**k**a**nn**t** - know
+- wissen - **ge**w**u**ss**t** - know
+- schreiben - **ge**schr**ie**n**t** - written
+- brennen - **gebrannt** - burnt
+- fliegen - **ge**fl**o**g**en** - fly
+- gehen - **gegangen** - went
+- helfen - **geholfen** - helped
+- finden - **gefunden** - found
+- nehmen - **genommen** - took
+
+##  Irregular Past Participle separable verbs
+- ausschlafen - aus**ge**schlaf**en** - slept in
+- anfangen - an**ge**fang**n** - has started
+- mitnehmen - mit**ge**nomm**en** - taken with
