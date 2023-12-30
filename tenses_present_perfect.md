@@ -79,7 +79,38 @@
 - finden - **gefunden** - found
 - nehmen - **genommen** - took
 
-##  Irregular Past Participle separable verbs
+## Irregular Past Participle separable verbs
 - ausschlafen - aus**ge**schlaf**en** - slept in
 - anfangen - an**ge**fang**en** - has started
 - mitnehmen - mit**ge**nomm**en** - taken with
+
+## Present Perfect with sein
+- Structure: seid + past-participle
+- Ich bin in den Keller gegangen.
+- Du bist in den Keller gegangen.
+- Er/Sie/Es ist in den Keller gegangen.
+- Wir sind in den Keller gegangen.
+- Ihr seid in den Keller gegangen.
+- Sie (plural and formal) sind in den Keller gegange.
+
+It is used with a change of location. The subject moves from location "A" to location "B":
+- gehen - Ich bin den Keller gegangen.
+- aufstehen - Katie ist zu spät aufgestanden.
+- laufen (walk) - Sie ist zur S-Bahn gelaufen.
+- fahren - Sie ist zum Deutschkurs gefahren.
+- schwimmen - Wir sind geschwommen.
+- fliegen - Katie und Gogo sind nach Deutschland geflogen.
+- kommen - Bobbi ist nach Hause gekommen.
+- reisen (travel) - Ihr seid durch (through) Europa gereist.
+- einsteigen - Du bist in die S-Bahn eingestiegen.
+- umsteigen (change trains) - Ich bin umgestiegen.
+- austeigen - Sie ist aus dem Zum ausgestiegen.
+- rennen (run) - Sie sind gerrant.
+
+It is used for the change of state:
+- sterben (die) - Sie ist gestorben.
+- einschlafen (fell asleep) - Sie ist spät eingeschlafen.
+
+Other vebrs:
+- bleiben - Sie ist zu Hause geblieben.
+- passieren (happen) - Was ist denn hier passiert?
