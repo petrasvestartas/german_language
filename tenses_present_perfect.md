@@ -107,10 +107,22 @@ It is used with a change of location. The subject moves from location "A" to loc
 - austeigen - Sie ist aus dem Zum ausgestiegen.
 - rennen (run) - Sie sind gerrant.
 
+![image](https://github.com/petrasvestartas/german_language/assets/18013985/e76eb4e1-e3e8-47b6-a90d-e2325604e4c7)
+
+
 It is used for the change of state:
 - sterben (die) - Sie ist gestorben.
 - einschlafen (fell asleep) - Sie ist spät eingeschlafen.
+- aufwachen (wake up) - Sie ist später wieder (again) aufgewacht.
+- wachsen (grow) - Die Bäume sind gewachsen.
+- sterben (die) - David Bowie ist 2016 gestorben. 
 
 Other vebrs:
 - bleiben - Sie ist zu Hause geblieben.
 - passieren (happen) - Was ist denn hier passiert?
+- werden (become) - Katie ist Friseurin geworden.
+
+
+## Verbs SEIN in Past Partciple are formed: sein + gewesen
+- Wie **war** dein Tag? - Wie **ist** dein Tag **gewessen**
+- Ich **war** Minuten zu spät. - Ich bin Minuten zu spät gewessen.
