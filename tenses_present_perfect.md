@@ -86,43 +86,51 @@
 
 ## Present Perfect with sein
 - Structure: seid + past-participle
-- Ich bin in den Keller gegangen.
-- Du bist in den Keller gegangen.
-- Er/Sie/Es ist in den Keller gegangen.
-- Wir sind in den Keller gegangen.
-- Ihr seid in den Keller gegangen.
-- Sie (plural and formal) sind in den Keller gegange.
+- Ich **bin** in den Keller **gegangen**. - I wend into the basement.
+- Du **bist** in den Keller **gegangen**.
+- Er/Sie/Es **ist** in den Keller **gegangen**.
+- Wir **sind** in den Keller **gegangen**.
+- Ihr **seid** in den Keller **gegangen**.
+- Sie (plural and formal) **sind** in den Keller **gegangen**.
 
 It is used with a change of location. The subject moves from location "A" to location "B":
-- gehen - Ich bin den Keller gegangen.
-- aufstehen - Katie ist zu spät aufgestanden.
-- laufen (walk) - Sie ist zur S-Bahn gelaufen.
-- fahren - Sie ist zum Deutschkurs gefahren.
-- schwimmen - Wir sind geschwommen.
-- fliegen - Katie und Gogo sind nach Deutschland geflogen.
-- kommen - Bobbi ist nach Hause gekommen.
-- reisen (travel) - Ihr seid durch (through) Europa gereist.
-- einsteigen - Du bist in die S-Bahn eingestiegen.
-- umsteigen (change trains) - Ich bin umgestiegen.
-- austeigen - Sie ist aus dem Zum ausgestiegen.
-- rennen (run) - Sie sind gerrant.
+- gehen - Er **ist** zum Arbeit **gegangen**.
+- aufstehen- Katie **ist** zu spät **aufgestanden**.
+- fahren - Sie **ist** zum Deutschkurs **gefahren**.
+- schwimmen - Wir **sind** **geschwommen**.
+- fliegen - Katie und Gogo **sind** nach Deutschland **geflogen**.
+- landen - Das Fleugzeug **ist**  **gelandet**.
+- kommen - Bobbi **ist** nach Hause **gekommen**.
+- reisen (travel) - Ihr **seid** durch (through) Europa **gereist**.
+- einsteigen - Du **bist** in die S-Bahn **eingestiegen**.
+- umsteigen (change trains) - Ich **bin** **umgestiegen**.
+- austeigen - Sie **ist** aus dem Zum **ausgestiegen**.
+- rennen (walk) - Sie **ist** zur S-Bahn **gelaufen**.
+- rennen - Sie **sind** **gerrant**.
+- reiten (ride a horse) - Sie **ist** als Kind viel **geritten**.
+- klettern (climb) - Ich **bin** auf das Haus **geklettert**.
+- hochgehen / runtergehen (go up/down stairs) - Ich **bin** **hochgegangen**.
+- (runter)fallen (fall down) - Er **ist** **gefallen**.
+- wandern - Sie **sind** in den Bergen **gewandert**-
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/e76eb4e1-e3e8-47b6-a90d-e2325604e4c7)
 
 
 It is used for the change of state:
-- sterben (die) - Sie ist gestorben.
-- einschlafen (fell asleep) - Sie ist spät eingeschlafen.
-- aufwachen (wake up) - Sie ist später wieder (again) aufgewacht.
-- wachsen (grow) - Die Bäume sind gewachsen.
-- sterben (die) - David Bowie ist 2016 gestorben. 
+- sterben (die) - Sie **ist** **gestorben**.
+- einschlafen (fell asleep) - Sie **ist** spät **eingeschlafen**.
+- aufstehen (get up) - Sie **ist** Uhr **aufgestanden**.
+- aufwachen (wake up) - Sie **ist** später wieder (again) **aufgewacht**.
+- wachsen (grow) - Die Bäume **sind** **gewachsen**.
+- sterben (die) - David Bowie **ist** 2016 **gestorben**. 
 
 Other vebrs:
-- bleiben - Sie ist zu Hause geblieben.
-- passieren (happen) - Was ist denn hier passiert?
-- werden (become) - Katie ist Friseurin geworden.
+- bleiben - Sie **ist** zu Hause **geblieben**.
+- passieren (happen) - Was **ist** denn hier **passiert**?
+- werden (become) - Katie **ist** Friseurin **geworden**.
+- gebären (bear) - Ich **bin** **geboren**.
 
 
 ## Verbs SEIN in Past Partciple are formed: sein + gewesen
 - Wie **war** dein Tag? - Wie **ist** dein Tag **gewessen**
-- Ich **war** Minuten zu spät. - Ich bin Minuten zu spät gewessen.
+- Ich **war** Minuten zu spät. - Ich bin Minuten zu spät **gewessen**.
