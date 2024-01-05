@@ -1,4 +1,4 @@
-# Simple Past
+# Präteritum - Simple Past
 
 ## Examples
 
@@ -6,4 +6,8 @@
 - haben - Katie **hatte** eine kleine Wohnung.
 - denken (think) - Ich **dachte**, du kommst morgen.
 - es gibt - **Es gab** keine Milsch im Supermarkt.
-- wissen (know) - Ich **wusste** die Antwort nicht. 
+- wissen (know) - Ich **wusste** die Antwort nicht.
+
+
+### Comparison with Perfekt
+- Ich bin - Ich bin gewessen - Ich war.
