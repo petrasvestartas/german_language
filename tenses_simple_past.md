@@ -30,6 +30,7 @@
 - Ich finde - Ich have gefunden - Ich fand.
 
 ## Conjugation
+
 - sein
 - Ich war
 - Du warst
@@ -37,6 +38,7 @@
 - Wir waren
 - Ihr wahrt
 - Sie waren
+
 
 - haben
 - Ich hatte
