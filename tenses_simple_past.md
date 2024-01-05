@@ -16,7 +16,7 @@
 - heissen - Früher (used to be) **hiess** ich Anja Sommer.
 - finden (in simple past used for opinion) - Ich **fand** den Film langweillig.
 
-### Comparison with Perfekt
+## Comparison with Perfekt
 - Ich bin - Ich bin gewesen - Ich war.
 - Ich habe - Ich habe gehabt - Ich hatte.
 - Ich will - Ich have gewollt - Ich wollte.
@@ -28,3 +28,20 @@
 - Ich heisse - Ich habe geheissen - Ich hiess.
 - Ich weiss - Ich have gewusst - Ich wusste.
 - Ich finde - Ich have gefunden - Ich fand.
+
+## Conjugation
+- sein
+- Ich war
+- Du warst
+- Er war
+- Wir waren
+- Ihr wahrt
+- Sie waren
+
+- haben
+- Ich hatte
+- Du hattest
+- Er hatte
+- Wir hatten
+- Ihr hattet
+- Sie hatten
