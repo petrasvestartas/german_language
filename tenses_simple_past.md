@@ -36,7 +36,7 @@
   - Du warst
   - Er war
   - Wir waren
-  - Ihr wahrt
+  - Ihr wart
   - Sie waren
 
 
