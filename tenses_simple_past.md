@@ -32,18 +32,18 @@
 ## Conjugation
 
 - sein
-- Ich war
-- Du warst
-- Er war
-- Wir waren
-- Ihr wahrt
-- Sie waren
+  - Ich war
+  - Du warst
+  - Er war
+  - Wir waren
+  - Ihr wahrt
+  - Sie waren
 
 
 - haben
-- Ich hatte
-- Du hattest
-- Er hatte
-- Wir hatten
-- Ihr hattet
-- Sie hatten
+  - Ich hatte
+  - Du hattest
+  - Er hatte
+  - Wir hatten
+  - Ihr hattet
+  - Sie hatten
