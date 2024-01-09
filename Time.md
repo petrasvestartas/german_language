@@ -27,6 +27,17 @@
   - Ich bin vom ersten bis zum zehnten Oktober im Urlaub.
   - Ich bin vom ersten bis zehten Oktober im Urlab.
 
+## um / am / im
+
+- With time:
+  - Kannst du **um** 19 Uhr?
+- With weekday:
+  - Was macht ihr **am** Donnerstag?
+- With Seasons and Months:
+  - Katie ist nach Berlin gekommen **im** Sommer, Juli, Frühling (spring), Herbst (autumn), Winter. 
+
+
+
 ## Clock
 
 By the way, time in German means ‘Zeit’.
