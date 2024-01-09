@@ -1,8 +1,8 @@
 # Time
 
-## Regular Time Designations
+## Regular Time Designations - ...mal, jed..
 
-- Wif oft speilt Bobbi Fussball?
+- Wie oft speilt Bobbi Fussball?
 - Er spielt...
   - einmal pro Monat = einmal im Monat.
   - zweimal pro Woche = zweimal in der Woche.
@@ -14,6 +14,18 @@
 - Adverbs:
   - Wochentage: montags, dienstags, mittwochs, donnerstags, freitags, samstags, sonntags.
   - Tageszeiten: morgens, vormittags, mittags, nachmittags, abends, nachts.
+
+## Duration - von ... bis
+
+- Von wann bis wann? Wie lange?
+- Von wann bis wann geht dein Kurs? = Wie lange geht dein Kurs?
+  - Mein Kurs geht von 9 bis 14 Uhr.
+- Auch mit Wochentagen und Monaten:
+  - Von Montag bis Samstag sind die Geschäfte offen.
+  - Von Januar bis März arbeite ich nicht.
+- Wenn wir das Datum sagen (zum can be omitted):
+  - Ich bin vom ersten bis zum zehnten Oktober im Urlaub.
+  - Ich bin vom ersten bis zehten Oktober im Urlab.
 
 ## Clock
 
