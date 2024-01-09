@@ -36,6 +36,16 @@
 - With Seasons and Months:
   - Katie ist nach Berlin gekommen **im** Sommer, Juli, Frühling (spring), Herbst (autumn), Winter. 
 
+## schon -> noch nicht oder -> noch kein, niemand, nichts, nie
+
+- Hast du Gogo heute **schon** gesehen?
+  - Nein, ich habe Gogo **noch nicht** gesehen.
+- Hast du heute **schon** deine Mails gelesen?
+  - Nein, ich habe sie **noch nicht** gelesen.
+- Warst du **schon** einmal in Deutschland?
+  - Nein, ich war **noch nie** dort.
+- Hast du **schon** einen Einkaufszettel geschrieben?
+  - Nein, ich habe **noch keinen** Einkaufszettel geschrieben.
 
 
 ## Clock
