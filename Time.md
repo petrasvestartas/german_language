@@ -19,7 +19,7 @@
 
 - **Von wann bis wann? Wie lange?**
 - Von wann bis wann geht dein Kurs? = Wie lange geht dein Kurs?
-  - Mein Kurs geht **von** 9 //bis** 14 Uhr.
+  - Mein Kurs geht **von** 9 **bis** 14 Uhr.
 - Auch mit Wochentagen und Monaten:
   - **Von** Montag **bis** Samstag sind die Geschäfte offen.
   - **Von** Januar **bis** März arbeite ich nicht.
