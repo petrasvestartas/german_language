@@ -4,12 +4,12 @@
 
 - Wie oft speilt Bobbi Fussball?
 - Er spielt...
-  - einmal pro Monat = einmal im Monat.
-  - zweimal pro Woche = zweimal in der Woche.
-  - dreimal pro Jahr = dreimal im Jahr.
-  - jeden Montag = montags (adverb with -s is written in a lower case).
-  - jede Woche.
-  - jedes Wochenende.
+  - **einmal** pro Monat = einmal im Monat.
+  - **zweimal** pro Woche = zweimal in der Woche.
+  - **dreimal** pro Jahr = dreimal im Jahr.
+  - **jeden** Montag = montags (adverb with -s is written in a lower case).
+  - **jede** Woche.
+  - **jedes** Wochenende.
 
 - Adverbs:
   - Wochentage: montags, dienstags, mittwochs, donnerstags, freitags, samstags, sonntags.
@@ -17,15 +17,15 @@
 
 ## Duration - von ... bis
 
-- Von wann bis wann? Wie lange?
+- **Von wann bis wann? Wie lange?**
 - Von wann bis wann geht dein Kurs? = Wie lange geht dein Kurs?
-  - Mein Kurs geht von 9 bis 14 Uhr.
+  - Mein Kurs geht **von** 9 //bis** 14 Uhr.
 - Auch mit Wochentagen und Monaten:
-  - Von Montag bis Samstag sind die Geschäfte offen.
-  - Von Januar bis März arbeite ich nicht.
+  - **Von** Montag **bis** Samstag sind die Geschäfte offen.
+  - **Von** Januar **bis** März arbeite ich nicht.
 - Wenn wir das Datum sagen (zum can be omitted):
-  - Ich bin vom ersten bis zum zehnten Oktober im Urlaub.
-  - Ich bin vom ersten bis zehten Oktober im Urlab.
+  - Ich bin **vom** ersten **bis** zum zehnten Oktober im Urlaub.
+  - Ich bin **vom** ersten **bis** zehten Oktober im Urlab.
 
 ## um / am / im
 
