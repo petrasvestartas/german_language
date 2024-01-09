@@ -31,8 +31,8 @@
 
 - With time:
   - Kannst du **um** 19 Uhr?
-- With weekday:
-  - Was macht ihr **am** Donnerstag?
+- With weekday and day times:
+  - Was macht ihr **am** Donnerstag / Abend?
 - With Seasons and Months:
   - Katie ist nach Berlin gekommen **im** Sommer, Juli, Frühling (spring), Herbst (autumn), Winter. 
 
