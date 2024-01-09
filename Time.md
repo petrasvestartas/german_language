@@ -1,4 +1,21 @@
+# Time
 
+## Regular Time Designations
+
+- Wif oft speilt Bobbi Fussball?
+- Er spielt...
+-   einmal pro Monat = einmal im Monat.
+-   zweimal pro Woche = zweimal in der Woche.
+-   dreimal pro Jahr = dreimal im Jahr.
+-   jeden Montag = montags (adverb with -s is written in a lower case).
+-   jede Woche.
+-   jedes Wochenende.
+
+- Adverbs:
+  - Wochentage: montags, dienstags, mittwochs, donnerstags, freitags, samstags, sonntags.
+  - Tageszeiten: morgens, vormittags, mittags, nachmittags, abends, nachts.
+
+## Clock
 
 By the way, time in German means ‘Zeit’.
 
