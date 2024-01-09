@@ -4,12 +4,12 @@
 
 - Wif oft speilt Bobbi Fussball?
 - Er spielt...
--   einmal pro Monat = einmal im Monat.
--   zweimal pro Woche = zweimal in der Woche.
--   dreimal pro Jahr = dreimal im Jahr.
--   jeden Montag = montags (adverb with -s is written in a lower case).
--   jede Woche.
--   jedes Wochenende.
+  - einmal pro Monat = einmal im Monat.
+  - zweimal pro Woche = zweimal in der Woche.
+  - dreimal pro Jahr = dreimal im Jahr.
+  - jeden Montag = montags (adverb with -s is written in a lower case).
+  - jede Woche.
+  - jedes Wochenende.
 
 - Adverbs:
   - Wochentage: montags, dienstags, mittwochs, donnerstags, freitags, samstags, sonntags.
