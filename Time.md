@@ -9,7 +9,7 @@
   - **dreimal** pro Jahr = dreimal im Jahr.
   - **jeden** Montag = montags (adverb with -s is written in a lower case).
   - **jede** Woche.
-  - **jedes** Wochenende.
+  - **jedes** Wochenende, Jahr.
 
 - Adverbs:
   - Wochentage: montags, dienstags, mittwochs, donnerstags, freitags, samstags, sonntags.
