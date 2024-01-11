@@ -1,12 +1,12 @@
 # Conjugation
 
-## Werden - become
-- Ich werde
-- Du wirst
-- Er/sie/es wird
-- Wir werden
-- Ihr werdet
-- sie/Sie werden
+- Werden - become
+  - Ich werde
+  - Du wirst
+  - Er/sie/es wird
+  - Wir werden
+  - Ihr werdet
+  - sie/Sie werden
 
 - Examples:
   - Katie hat bald Geburstag. Sie wird 28 Jahre alt.
