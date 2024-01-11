@@ -10,6 +10,7 @@
 - Wo? - Adresse
 
 ## End - Grussformel informell
+- Ich freue mich auf dich! (I am looking forward to it)
 - Viele Grüsse.
 - Liebe Grüsse.
 - Bis bald.
