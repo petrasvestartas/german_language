@@ -9,4 +9,20 @@
   - Katie malt ein Bild **für ihre** Oma.
   - Wir kaufen ein Haus **für unsere** Freunde.
   - Die Fahrkarten sind **für meinen** Sohn.
-  - Ist die Gitarre **für Ihre** Tochter? 
+  - Ist die Gitarre **für Ihre** Tochter?
+ 
+## schon
+- Already
+  - Hast du Gogo heute schon gesehen?
+
+## noch
+-  Still
+  - Nein, noch nicht! Vielleicht schläft er noch!
+
+## genug
+- Enough
+  - Seid ihr nicht genug Leute?
+
+## dabei
+- Have with you
+  - Ja, ich liebe Fußball! Ich bin 
