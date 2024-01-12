@@ -17,7 +17,7 @@
 
 ## noch
 -  Still
-  -  Nein
+  -  Nein, noch nicht! Vielleicht schläft er noch!
 
 ## genug
 - Enough
