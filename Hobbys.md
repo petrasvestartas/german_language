@@ -1,6 +1,8 @@
 # Hobbys
 
 ## Activities
+- **gehen** - go
+  - Gehe ich gern ins Café. Gehe ich gern joggen.
 - **lesen** - to read
   - Er liest ein Buch.
 - **malen / zeichnen** - to paint / to drar
