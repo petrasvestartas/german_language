@@ -30,3 +30,7 @@
 ## wieder
 - Again
   - Dann geht der Unterricht wieder 2 Stunden.
+ 
+## an
+- On
+  - An den anderen Tagen fahre ich nach Hause und koche zu Hause.
