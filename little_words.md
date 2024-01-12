@@ -25,4 +25,8 @@
 
 ## dabei
 - Have with you
-  - Ja, ich liebe Fußball! Ich bin 
+  - Ja, ich liebe Fußball! Ich bin
+
+## wieder
+- Again
+  - Dann geht der Unterricht wieder 2 Stunden.
