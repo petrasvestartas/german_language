@@ -13,7 +13,7 @@
  
 ## schon
 - Already
-  - Hast du Gogo heute schon gesehen?
+    - Hast du Gogo heute schon gesehen?
 
 ## noch
 -  Still
