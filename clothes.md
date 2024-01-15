@@ -21,9 +21,12 @@
 - tragen = anhaben - Bobbi trägt ein T-shirt. Bobbi hat ein T-Shirt an. For head ware we cannot use "anhaben". Instead: Ich trage einen Hut / Ich habe einen Hut auf.
 
  ## mit + Dative
- - der Rock - dem Rock
- - die Hose - der Hose
- - das T-Shirt - dem T-Shirt
- - die Schuhe - dem Schuehen(! with en).
+ - **der** Rock - **dem** Rock - Ich trage ein T-Shirt mit dem Rock.
+ - **die** Hose - **der** Hose - Ich trage ein Hemd mit der Hose.
+ - **das** T-Shirt - **dem** T-Shirt - Ich trage eine Hose mit dem T-Shirt.
+ - **die** Schuhe - **den** Schuehe**n**(! with -n). Ich trage eine Hose mit den Schuhen.
+ - Many nouns receive **-n** in the dative:, except one ending already with **-n**, **-s**.
+ -  - Ich spiele mit den Kinder**n**.
+    - Er spricht mit den Leute**n**.
 
 
