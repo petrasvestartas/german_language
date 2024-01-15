@@ -27,3 +27,11 @@
   - Simon kann sehr gut russisch sprechen.
   - Kann ich sieeht was fragen? (Can I ask you something?)
   - Könnt ihr gut tanzen?
+
+- Wollen
+  - Ich will
+  - Du willst
+  - Er,Sie,Es will
+  - Wir wollen
+  - Ihr wollt
+  - Sie wollen
