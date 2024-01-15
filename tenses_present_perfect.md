@@ -19,6 +19,7 @@
 - kochen - **ge**koch**t** - cooked
 - kaufen - **ge**kauf**t** - bought
 - wohnen - **ge**gewohn**t** - lived
+- üben - **ge**üb**t** - exercised
 
 ## Verbs in Past Participle are also formed with: GE...ET
 - arbeiten - **ge**arbeit**et** - worked
@@ -65,6 +66,7 @@
 - halten - **ge**halt**en** - held
 - laufen - **ge**lauf**en** - walked, jogged
 - geben - **ge**geb**en** - given
+- finden - **ge**fund**en** - find
 
 ## Irregular Past Participle with -t
 - denken - **gedacht** - thought
