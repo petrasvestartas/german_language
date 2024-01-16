@@ -36,3 +36,28 @@
 - Welch**e** - di**e**
 - Welche**s** - da**s**
 - Welche - die
+
+## Dieser - Diese - Dieses
+
+- We select specific item from the group.
+- Welches Kleid meinst du? Na, **dieses** hier.
+- Hier gibt es so viele Hosen. Wie findest du **diese** Hose?
+- Ich mag **dieses** T-Shirt.
+
+### Nomintativ
+- **Dieser** Pullover ist schön.
+- **Diese** Bluse ist schön.
+- **Dieses** T-Shirt ist schön.
+- **Diese** Schuhe sind schön.
+
+### Akusativ
+- Ich nehme **diesen** Pullover.
+- Ich nehme **diese** Bluse.
+- Ich nehme **dieses** T-Shirt.
+- Ich nehme **diese** Schuhe.
+
+### Dativ
+- Ich fahre mit **diesem** Bus.
+- Ich fahre mit **dieser** U-Bahn.
+- Ich fahre mit **diesem** Auto.
+- Ich gehe mit **diesen** Schuhe einkaufen.
