@@ -87,3 +87,4 @@ e# Questions
 - Fährst du mit der U-Bahn Nr. 6? Ja, mit **der** fahre ich.
 - Fährst du mit dem roten Fahrra? Ja, mit **dem** fahre ich.
 - Gehst du mit den weissen Schuhen einkaufen? - Ja, mit **denen** gehe ich einkaufen.
+  
