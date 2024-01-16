@@ -1,4 +1,4 @@
-# Questions
+e# Questions
 
 ## Causal Clause
 
@@ -61,3 +61,29 @@
 - Ich fahre mit **dieser** U-Bahn.
 - Ich fahre mit **diesem** Auto.
 - Ich gehe mit **diesen** Schuhe einkaufen.
+
+## Der, die, das
+- Wie findest du die Bluse? **Die** ist zu bunt.
+- Hier, nimm mein T-Shirt. **Das** ist bequem.
+- Ich will den ROch anziehen. - **Den** finde ich schön.
+- It also similar to there is, an object that is close by:
+- Welches Kleid meinst du? Na **das** hier.
+- Hier gibt es so viele Hosen. Wie findest du **die** da?
+
+## Nominativ
+- Schau mal, der Roch hier. **Der** ist schön.
+- Schau mal, die Bluse hier. **Die** ist schön.
+- Schau mal, das T-Shirt hier. **Das** ist schön.
+- Schau mal, die Schuhe hier. **Die** sind schön.
+
+## Akkusativ
+- Nimmst du den Rock? Ja, **den** nehme ich.
+- Nimmst du die Bluse? Ja, **die** nehme ich.
+- Nimmst du das T-Shirt? Ja, **das** nehme ich.
+- Nimmst du die Schuhe? Ja, **die** nehme ich.
+
+## Dativ
+Fährst du mit dem BMW? Ja, mit **dem** fahre ich.
+Fährst du mit der U-Bahn Nr. 6? Ja, mit **der** fahre ich.
+Fährst du mit dem roten Fahrra? Ja, mit **dem** fahre ich.
+Gehst du mit den weissen Schuhen einkaufen? - Ja, mit **denen** gehe ich einkaufen.
