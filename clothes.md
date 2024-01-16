@@ -29,4 +29,15 @@
  -  - Ich spiele mit den Kinder**n**.
     - Er spricht mit den Leute**n**.
 
+## sehen - schauen - gucken
+
+- The verbs **sehen, schauen, gucken** are used synonymously when looking is meant:
+- **Sieh** mal! = **Schau** mal! - **Guck** mal! - **Have** a look!
+- Wir **sehen/schauen/gucken** einen Film. - We are watching a movie.
+- Ich **sehe/schaue/gucke** in den Spiegel. - I am looking at the mirror.
+- Ich **sehe** dich. I see you.
+- Er **sieht** das Gebäude. He sees the building.
+- Ich kann nichts **sehen**. I cannot see anything.
+- Ich freue mich, dich zu **sehen**. - I am happy to see you.
+- 
 
