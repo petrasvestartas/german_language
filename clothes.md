@@ -1,7 +1,7 @@
 # Clothes
 
 ## Nouns
--  die Kiedung - clothes
+-  die Kleidung - clothes
 -  die Kleidungsstück - piece of clothing
 -  die Bluse(n) - the blouse. Die Bluse ist schön.
 -  der Rock(Röcke) - the skirt. Ich have einen neuen Rock gekauft.
@@ -39,5 +39,21 @@
 - Er **sieht** das Gebäude. He sees the building.
 - Ich kann nichts **sehen**. I cannot see anything.
 - Ich freue mich, dich zu **sehen**. - I am happy to see you.
-- 
+
+## Talking about clothes
+- Wie findest du das Kleid? Ich finde es toll. Es sieht toll aus.
+- Es ist schick, elegant, cool, langweiling, hässlich
+- Welche Farbe magst du? Welche Farbe gefällt dir? Ich mag Grün. / Mir gefällt Grün.
+- Wie gefällt dir das Kleid? Das Kleid gefällt mir nicht gut.
+
+## gefallen - clothes, people, cities, countries...
+- Katie gefällt Berlin.
+- Gogo gefällt die Hose nicht.
+- Katie gefallen die Schuhe.
+
+## passen - size of clothes
+- Katie passt die Hose = Die Grösse ist richtig.
+- Katie passt die Hose nicht = Sie ist zu klein.
+
+
 
