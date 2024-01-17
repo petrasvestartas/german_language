@@ -59,4 +59,13 @@
 Das Kleid steht Katie = Das Kleid sieht gut an Katie aus.
 Die Bluse steht Katie nicht = Sie sieht nicht gut an Katie aus.
 
+## Im Kleidergeschäft - in the clothing shop
+- A - Können Sie mit helfen? Ich suche ein Kleid.
+- B - Ja, gern. Welche Grösse haben Sie?
+- A - Ich habe Grösse 38. Oh das Kleid passt mit nicht. Haben Sie das Kleid auch in Grösse 40?
+- B - Nein, leider nicht. Welche Farbe möchten Sie?
+- A - Ich möchte Grün. Gibt es das Kleid auch in Grün.
+- B - Nein, nur in Rot.
+- A - Kann ich das Kleid anprobieren?
+- B - Ja natürlich. Hier links sind die Umkleidekabinen.
 
