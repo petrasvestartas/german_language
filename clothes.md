@@ -69,13 +69,4 @@ Die Bluse steht Katie nicht = Sie sieht nicht gut an Katie aus.
 - A - Kann ich das Kleid anprobieren?
 - B - Ja natürlich. Hier links sind die Umkleidekabinen.
 
-## Verben mit Dativ
-- gafallen: Das Kleid gefällt **dem** Mann.
-- passen: Die Hose passt **der** Frau.
-- stehen: Die Farbe steht **dem**Mädchen.
-- helfen: Der Verkäufer hilft **den** Kunden.
-- antworten: Katie antwortet **der** Lehrerin.
-- danken: Wir danken **dem** Mann.
-- gehören: Das Kleid gehört **der** Frau.
-- gratulieren: Sie gratulieren **dem** Chef.
-- vertrauen (trust): Katie vertraut dem Veräufer.
+
