@@ -55,5 +55,8 @@
 - Katie passt die Hose = Die Grösse ist richtig.
 - Katie passt die Hose nicht = Sie ist zu klein.
 
+## stehen - smth that looks or doesnt look good on person
+Das Kleid steht Katie = Das Kleid sieht gut an Katie aus.
+Die Bluse steht Katie nicht = Sie sieht nicht gut an Katie aus.
 
 
