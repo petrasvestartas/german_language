@@ -1,4 +1,4 @@
-e# Questions
+# Questions and Nominative, Akkusative, Dative
 
 ## Causal Clause
 
@@ -87,4 +87,19 @@ e# Questions
 - Fährst du mit der U-Bahn Nr. 6? Ja, mit **der** fahre ich.
 - Fährst du mit dem roten Fahrra? Ja, mit **dem** fahre ich.
 - Gehst du mit den weissen Schuhen einkaufen? - Ja, mit **denen** gehe ich einkaufen.
-  
+
+## Verben mit Dativ
+- gafallen: Das Kleid gefällt **dem** Mann.
+- passen: Die Hose passt **der** Frau.
+- stehen: Die Farbe steht **dem**Mädchen.
+- helfen: Der Verkäufer hilft **den** Kunden.
+- antworten: Katie antwortet **der** Lehrerin.
+- danken: Wir danken **dem** Mann.
+- gehören: Das Kleid gehört **der** Frau.
+- gratulieren: Sie gratulieren **dem** Chef.
+- vertrauen (trust): Katie vertraut **dem** Veräufer.
+- schmecken (like): Das Essen schmeckt **den** Leuten.
+
+## Questions with Dativ
+- **Wem** antwortet Katie? Katie antwortet **der** Lehrerin.
+- **Wem** schmeckt das Radler? **Dem** Mann schmeckt das Radler.
