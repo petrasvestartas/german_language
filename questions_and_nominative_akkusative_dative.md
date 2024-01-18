@@ -86,7 +86,7 @@
 - Fährst du mit dem BMW? Ja, mit **dem** fahre ich.
 - Fährst du mit der U-Bahn Nr. 6? Ja, mit **der** fahre ich.
 - Fährst du mit dem roten Fahrra? Ja, mit **dem** fahre ich.
-- Gehst du mit den weissen Schuhen einkaufen? - Ja, mit **denen** gehe ich einkaufen.
+- Gehst du mit den weissen Schuhen einkaufen? - Ja, mit **den** gehe ich einkaufen.
 
 ## Verben mit Dativ
 - gafallen: Das Kleid gefällt **dem** Mann.
