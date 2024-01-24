@@ -25,22 +25,22 @@
 ## Possession
 
 - The possession of something/someone can be indicated with the genitive "-s" or with the proposition "von", when a word is ending with **-s, -z, -x**, we use apostroph:
-  - Bobb**s** Tisch
- - Katie**s** Zimmer
- - Gogo**s** Wohnung
- - Jonas' Freunde
- - Lutz' Schrank
- - Max' Sofa
- - der Tisch **von** Bobbi
- - der Zimmer **von** Katie
- - die Wohnung **von** Gogo
+    - Bobb**s** Tisch
+    - Katie**s** Zimmer
+    - Gogo**s** Wohnung
+    - Jonas' Freunde
+    - Lutz' Schrank
+    - Max' Sofa
+    - der Tisch **von** Bobbi
+    - der Zimmer **von** Katie
+    - die Wohnung **von** Gogo
 
 - From/of + dative:
- - Der Blumenstrauss ist **von mir**
- - Das ist süss **von dir**
- - Das ist die Party **von der** Frau.
- - Das sind die Freunde **von dem = vom** Mann.
- - Das sind die Geschenke **von den** Freunde**n**.
+    - Der Blumenstrauss ist **von mir**
+    - Das ist süss **von dir**
+    - Das ist die Party **von der** Frau.
+    - Das sind die Freunde **von dem = vom** Mann.
+    - Das sind die Geschenke **von den** Freunde**n**.
 
 
 
