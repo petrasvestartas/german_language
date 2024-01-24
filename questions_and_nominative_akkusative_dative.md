@@ -25,7 +25,7 @@
 ## Possession
 
 - The possession of something/someone can be indicated with the genitive "-s" or with the proposition "von", when a word is ending with **-s, -z, -x**, we use apostroph:
- - Bobb**s** Tisch
+  - Bobb**s** Tisch
  - Katie**s** Zimmer
  - Gogo**s** Wohnung
  - Jonas' Freunde
