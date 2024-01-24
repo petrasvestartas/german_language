@@ -34,3 +34,14 @@
 ## an
 - On
   - An den anderen Tagen fahre ich nach Hause und koche zu Hause.
+
+## ein Paar vs ein paar
+- **ein Paar** are always two. The objects that belong together:
+  -  **ein Paar** Schuhe.
+  -  **ein Paar** Socken.
+- **das Paar** two people who are together:
+  - Sind Katie und Bobbi **ein Paar**?
+  - Katies Eltern sind verheiratet. Sie sind **ein Ehepaar** (married couple).
+- **ein paar** with a lowercasem, means several, i.e. more than two:
+  -  Pietro hat **ein paar** Freunde mitgebracht.
+  -  Ich kaufe **ein paar** Geschenke.
