@@ -7,3 +7,11 @@
 -  Verbot (prohibition):
     -  Ab  Uhr **dürfen** Sie **keinen** Lärm mehr machen. Die Nachbarn verbieten (prohibit) es.
     -  Man **darf** im Restaurant **nicht** rauchen (smoke). Rauchen ist verboten.
+
+- Konjugation:
+    - Ich d**a**rf - I am allowed to.
+    - Du d**a**rfst - You are allowed to.
+    - Er/Sie/Es d**a**rf - He/She/It is allowed to.
+    - Wir dürfen* - We are allowed to.
+    - Ihr dürft - You are allowed to.
+    - sie/Sie dürfen - You are allowed to.
