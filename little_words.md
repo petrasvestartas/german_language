@@ -48,3 +48,7 @@
 
 ## ab
 - The termporal preposition **ab** (from .. on / after) (+ dative) specifies a current or future period with a fixed start. The end is open. The question is **Ab wann** - from when?
+    -  **Ab** 20 Uhr dürfen Sie keinen Lärm mehr machen.
+    -  **Ab** morgen mache ich Sport.
+    -  Wir haben **ab** diesem Herbst einen neuen Lehrer.
+    -  Synonym: **Von** morgen **an** mache ich Sport.
