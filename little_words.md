@@ -45,3 +45,6 @@
 - **ein paar** with a lowercasem, means several, i.e. more than two:
   -  Pietro hat **ein paar** Freunde mitgebracht.
   -  Ich kaufe **ein paar** Geschenke.
+
+## ab
+- The termporal preposition **ab** (from .. on / after) (+ dative) specifies a current or future period with a fixed start. The end is open. The question is **Ab wann** - from when?
