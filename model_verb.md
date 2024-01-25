@@ -15,3 +15,8 @@
     - Wir dürfen* - We are allowed to.
     - Ihr dürft - You are allowed to.
     - sie/Sie dürfen - You are allowed to.
+
+- Sentences:
+    - Wir **dürfen** im Garten eine Party **feiern**.
+    - Wann **dürfen** wir keinen Lärm **machen**?
+    - **Darf** man hier **rauchen**?
