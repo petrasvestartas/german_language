@@ -8,3 +8,5 @@
 -  Wir **uns** *uns* - mes, mus, mums
 -  ihr **euch** *euch* - jus, jus, jums
 -  s(S)ie **s(S)ie** *i(I)hnen* - jie, juos, jiems
+
+Kam visada su zodeliais: **ohne, für, bei, mit, zu**.
