@@ -10,5 +10,6 @@
 -  Er wirft den Ball **in** *den* Conainer - into
 -  Er wirft den Ball **zwichen** *die* Containter - between
 -  Er wirft den Ball **neben** den Container - besides
+- Note: only the masculin form changes: **der Container - **den** Container, **die** Mülltonne (garbage bin) - **die** Mülltone, **das** Dach (roof) - **das** Dach, **die** Container - **die** Container.
 
 <img width="673" alt="image" src="https://github.com/petrasvestartas/german_language/assets/18013985/214af4c2-4b04-4c87-a5b2-905cfbf398e9">
