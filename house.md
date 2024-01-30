@@ -1,0 +1,22 @@
+# Haus
+-  das Hause (Häuser) - the house(s)
+-  das Dach (Dächer) - the roof(s)
+-  der Dachbo(ö)den - the attic(s)
+-  der Schornstein(e) - the chimney(s)
+-  das Fenster - the window(s)
+-  die Wa(ä)nd(e) - wall(s)
+-  die Tür(en) - the door (die Haustür - front door)
+-  die Klingel(n) - the bell(s)
+-  der Briefka(ä)sten - the mailbox
+-  def Ho(ö)f(e) - the courtyard(s)
+-  der Ga(ä)rten - the garden(s)
+-  die Treppe(n) - the stairs
+-  der Fahrstu(ü)hl(e) = der Aufzu(ü)g(e) = der Lift(e/s) - the elevator(s)
+-  der Keller - the basement
+-  die Terrase(n) - patio(s)
+-  der Balkon(e/s) - balcony(ies)
+-  die Garage(n) - garage(s)
+-  der Müllcontainer, die Mülltonne(n) - the dumster, the garbage bin
+-  das Zimmer, das Arbeitszimmer, das Kinderzimmer, das Schalfzimmer, das Wohnzimmer, das Badezimmer, die Toilette, die Küche, der Abstellraum - the room, the study, the children's room, the bedroom, the living room, the bathroom, the toilet, the kitchen, the storage room
+-  
+  
