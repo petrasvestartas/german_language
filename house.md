@@ -28,7 +28,6 @@
 - zweiter Stock - second floor
 - erster Stock - first floor
 - das Erdgeschoss - the ground floor
-
 - Herr Kraut wohn **im dritten** Stock.
 - Wir wohnen **im Erdgeschoss**.
 
