@@ -1,4 +1,6 @@
 # Haus
+
+## Spaces
 -  das Hause (Häuser) - the house(s)
 -  das Dach (Dächer) - the roof(s)
 -  der Dachbo(ö)den - the attic(s)
@@ -18,5 +20,22 @@
 -  die Garage(n) - garage(s)
 -  der Müllcontainer, die Mülltonne(n) - the dumster, the garbage bin
 -  das Zimmer, das Arbeitszimmer, das Kinderzimmer, das Schalfzimmer, das Wohnzimmer, das Badezimmer, die Toilette, die Küche, der Abstellraum - the room, the study, the children's room, the bedroom, the living room, the bathroom, the toilet, the kitchen, the storage room
--  
+ 
+## Levels
+- das Stockwerk(e) = die Etage(n) = der Stock - the floor(s)
+- das Dachgenschoss - the attic/top floor.
+- dritter Stock - third floor
+- zweiter Stock - second floor
+- erster Stock - first floor
+- das Erdgeschoss - the ground floor
+
+- Herr Kraut wohn **im dritten** Stock.
+- Wir wohnen **im Erdgeschoss**.
+
+## People in the apartment building
+- der Hausbewohner - the resident
+- der Mieter - the tenant
+- der Vermieter - the landlord
+- der Nachbar(n) - the neighbor(s)
+- der Hausmeister - the janitor
   
