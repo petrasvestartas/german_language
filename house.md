@@ -10,7 +10,7 @@
 -  die Tür(en) - the door (die Haustür - front door)
 -  die Klingel(n) - the bell(s)
 -  der Briefka(ä)sten - the mailbox
--  def Ho(ö)f(e) - the courtyard(s)
+-  der Ho(ö)f(e) - the courtyard(s)
 -  der Ga(ä)rten - the garden(s)
 -  die Treppe(n) - the stairs
 -  der Fahrstu(ü)hl(e) = der Aufzu(ü)g(e) = der Lift(e/s) - the elevator(s)
