@@ -39,7 +39,7 @@
     - **der-dem** Das Buch ist under dem Bett.
     - **die-den** Das Ball ist zwichen den Containern.
 
-## Merging locaitions with prepositions
+## Merging locaitions with prepositions - accusative
 -  an + das = ans - Er stellt (puts) die Blumen **ans** Fenster.
 -  in + das = ins - Ich gehe **ins** Bett.
 -  auf + das = **aufs** - on + the
@@ -52,5 +52,13 @@
 -  über + den = **übern** - above the
 -  unter + den = **untern** - under the
 
+
+## Merging locaitions with prepositions - dative
+- Er sitzt **am** Tisch.
+- Sie sind **im** Hof. You are in the yard.
+- hinter + dem = **hiterm** Haus - behind
+- unter + dem = **unterm** Tisch - under
+- über + dem = **überm** Tisch - above
+- vor + dem = **vorm** Tisch - in front of
 
 <img width="673" alt="image" src="https://github.com/petrasvestartas/german_language/assets/18013985/214af4c2-4b04-4c87-a5b2-905cfbf398e9">
