@@ -12,6 +12,16 @@
 -  Er wirft den Ball **zwichen** *die* Containter - between
 -  Er wirft den Ball **neben** den Container - besides
 - Note: only the masculin form changes: **der Container - **den** Container, **die** Mülltonne (garbage bin) - **die** Mülltone, **das** Dach (roof) - **das** Dach, **die** Container - **die** Container.
+- Two-way propositions with dative:
+- Der Ball ist **an** *dem* Container. - at
+- Der Ball ist **auf** *dem* Container. - on
+- Der Ball ist **vor** *dem* Container. - in front of
+- Der Ball ist **hinter** *dem* Container. - behind
+- Der Ball ist **über** *dem* Container. - above
+- Der Ball ist **unter** *dem* Container. - below
+- Der Ball ist **in** *dem* Container. - in
+- Der Ball ist **zwinchen** *den* Container**n**. - between
+- Der Ball ist **neben** *dem* Container. - besides
 
 ## Merging locaitions with prepositions
 -  an + das = ans - Er stellt (puts) die Blumen **ans** Fenster.
