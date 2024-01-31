@@ -13,15 +13,21 @@
 -  Er wirft den Ball **neben** den Container - besides
 - Note: only the masculin form changes: **der Container - **den** Container, **die** Mülltonne (garbage bin) - **die** Mülltone, **das** Dach (roof) - **das** Dach, **die** Container - **die** Container.
 - Two-way propositions with dative:
-- Der Ball ist **an** *dem* Container. - at
-- Der Ball ist **auf** *dem* Container. - on
+- Der Ball ist **an** *dem* Container. - at - expresses the lateral, uppar contact or immediate proximity.
+- Ich sitze **an** dem Tisch.
+- Die Uhr ist **an** der Wand.
+- Der Ball ist **auf** *dem* Container. - on - expresses the contact with a surface.
+- Er ist **auf** dem Dach.
+- Die Blumen sind **auf** dem Tisch.
 - Der Ball ist **vor** *dem* Container. - in front of
 - Der Ball ist **hinter** *dem* Container. - behind
 - Der Ball ist **über** *dem* Container. - above
 - Der Ball ist **unter** *dem* Container. - below
 - Der Ball ist **in** *dem* Container. - in
 - Der Ball ist **zwinchen** *den* Container**n**. - between
-- Der Ball ist **neben** *dem* Container. - besides
+- Der Ball ist **neben** *dem* Container. - besides - expresses the lateral neighborhood, in a prallel direction.
+- Herr Kraut wohnt **neben** Katie and Bobbi.
+- Bobbi sitzt **neben** Katie. 
 
 ## Merging locaitions with prepositions
 -  an + das = ans - Er stellt (puts) die Blumen **ans** Fenster.
