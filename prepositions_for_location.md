@@ -1,6 +1,6 @@
 # Prepositions
 
-## Location
+## Location ** Wohin ... ? ** - where to is accusative, ** Wo ... ? ** - where is dative.
 -  Two-way propositions with accusative:
   -  **Wohin** *kommen* die leeren Flaschen (empty bottles)? *Wirf* (throw) sie dort in **den** Müllcontainer.
   -  Er wirft den Ball **an** *den* Container. - at
