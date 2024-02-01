@@ -29,8 +29,6 @@ The preposition **bei** (at/with) is used when you are **at person's place**. Th
 
 ### After preposition **bei** (at/with) or certain verbs, the personal pronoun is in the dative:
 
-- Sie wohnt nicht bei **mir**.
-- Es war sehr nett bei **Ihnen**.
 - ich - mir
 - du - dir
 - er - ihm
@@ -39,3 +37,18 @@ The preposition **bei** (at/with) is used when you are **at person's place**. Th
 - wir - uns
 - ihr - euch
 - s(S)ie - i(I)hnen
+  - Sie wohnt nicht bei **mir**.
+  - Es war sehr nett bei **Ihnen**.
+  - **Mir** gefallen die Fotos.
+  - Schmeckt **dir** der Kaffee?
+  - Der Vogel(bird) gehört **dem Mann**. Er gehört ihm.
+  - Katie antwortet **der Frau**. Er hilft **ihr**.
+  - Der Vater hilft **dem Kind**. Er hilft **ihm**.
+  - Glaubst du **uns**?
+  - Wir danken **euch**.
+  - Vertraust (Trust) du **den Lauten**? Vertraust du **ihnen**?
+  - Ich gratuliere **Ihnen** zum Geburtstag.
+  - Hall Katie! Wie geht es **dir**? **Mir** geht es gut.
+  - Hallo Katie und Bobbi! Wie geht es **euch**? **Uns** geht es gut.
+  - Guten Tag Herr Kraut! Wie geht es **Ihnen**? **Mir** geht es gut.
+  - Guten Tag **Frau Stock und Herr Kraut**! Wie geht es **Ihnen**? **Uns** geht es gut. 
