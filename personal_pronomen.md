@@ -10,3 +10,32 @@
 -  s(S)ie **<- s(S)ie** *i(I)hnen* - jie, juos, jiems
 
 Kam visada su zodeliais: **ohne, für, bei, mit, zu*, gratuliere*.
+
+## Bei
+### Bei + Dativ
+
+The preposition **bei** (at/with) is used when you are **at person's place**. The question is **Wo ..?** (Where...?)
+
+-  **Wo** sind Katie und Bobbi? Sie sind **bei** Hern Kraut.
+-  Ich bin **bei Anja**.
+-  Brigitte ist **bei Klaus**.
+
+### Bei + Nomen in Dativ
+-  Sie sind bei **dem** Arzt.
+-  Ich bin bei **der** Kosmetikerin.
+-  Er ist bei **dem** Mädchen.
+-  Wir wohnen bei **den** Eltern.
+- The preposition **bei** can merge with the artickle **dem** to **beim**: Sie sind **beim** Arzt.
+
+### After preposition **bei** (at/with) or certain verbs, the personal pronoun is in the dative:
+
+- Sie wohnt nicht bei **mir**.
+- Es war sehr nett bei **Ihnen**.
+- ich - mir
+- du - dir
+- er - ihm
+- sie - ihr
+- es - ihm
+- wir - uns
+- ihr - euch
+- s(S)ie - i(I)hnen
