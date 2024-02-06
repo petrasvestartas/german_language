@@ -56,3 +56,9 @@
 ## nämlich - namely or because
 - Ich wohne in einem kleinen Dorf, nämlich "Kleinhähnchen". I live in a small village, namely "Small Chicken".
 - Er ist unglücklich. Er hat **nämlich** ein grosses Problem. He is not happy. Because he has a big problem.
+
+## Because
+-  Ich gehe jetzt schlafen, **weil** ich morgen früh aufstehen muss.
+-  Ich gehe jetzt schlafen, **denn** ich muss morgen früh aufstehen.
+-  Ich gehe schlafen, ich muss **nämlich** morgen früh austehen.
+-  Ich muss morgen früh aufstehen. **Deswegen** gehe ich jetzt schlafen.
