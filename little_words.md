@@ -52,3 +52,7 @@
     -  **Ab** morgen mache ich Sport.
     -  Wir haben **ab** diesem Herbst einen neuen Lehrer.
     -  Synonym: **Von** morgen **an** mache ich Sport.
+
+## nämlich - namely or because
+- Ich wohne in einem kleinen Dorf, nämlich "Kleinhähnchen". I live in a small village, namely "Small Chicken".
+- Er ist unglücklich. Er hat **nämlich** ein grosses Problem. He is not happy. Because he has a big problem.
