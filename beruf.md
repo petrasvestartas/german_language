@@ -13,5 +13,5 @@
 ## Question
 
 - Wann?
-- Seit wann?
+- Seit wann? Er lernt seit zehn Jahren.
 - Wie lange schon?
