@@ -15,3 +15,9 @@
 - Wann?
 - Seit wann? Er lernt seit zehn Jahren.
 - Wie lange schon?
+
+**vor / seit** 
+- ein**em** Mondat
+- ein**em** Jahr
+- ein**er** Woche
+- sechs Monate**n**.
