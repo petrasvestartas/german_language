@@ -11,3 +11,5 @@
 - geschieden sein - to be divorces - Herr Kraut ist zweimal geschieden.
 - die Scheidung - the divorce - Scheidungen in Deutschland sind teuer.
 - der Exmann/Exfrauen - ex-husband - Herr Kraut hat zwei Exfrauen.
+- das Verhältnis(se) - the relationship - Herr Kraut hat zu seinen Exfrauen ein gutes Verhältnis.
+- der Unterhalt - the alimony - Herr Kraut muss für seine Kinder Unterhalt zahlen.
