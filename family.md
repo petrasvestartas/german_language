@@ -17,7 +17,7 @@
   -  die Enkelin - grandaughter
 -  der Onkel, die Tante - der Onkelm die Tante
 -  der Cousin/e - fe/male cousins
--  der Neffe, die Nichte - nenwphewm the nice
+-  der Neffe, die Nichte - nephew the nice
 -  die Schwiegereltern - parents in law:
   -  der Schwiegervater - father in law
   -  der Schwiegermutter - mother in law
