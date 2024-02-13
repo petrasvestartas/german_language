@@ -14,3 +14,15 @@
   - **ein**kaufen - to go shopping
 -  holen - pick up
   - **ab**holen - pick up smb from e.g. kindergarten
+
+# Inseparable verbs
+
+- **ve-, emp-, ent-, er-, ge-, miss-, ver-, zer-**
+
+- **be**suchen - visit
+- **emp**fehlen - recommend
+- **ent**schuldigen - apologize
+- **er**zahlen - tell a story
+- **miss**fallen - displease people
+-  **ver**stehen - understand
+-  **ze**brichen - to beak smth
