@@ -24,3 +24,10 @@
   -  Germanistik - german philology
 das Semester - semester
 die Ausbildung - apprenticeship
+
+
+-	Unterricht - pamoka
+-	Eintritt - iejimas
+-	Ordnung - tvarka
+-	angenehm - malonu
+-	kennen - pazinoti
