@@ -62,3 +62,7 @@
 -  Ich gehe jetzt schlafen, **denn** ich muss morgen früh aufstehen.
 -  Ich gehe schlafen, ich muss **nämlich** morgen früh austehen.
 -  Ich muss morgen früh aufstehen. **Deswegen** gehe ich jetzt schlafen.
+
+## Doch
+
+-	Doch - neigiamas klausimas - teigiamas atsakymas
