@@ -1,4 +1,6 @@
-# PC
+# Technology
+
+## PC
 
 -  der Rechner - computer
 -  der Laptop - laptop
@@ -13,3 +15,18 @@
 -  der Lautsprecher - speaker
 -  der Kopfhörer - headphones
 -  der Drucker - printer
+
+## Verbs
+
+- anmachen | anschalten | einschalten - turn on
+- ausmachen | ausschalten - turn off
+- benutzen - use
+
+## Küche 
+-  der Lichtshalter - light switch
+-  Strom - electricity
+-  Wasserkocher - kettle
+-  der Herd - stove
+-  der Ofen - oven
+-  der Geschirrspüler - dishwasher
+-  
