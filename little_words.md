@@ -73,3 +73,15 @@
 -  Er schreibt auf **einer** Tastatur.
 -  Er arbeitet mit **einem** Touchpad.
 -  Informatiker arbeiten mit Computer**n**.
+-  **Possession:**
+-  Was machst du mit **meinem** Laptop?
+-  Ich komme mit **deinem** Touchpad nicht klar.
+-  Ich schreibe auf **meiner** Tastatur.
+-  Du arbeitest mit **deinen** Computer**n**.
+-  If an ending is appended to **euer**, the **e* in the middle is omitted. Ist das **euer** Wohnzimmer? Wir sitzen in **eurem** Wohnzimmer.
+-  Gogo sitzt an **seinem** Computer.
+-  Katie sitzt an **ihrem** Laptop.
+-  Wir sitzen in **unserer** Küche.
+-  Ihr seid in **eurem** Wohnzimmer.
+-  Katie und Bobbi sprechen mit **ihren** Nachbar.
+-  Herr Kraut, wohnen Sie bei **Ihrer** Freundin?
