@@ -15,12 +15,22 @@
 -  der Lautsprecher - speaker
 -  der Kopfhörer - headphones
 -  der Drucker - printer
+-  das Benutzenkonto - the user account. Er **richtet** (setting up) ein **Benutzenkonto** **ein**.
 
 ## Verbs
 
-- anmachen | anschalten | einschalten - turn on
+- anmachen | anschalten | einschalten - turn on. Du **schaltest** den Computer **an/aus**. = Du **machst** den Computer **an/aus**.
 - ausmachen | ausschalten - turn off
 - benutzen - use
+- löchen - delete
+- kopieren und einfügen - to copy and paste
+- ausschneiden / einfügen - to cut / insert
+- hochladen / runterladen - to upload / to download. Ich **lade** Bilder **hoch**.
+- öffnen - to open
+- speichern - to save
+- anmelden / abmelden / einloggen - sign up / log out / log in
+- eine E-Mail bekommen / emphangen - to receive an email
+- anhängen - attach (document to an emain)
 
 ## Küche 
 -  der Lichtshalter - light switch
