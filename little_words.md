@@ -66,3 +66,10 @@
 ## Doch
 
 -	Doch - neigiamas klausimas - teigiamas atsakymas
+
+## mit, von, bei...
+-  Certain prepositions and verbs required the dative for example:
+-  Gogo sitzt an **einem** Computer.
+-  Er schreibt auf **einer** Tastatur.
+-  Er arbeitet mit **einem** Touchpad.
+-  Informatiker arbeiten mit Computer**n**.
