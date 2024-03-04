@@ -30,7 +30,7 @@
 - speichern - to save
 - anmelden / abmelden / einloggen - sign up / log out / log in
 - eine E-Mail bekommen / emphangen - to receive an email
-- anhängen - attach (document to an emain)
+- anhängen Unterlagen - attach (document to an email)
 
 ## Küche 
 -  der Lichtshalter - light switch
