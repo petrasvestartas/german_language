@@ -57,11 +57,16 @@
 - Ich wohne in einem kleinen Dorf, nämlich "Kleinhähnchen". I live in a small village, namely "Small Chicken".
 - Er ist unglücklich. Er hat **nämlich** ein grosses Problem. He is not happy. Because he has a big problem.
 
-## Because
+## Because/Therefore
 -  Ich gehe jetzt schlafen, **weil** ich morgen früh aufstehen muss.
 -  Ich gehe jetzt schlafen, **denn** ich muss morgen früh aufstehen.
 -  Ich gehe schlafen, ich muss **nämlich** morgen früh austehen.
 -  Ich muss morgen früh aufstehen. **Deswegen** gehe ich jetzt schlafen.
+-  Gestern ist ein Triebwerk ausgefallen (engine failled) und **deshalb** mustte ich auf dem Wannsee notlanden.
+-  Gestern ist ein Triebwerk ausgefallen **deshalb** mustter ich auf dem Wannsee notlanden.
+-  Gestern ist ein Triebwerk ausgefallen. **Deshalb** musste ich auf dem Wannsee notlanden.
+-  Gestern ist ein Triebwerk ausgefallen. Ich musste **deshalb** auf dem Wannsee notlanden.
+-  Gogo ist Pilot, **deswegen, deshalb, daher, darum, aus diesem Grund** fliegt er sehr viel.
 
 ## Doch
 
