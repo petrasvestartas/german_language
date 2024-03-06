@@ -17,3 +17,12 @@
 - **Ich mag dir.** I like you.
 - **Ich finde dich gut.** I like you. I fancy you.
 - **Ich steh' auf dich** I fancy you. Iam into you.
+- **Ich bin verknallt.** I have a crush (on you).
+- **Ich hab' mich auf den ersten Blick in dich verliebt.**. I fell in love with you at first sight.
+- **Ich bin verliebt.** I am in love.
+- **Ich liebe dich.** I love you.
+- **Ich hab' dich lieb.** I am fond of you / I love you.
+- **Du bist die Frau/der Mann meines Lebens.** You are the woman / man of my life.
+- **Du bist die Liebe meines Lebens. / Du bist meine grosse Liebe.** You are the love of my life.
+- **Du bist mein Ein und Alles!** You are my everything!.
+- **Der Schatz, der Liebling, der Hase, die Perle, die Schnecke, die Maus, die Kirsche** darling (lit. treasure), darling, bunny, pearl, snail, mouse, cherry.
