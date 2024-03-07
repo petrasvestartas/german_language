@@ -1,0 +1,21 @@
+
+- Ausweis - dokumentai
+- Antrag - sutartis
+- das Ziel wählen - tiksla issrinkti
+- Erwachsener - suauges
+- Zuerst, Danach, und dann, zum Schluss  - pirmiausiai, tada, ir tada, ir galiausiai
+- du siehst - sieh mal - look
+- du kommst mit - komm mit - come
+- du bringst mit - take with you
+- Fahr - fahren - drive
+- Sei - sind - be
+- bring - take with you
+- geh - go
+- warte - wait
+- vorne - in front of
+- Laden - shop (smaller)
+- abholen - pasititi, pasiimti
+- sei leise / seid nicht so laut - be queit
+- gebühren - payments
+- Unterricht - lessons
+- wartebereich - waiting area
