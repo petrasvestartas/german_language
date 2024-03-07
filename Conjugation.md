@@ -35,3 +35,11 @@
   - Wir wollen
   - Ihr wollt
   - Sie wollen
+
+  - Müssen
+  - ich muss
+  - du musst
+  - er sie est muss
+  - wir müssen
+  - ihr müsst
+  - sie müssen
