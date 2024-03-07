@@ -19,3 +19,20 @@
 - gebühren - payments
 - Unterricht - lessons
 - wartebereich - waiting area
+- erlaubt - allowed
+- verbotten - forbidden
+- rauchen - smoken
+- benutzen - use
+- Sehenwürdigkeiten - sights
+- Besichtigen - visit
+- Stadtrundgang - city tou
+- wichtigsten - important
+- Rundgang - tour around
+- berümte - famous
+- Ermassigung - discount
+- auskunft - information
+- Felsenreitschule - clmining with horse
+- statt finded - to travel to
+- Opernaufführungen - opera
+- Schritte - steps 
+- -
