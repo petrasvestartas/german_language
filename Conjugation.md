@@ -43,3 +43,11 @@
   - wir müssen
   - ihr müsst
   - sie müssen
+
+- Dürfen
+  -  ich darf
+  -  du darfst
+  -  er sie sie darf
+  -  wir dürfen
+  -  ihr dürft
+  -  sie dürfen
