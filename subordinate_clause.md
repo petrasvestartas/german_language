@@ -22,3 +22,11 @@ The subordinate clause cannnot stand by itself. It is subordinate to the main cl
 -  **Ich weiss** dass **ich bin spät bin**.
 -  **Es ist schade** dass **du heute arbeiten musst**.
 -  **Ich bin froh** dass **du einen Tisch reserviert hast**.
+
+In the main clause the conjugated verb is at position2.
+In the subordinate clause the conjugated verb is at the end.
+The subject in the subordinate clause is usually behind the conjuction.
+
+Separable verbs in subordinate clause are inseparable:
+
+-  Ich will, dass die Tür **aufmachst**.
