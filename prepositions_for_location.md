@@ -62,3 +62,26 @@
 - vor + dem = **vorm** Tisch - in front of
 
 <img width="673" alt="image" src="https://github.com/petrasvestartas/german_language/assets/18013985/214af4c2-4b04-4c87-a5b2-905cfbf398e9">
+
+## Location
+
+- **die Stadt/e** - city/ies
+- **das Land / die Länder** - country / ies
+
+Most countries and cities have no articles, except:
+
+-  Maskulin **der Irak, der Iran, der Jemen**
+-  Feminin **die Schweiz, die Slowakei, die Türkei, die Ukraine**
+-  Neutrum **das/der Kosovo**
+-  Plural **die USA, die Vereinigten Staaten, die Niederlande, die Vereinigten Arabischen Emirate**
+
+For the question where from **Woher** we use the preposition **aus** for cities and countries without an article:
+- **Woher ist Gogo gekommen? Er ist aus Hamburg gekommen**
+- **Woher kommt Kattie? Sie kommt aus Australien**
+
+When countries have an article, the prepositio **aus** is followed by an article in the **dative**:
+- **Woher kommst du? Ich komme aus...**
+- **dem Irak**
+- **der Schweiz**
+- **dem Kosovo**
+- **den USA**
