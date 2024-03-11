@@ -85,3 +85,20 @@ When countries have an article, the prepositio **aus** is followed by an article
 - **der Schweiz**
 - **dem Kosovo**
 - **den USA**
+
+For questio starting with **Wo**, we use for the answer **in**. Arcticles are used only in the special cases same as with **aus**.
+
+**Wo hat Gogo eine Jacht? Er hat eine Jacht in Hamburg.** 
+**Wo lebt Katie Familie? Er lebt in Australien.**
+
+For the question where to **Wohin** we use the preposition **nach (to) for cities and countries without articles.
+**Wohin fliegt Gogo? Er fliegt nach Venedig.**
+**Wohin fliegt Katie züruck? Sie fliegt nach Australien zurück**
+
+When the countries have an article we use the preposition **in** + Akkustaive
+-  **Wohin fliegtst du? Ich fliege in...**
+-  **den Irak**
+-  **die Schweiz**
+-  **das Kosovo**
+-  **die USA**
+
