@@ -37,3 +37,23 @@
 -  **Wo warst du schon? Ich war schon in Frenkreich, Portugal...** Where have you been? I have already been to France, Portugal....
 
 
+## go + infinitive
+
+-  **Ich gehe gern wandern und klettern.** I like to go hiking or climbing.
+-  **Ich gehe heute nicht arbeiten.** I am not going to work today.
+-  **Gehst du am Abend einkaufen?** Are you going shopping in the evening.
+-  **Gogo geht mit Viola essen.*** Gogo gooes out to eat with Viola.
+-  **Wir gehen joggen.** We go jogging.
+-  **Geht ihr morgen schwimmen?** Will you go swimming tomorrow?
+-  **Wann gehen Sie schlafen?** Wheb do you go to sleep?
+-  **Katie und Boobbi gehen spazieren.** Katie und Bobbi go for a walk.
+
+### with modal verns the two verbs go to the end
+
+-  **Ich will heute nicht arbeiten gehen** I dont want to go to work today.
+-  **Ich bin heute nich arbeiten gegangen** I did not go to work today.
+
+### subordinate clause
+
+-  **Ich bin froh, dass ich heute nicht arbeiten gegangen bin** - I am glad i did not go to work today.
+
