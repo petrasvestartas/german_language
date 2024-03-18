@@ -9,4 +9,3 @@
   -  Das ist **uns** nicht klar. Was ist **euch** nicht klar?
   -  Das ist **mir** peinlich. Was ist **dir** peinlich (embarassing)?
   -  Frau Koch, was ist **Ihnen** wichtig? **Mir** ist wichtig, dass ist gut Deutsch spreche.
-  -   
