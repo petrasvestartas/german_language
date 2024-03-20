@@ -34,7 +34,8 @@
 -  der Teich/e - pond
 -  die Gabel/n - fork
 -  der Teller - plate
--  der Picknickkorb/körbe - picknick basket
--  der Becher - mug
+-  der Picknickkorb/körbe (den Pinickkorb vorbeiten/packen) - picknick basket, pack the picknic basket. Den Picknickkorb auspacken - unpack the picknick basket.
+-  der Becher - mug/cup
+-  Essen, Getränke, Geschirr und Besteck einpacken - pack food, drinks, tableware, cutlery
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/3c38aaa0-8d3f-4641-b814-6fc1ddd955c4)
