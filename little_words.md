@@ -99,18 +99,18 @@
   -  Wir möchten in den Park gehen, **aber** wir haben heute keine Zeit.
   -  Sie gehen in den Park, **denn** sie wollen ein Picknick machen.
 -  **Und** If two main sentences have the same subject and are connected with **und**, then the subject after **und** is omitted.
-  -  Ich geh' schon mal los und hol' Viola ab.
+    -  Ich geh' schon mal los und hol' Viola ab.
 -  **Und** Equal modal verbs and auxiliary verbs **habe** or **sei** can also be omitted after **und**:
-  -  Ich **will** in den Park gehen und ein Eis essen.
-  -  Er **hat** den Picknickkorb gepackt und die Schuhe angezogen.
-  -  Sie **sind** früh aufgestanden und in den Park gegangen.
+    -  Ich **will** in den Park gehen und ein Eis essen.
+    -  Er **hat** den Picknickkorb gepackt und die Schuhe angezogen.
+    -  Sie **sind** früh aufgestanden und in den Park gegangen.
 -  **Achtung!** If the subject after **und** is not in position 1, it has to be repeated:
-  -  **Ich will** in den Park gehen und später **will ich** ein Eis essen.
+    -  **Ich will** in den Park gehen und später **will ich** ein Eis essen.
 -  After **aber / oder** the subject is repeated, if the following conjugated verb is not the same as in the main clause:
-  -  **Wir mochten** in den Park gehen, aber **wir haben** heute keine Zeit.
-  -  **Wir gehen** in den Park oder **wir bleiben** zu hause.
+    -  **Wir mochten** in den Park gehen, aber **wir haben** heute keine Zeit.
+    -  **Wir gehen** in den Park oder **wir bleiben** zu hause.
 -  If the same sentence elements are used after **aber/oder** as in the main sentence, all repetitions can be omitted:
-  -  Er kann nicht segeln (sail), **aber** schwimmen.
-  -  Er will ein Eis essen **oder** einen Saft trinken.
+    -  Er kann nicht segeln (sail), **aber** schwimmen.
+    -  Er will ein Eis essen **oder** einen Saft trinken.
 -  **Denn** (because) is always followed by a subject and a conjugate verb:
-  -  Er ist nicht in den Park gegangen, **den** er war müde.
+    -  Er ist nicht in den Park gegangen, **den** er war müde.
