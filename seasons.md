@@ -23,7 +23,7 @@
 
 -  das Brot/e - bread
 -  die Serviette - servetele
--  die Wiese/n - grasslands
+-  die Wiese/n (Wir sitzen auf der Wiese-) - grasslands
 -  die Blume/n - flowers
 -  der Salat/e - salads
 -  die Decke/n - cover
@@ -39,3 +39,15 @@
 -  Essen, Getränke, Geschirr und Besteck einpacken - pack food, drinks, tableware, cutlery
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/3c38aaa0-8d3f-4641-b814-6fc1ddd955c4)
+
+## Einen Park beschreiben
+
+der Frosch/Frösche (Der Frosch quakt.) - frog
+der Brunnen (Im Brunnen plätschert (bubbles) das Wasser.) - fountain
+die Bank/Bänke (Der Mann sitzt auf der Bank) - bench
+der Baum/Bäume - tree
+der Vogel/Vögel - bird
+der Weg/e (Die Leute laufen (walk) auf den Wegen) - path
+der Busch/Büsche - bush
+der Strauch/Sträucher - shrub
+der Teich/e - pond
