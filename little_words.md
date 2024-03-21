@@ -114,3 +114,18 @@
     -  Er will ein Eis essen **oder** einen Saft trinken.
 -  **Denn** (because) is always followed by a subject and a conjugate verb:
     -  Er ist nicht in den Park gegangen, **den** er war müde.
+
+## weil
+
+The conjunction **weil** (because) indicates a reason. Causal clauses answer the questions **Warum/Wieso?** (why).
+
+**Weil** intrudces **subordinate clause**, i.e. the conjugated verb is at the end of the sentence. The subordinate clause is separated from the main clause by a comma:
+-  Etwas Süsses für mein Süsse, **weil** du so süss **bist**.
+
+The **weil-Satz** can also be used by itself if it is a reply and if the situation is clear:
+- Warum gibt Viola Gogo eine Ohrfeige?
+- Wei er sie angelogen hat.
+
+The **weil-Satz** can also be placed before the main clause. Then the main clause begins with the finitie verb because the subordinate clause takes the first position:
+- Sie gehen in den Park, weil sie ein Picknick machen wollen.
+- Weil sie ein Picknick machen wollen, gehen sie in den Park.
