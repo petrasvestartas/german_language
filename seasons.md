@@ -42,12 +42,12 @@
 
 ## Einen Park beschreiben
 
-der Frosch/Frösche (Der Frosch quakt.) - frog
-der Brunnen (Im Brunnen plätschert (bubbles) das Wasser.) - fountain
-die Bank/Bänke (Der Mann sitzt auf der Bank) - bench
-der Baum/Bäume - tree
-der Vogel/Vögel - bird
-der Weg/e (Die Leute laufen (walk) auf den Wegen) - path
-der Busch/Büsche - bush
-der Strauch/Sträucher - shrub
-der Teich/e - pond
+-  der Frosch/Frösche (Der Frosch quakt.) - frog
+-  der Brunnen (Im Brunnen plätschert (bubbles) das Wasser.) - fountain
+-  die Bank/Bänke (Der Mann sitzt auf der Bank) - bench
+-  der Baum/Bäume - tree
+-  der Vogel/Vögel - bird
+-  der Weg/e (Die Leute laufen (walk) auf den Wegen) - path
+-  der Busch/Büsche - bush
+-  der Strauch/Sträucher - shrub
+-  der Teich/e - pond
