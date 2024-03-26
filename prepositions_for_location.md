@@ -128,7 +128,7 @@ The preposition "zu" indications the direction, a certain destination. It stands
 -  Ich gehe heute nicht zur (zu  der) Arbeit.
 <img width="574" alt="image" src="https://github.com/petrasvestartas/german_language/assets/18013985/e457967f-d214-46b4-bf78-a6a1ca9989e8">
 
-## Wo?-> in
+## Wo? -> in
 
 If "in" describes a posiiton, then "in" stands with the dative:
 -  Wo ist Katie?
@@ -136,5 +136,38 @@ If "in" describes a posiiton, then "in" stands with the dative:
 -  Sie ist im Wartezimmer.
 -  Sie sind im Restaurant.
 -  Ich bin im Supermarkt.
--  SIe ist der Küche.
+-  Sie ist der Küche.
 -  Sie ist auf dem Einwohnermeamt -> auf refers to the institution.
+
+## Wo? -> bei
+
+- Er ist bei Katie.
+- Sie ist bei ihrem Freund.
+- Katie ist beim Pförtner.
+- Bleibst du heute bei ihm?
+- Sie sind bei einem Picknick.
+- Wir sind beim Sport.
+- Ich bin heute nicht bei der Arbeit.
+
+## Woher? -> aus
+
+The preposition "aus" indicates a movement (origin) out of a building/space. It stands with the dative:
+
+- Woher kommt Katie?
+- Sie kommt aus dem Enwohnermedeamt.
+- Sie kommt aus dem Wartezimmer.
+- Sie kommen aus dem Restaurant.
+- Ich komme aus dem Supermarkt.
+- Sie kommt aus der Küche.
+
+## Woher? -> von
+
+The preposition "von" indicates a starting point of a movement (origin). It always stands with the dative:
+
+-  Er kommt von Katie.
+-  Sie kommt von ihrem Freund.
+-  Katie kommt vom Pförtner.
+-  Sie kommt von ihm.
+-  Wir kommen vom Sport.
+-  Sie kommen von einem Picknick.
+-  Ich komme von der Arbeit.
