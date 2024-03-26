@@ -1,0 +1,44 @@
+# Gesundheit Krankheit
+
+- die Notaufnahme - emergency department
+- der Wartebereich - waiting area
+- wehun - taip skaudeti
+- du arme - wargsele
+- Krankenhaus-Notaufnahme - Hospital emergency room
+- Unfall - Accident
+- hinsetzen - sit dow
+- Gib her - duok sen
+- schlimm - blogai
+- selbst - pati
+- das ist nicht wahr - netiesa / negali buti
+- schick - prabangiai
+- witzig - juokinga / smaikstu
+- Mann - o dieve...
+- hässlich - baisiai
+- vorne - in front
+- Bein hoch - Leg up
+- beine Beide hoch - Both legs up
+- Quatsch - Nonsense
+- aufmachen wiet - placiai atverkite akis
+- zumachen - uzverti akis
+- hoch - aukstyn
+- Kühlen - saldyti
+- schrecklich - baisiai
+- das Auge - akis
+- die Nase - nosis
+- der Mund - burna
+- die Brust - krutine
+- der Bauch - pilvas
+- das Bein - koja
+- der Fuss - peda
+- die Haare - plaukai
+- der Kopf - galva
+- das Ohr - ausis
+- der Hals - kaklas
+- der Rücken - nugara
+- der Finger - pirstas
+- der Arm - ranka
+- die Hand - delnas
+- Was tut weh? - ka skauda?
+
+
