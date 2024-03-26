@@ -9,10 +9,21 @@
 -  erlaubt - neleidziama
 -  Ankunft - atvykimas
 -  Ausweis - Passport
--  Antrag - Documents / form
+-  Antrag - Application form
 -  Was muss ich wann tun? - What must I do?
 -  auswähler - issirinkti
 -  gebühren - rinkliava
 -  buchen - to book
 -  Sehenswürdigkeiten - sights to see
 -  Führerschein - drivings licence
+-  das Amt/ämter - office
+-  die Behörde/n - authority
+-  der Pfötner - doorman
+-  der Empfang/änge - reception
+-  das Wartezimmer - waiting room
+-  die Nummer/n - the number
+-  die Anzelgetafel/n - display board
+-  das Formular - form
+-  das Schreiben - letter
+-  die Anmeldung - registration
+-  das Bussgeld - fine
