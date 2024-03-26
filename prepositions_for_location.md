@@ -102,3 +102,39 @@ When the countries have an article we use the preposition **in** + Akkustaive
 -  **das Kosovo**
 -  **die USA**
 
+## Wohin? -> in
+
+The preposition "in" is usee for places e.g. buildings or room. If it descrbes a direction, then it stands with the accusative:
+
+- Wohin geht Katie?
+- Sie geht ins Einwohnermeldeamt (registration office).
+- Sie geht is das Wartezimmer.
+- Sie gehen ins Restaurant.
+- Ich gehe in den Supermarkt.
+- Sie geht in die Küche.
+
+## Wohin? -> zu
+
+The preposition "zu" indications the direction, a certain destination. It stands with the dative:
+
+-  Er geht zu Katie.
+-  Sie geht zu ihrem Freund.
+-  Katie geht zu dem Pförtner (doorman).
+-  Sie geht zu ihm.
+-  Wir gehen morgen zu dem Konzert.
+-  Sie gehen zu einem Picknick.
+-  Ich gehe heute zu der Arbeit.
+-  Katie geht zum (zu + dem) Pförtner.
+-  Ich gehe heute nicht zur (zu  der) Arbeit.
+<img width="574" alt="image" src="https://github.com/petrasvestartas/german_language/assets/18013985/e457967f-d214-46b4-bf78-a6a1ca9989e8">
+
+## Wo?-> in
+
+If "in" describes a posiiton, then "in" stands with the dative:
+-  Wo ist Katie?
+-  Sie ist im Einwohnermeldeamt.
+-  Sie ist im Wartezimmer.
+-  Sie sind im Restaurant.
+-  Ich bin im Supermarkt.
+-  SIe ist der Küche.
+-  Sie ist auf dem Einwohnermeamt -> auf refers to the institution.
