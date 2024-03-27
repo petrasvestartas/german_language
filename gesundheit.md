@@ -40,5 +40,6 @@
 - der Arm - ranka
 - die Hand - delnas
 - Was tut weh? - ka skauda?
+- der Hals - neck
 
 
