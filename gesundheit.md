@@ -41,5 +41,18 @@
 - die Hand - delnas
 - Was tut weh? - ka skauda?
 - der Hals - neck
+- Lied - song
+- ausfallen - fall off
+- beide - together
+- Hoffentlich - hopefully
+- Bekannten - pazystami
+- Husten - cough
+- salbe verwenden - tepti tepalu
+- Bauchschmerzen - galvos skausmas
+- Fieber - karsciavimas
+- Halsschmerzen - kaklo skausmai
+- Kopfschmerzen - galvos skausmai
+- Schnupfen - sloga
+- 
 
 
