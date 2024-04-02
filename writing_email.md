@@ -13,3 +13,9 @@
 - Mit freundlichen Grüssen.
 - (Name and Surname)
 
+## Mail titles
+-  der Absender - siuntejas
+-  der Betreff - tema
+-  der Empfänger - gavejas
+-  die Anrede - kreipinys
+-  der Gruss - pasveikinimas
