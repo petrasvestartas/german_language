@@ -64,3 +64,23 @@
 - endings with **-en**:
   -  die Sammlung - die Sammlungen - collection - collections
   -  die Wohnung - die Wohnungen - apartment - apartments
+
+## Wörter im Formular
+
+-  ein Formular ausfüllen - fill out a form
+-  etwas ankreuzen - check / tick off
+-  ein Formular unterschreiben - sign a form
+-  das Formular abgeben - hand in the form
+-  Angaben machen, z.B. das Alter angeben - provide details, e.g. state the age
+-  das Einzugsdatum - move-in date
+-  neue Wohnung - new apartment
+-  bisherige Wohnung - old apartment
+-  die Hauptwohnung - principal residence
+-  die Nebenwohnung - secondary residence
+-  der Famielienname - last name
+-  der Geburstname (ggf = gegebenenfalls) - birth name (if applicable)
+-  der Vorname - first name
+-  das Geschlecht: männlich / weiblich - gernder: male / female
+-  der Familienstand - marital status
+-  die Staatsangehörigkeit - citizenship
+-  berufstätig - in employment 
