@@ -19,3 +19,6 @@
 -  der Empfänger - gavejas
 -  die Anrede - kreipinys
 -  der Gruss - pasveikinimas
+-  ändern - pakeisti
+-  vereinbaren - susitarti
+-  absagen Termin - atsisakyti susitikimo
