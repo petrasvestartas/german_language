@@ -46,6 +46,17 @@
 - beide - together
 - Hoffentlich - hopefully
 - Bekannten - pazystami
+- Anmeldungen - kreipkites
+- möglich - galima
+- Kursleiter - kursu mokytoja
+- Alltags - kasdienybe
+- Tierkindern - jauni gyvuliai
+- Tiere - gyvuliai
+- Bauernhof - sodyba
+- beobachten - stebeti
+- Lauftreff - begimo susitikimas
+- Stadtteil - miesto dalies
+- gegen - pries e.g. stresa
 - Husten - cough
 - salbe verwenden - tepti tepalu
 - Bauchschmerzen - galvos skausmas
@@ -53,6 +64,11 @@
 - Halsschmerzen - kaklo skausmai
 - Kopfschmerzen - galvos skausmai
 - Schnupfen - sloga
+- Sachen - daigtai
+- Anzeige - seklbimas
+- alleinerziehend - viena auklejanti vaika
+- aufpassen auf - priziureti
+
 - 
 
 
