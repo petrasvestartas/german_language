@@ -60,6 +60,14 @@
   -  ihr sollt
   -  sie Sie sollen
 
+-  Sollen Präteritum
+  -  ich sollte
+  -  du solltest
+  -  er sie es sollte
+  -  wir sollten
+  -  ihr solltet
+  -  sie Sie sollten
+
 With **sollen** you usually ask for a request or order from someone else:
 
 -  Der Beamte sagt zu Katie: Kreuzen Sie hier Ihr Geschlecht an! Katie wiederholt: Was? Ich **soll** mein Geschlecht ankreuzen?
