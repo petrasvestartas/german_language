@@ -47,7 +47,30 @@
 - Dürfen
   -  ich darf
   -  du darfst
-  -  er sie sie darf
+  -  er sie es darf
   -  wir dürfen
   -  ihr dürft
   -  sie dürfen
+
+-  Sollen
+  -  ich soll
+  -  du sollst
+  -  er sie es soll
+  -  wir sollen
+  -  ihr sollt
+  -  sie Sie sollen
+
+With **sollen** you usually ask for a request or order from someone else:
+
+-  Der Beamte sagt zu Katie: Kreuzen Sie hier Ihr Geschlecht an! Katie wiederholt: Was? Ich **soll** mein Geschlecht ankreuzen?
+-  Dear Beamte sagt zu Pietro: Sie zahler jetzt 1000 Euro Bussgeld. Pietro erzählt Katie: Ich **soll** jetzt 1000 euro zahlen!
+
+You use **sollen** to make an offer or suggestion to someone:
+
+-  Der Beamte fragt: **Soll** ich Ihnen helfen?
+-  Bobbi fragt Katie: **Soll** ich zum Einwohnermeldeamt mitkommen?
+
+**Sollen** is also used when you want to ask someone for an advice:
+
+- Pietro fragt Katie: Was **soll** ich machen?
+- **Soll** ich dass Bussgeld zahlen?
