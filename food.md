@@ -61,11 +61,11 @@
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/18b329d1-1da2-4de2-9f83-6cb30fae0cc9)
 
-- grob würfeln - sta,mbiai supjaustyti
+- grob würfeln/schneiden - stambiai supjaustyti
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/e1b62a40-6cf9-4b71-a10a-f631492bae7c)
 
-- fein hacken - smulkiai supjaustyti
+- fein schneiden - smulkiai supjaustyti
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/4f30609c-3808-405f-8530-803237d67af6)
 
