@@ -129,3 +129,25 @@ The **weil-Satz** can also be used by itself if it is a reply and if the situati
 The **weil-Satz** can also be placed before the main clause. Then the main clause begins with the finitie verb because the subordinate clause takes the first position:
 - Sie gehen in den Park, weil sie ein Picknick machen wollen.
 - Weil sie ein Picknick machen wollen, gehen sie in den Park.
+
+## ein-
+
+Represents an already known indefinite person or object that is countable.
+
+-  Wo ist den **das Kochbuch**? In der Küche ist **eins**.
+-  Ich mache **eine Kartoffelsuppe**. Ich habe schon mal **eine** gegessen.
+
+
+- Nominativ Singular
+    -  Wo ist **ein Löffel**? Hier ist **einer**. (spoon)
+    -  Wo ist **eine Gabel**? Hier ist **eine** (fork)
+    -  Wo ist **ein Messer**? Hier ist **eins** (knife)
+
+- Akkusative Singular
+    - Haben wir **einen Löffel**? Ja, wir haben **einen**.
+    - Haben wir **eine Gabel**? Ja, wir haben **eine**.
+    - Haben wir **ein Messer**? Ja, wir haben **eins**.
+ 
+- The pronoun **ein-** changes its form to **welch-** in the plural:
+    -  Nominative: Wo sind denn **Löffel**? Hier sind **welche**.
+    -  Akkusative: Brauchen wir **Zwiebeln**? Ja, wir brauchen **welche**.
