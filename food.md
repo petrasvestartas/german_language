@@ -33,15 +33,15 @@
 ## Rezept "Kartoffelsuppe"
 
 -   Zutaten für 3 Personnen:
-  -  1.5 kg Kartoffeln - potatoes
-  -  2 Karotten - carrots
-  -  1 Zwiebeln
-  -  2 Bockwürste - tradicine german sausage is kiaulienos ar versienos
-  -  2 Esslöffel (EL) Sonnenblumenöl - Saukstas saulegrazu aliejaus
-  -  1.2 Liter (l) Gemüsebrühe - vegetable broth
-  -  Salz, Pfeffer - Salt, pepper
-  -  2 Teelöffel (TL) Majoran - majoranas (zalia zole)
-  -  0.5 Bund Petersilie - bunch parsley
+    -  1.5 kg Kartoffeln - potatoes
+    -  2 Karotten - carrots
+    -  1 Zwiebeln
+    -  2 Bockwürste - tradicine german sausage is kiaulienos ar versienos
+    -  2 Esslöffel (EL) Sonnenblumenöl - Saukstas saulegrazu aliejaus
+    -  1.2 Liter (l) Gemüsebrühe - vegetable broth
+    -  Salz, Pfeffer - Salt, pepper
+    -  2 Teelöffel (TL) Majoran - majoranas (zalia zole)
+    -  0.5 Bund Petersilie - bunch parsley
 
 -  Zubereitung - preparation
   -  Zwiebel schälen und würfeln - Nulupkite ir supjaustykite svogūną
