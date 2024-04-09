@@ -151,3 +151,23 @@ Represents an already known indefinite person or object that is countable.
 - The pronoun **ein-** changes its form to **welch-** in the plural:
     -  Nominative: Wo sind denn **Löffel**? Hier sind **welche**.
     -  Akkusative: Brauchen wir **Zwiebeln**? Ja, wir brauchen **welche**.
+
+## kein-
+
+Teh negative form of the indefinite pronoun **ein-** (a/one) is **kein-** (no/none):
+
+- Du hast doch **keine Kreditkarte!** Stimmt, ich habe **keine**.
+
+-  Nominative Singular:
+    -  Ist hier ein Geldautomat? Nein, hier ist **keiner**.
+    -  Ist hier eine Bank? Nein, hier ist **keine**.
+    -  Ist hier ein Portemonnaie? Nein, hier ist **keins**.
+
+- Akkusativ Singular:
+    -  Hast du einen 20-Euro-Schein? Nein, ich habe **keinen**.
+    -  Hast du eine Kreditkarte? Nein, ich have **keine**.
+    -  Hast du ein Portmonnaie? Nein, ich have **keins**.
+
+- Plural form **keine**
+    -  Nominative: Sind hier Geldautomat? Nein, hier sind **keine**.
+    -  Akkusative: Hast du Kreditkarten?  Nein, ich have **keine**.
