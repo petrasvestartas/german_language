@@ -19,3 +19,17 @@
 - grosszuggig - generous
 - reich - rich
 - arm - poor
+
+## Verbs
+- die Rechnung bezahlen - pay the check
+- zahlen - pay
+- zählen - count money
+- Geld leihen - lend money
+- jemandem Geld schulden - to somone money owe
+- Geld abheben - withdraw money
+- Geld ausgeben - spend money
+- Geld sparen - save money
+- Geld spenden - donate money
+- Geld verdieden - earn money
+- Geld verschwenden - waste money
+- Geld wechseln - change money
