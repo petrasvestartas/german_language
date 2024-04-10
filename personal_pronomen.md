@@ -65,3 +65,4 @@ The preposition **bei** (at/with) is used when you are **at person's place**. Th
     -  ein - einen
     -  der - den
     -  du - dich
+
