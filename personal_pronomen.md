@@ -52,3 +52,16 @@ The preposition **bei** (at/with) is used when you are **at person's place**. Th
   - Hallo Katie und Bobbi! Wie geht es **euch**? **Uns** geht es gut.
   - Guten Tag Herr Kraut! Wie geht es **Ihnen**? **Mir** geht es gut.
   - Guten Tag **Frau Stock und Herr Kraut**! Wie geht es **Ihnen**? **Uns** geht es gut. 
+
+### Reminder what is darive and akkusativ
+
+-  Der Dative
+    -  ein - einem
+    -  der/das - dem
+    -  die - der
+    -  du - dir
+ 
+- Der Akkusative
+    -  ein - einen
+    -  der - den
+    -  du - dich
