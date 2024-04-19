@@ -77,7 +77,7 @@
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/4adf4228-9431-41ae-9409-b13f7015c80f)
 
-- garnieren - papuoskite
+- garnieren/würzen - papuoskite
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/0aa94ade-2ed1-4152-acfb-4e891be46144)
 
