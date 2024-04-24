@@ -211,4 +211,4 @@ Teh negative form of the indefinite pronoun **ein-** (a/one) is **kein-** (no/no
  
 -  Dativ:
     -  Warst du in **allen** Filmen von Daniel Brühl?
-    -  Ja, ich war in **allen.
+    -  Ja, ich war in **allen**.
