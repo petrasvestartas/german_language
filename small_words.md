@@ -171,3 +171,44 @@ Teh negative form of the indefinite pronoun **ein-** (a/one) is **kein-** (no/no
 - Plural form **keine**
     -  Nominative: Sind hier Geldautomat? Nein, hier sind **keine**.
     -  Akkusative: Hast du Kreditkarten?  Nein, ich have **keine**.
+
+## jeder vs. alle
+
+**jede-** describes individual elements of an entire group: 
+-  Da ist für **jeden** etwas dabei.
+
+- Nominative:
+    -  **Jeder** Film ist wichtig (important).
+    -  **Jede** Szene ist spannen (thrilling).
+    -  **Jedes** Drehbuch (screenplay) ist interessant (interesting).
+
+ - Akkusativ:
+    -  Ich finde **jeden** Film wichtig.
+    -  Ich find **jede** Szene spannend.
+    -  Ich find **jedes** Drehbuch interessant-
+
+- Dativ
+    -  Mit **jedem** Film habe ich etwas gelernt.
+    -  Mit **jeder** Szene wird der Film spannender.
+    -  Mit **jedem** Drehbuch hat er Erfolg gehabt (has been successful).
+ 
+- As a replacement for a noun it stands alone and is also declined:
+    -  **Jeder** will die Hauptolle spielen.
+    -  Da ist für **jeden** etwas dabei.
+    -  Ich spreche mit **jedem**
+
+-  With the pronoun **alle** we mean the whole group. It is used in **plural**.
+    -  **Alle** finden die lustig.
+
+-  **Alle** can also appear as an article word or as a replacement for a noun:
+-  Nominativ:
+    -  **Alle** Menchen lieben Daniel Brühl.
+    -  **Alle** lieben Daniel Brühl.
+
+- Akkusativ:
+    -  Hast du **alle** Film mit Daniel Brühl gesehen?
+    -  Natürlich habe ich **alle** gesehen.
+ 
+-  Dativ:
+    -  Warst du in **allen** Filmen von Daniel Brühl?
+    -  Ja, ich war in **allen.
