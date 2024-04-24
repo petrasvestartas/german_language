@@ -185,7 +185,7 @@ Teh negative form of the indefinite pronoun **ein-** (a/one) is **kein-** (no/no
  - Akkusativ:
     -  Ich finde **jeden** Film wichtig.
     -  Ich find **jede** Szene spannend.
-    -  Ich find **jedes** Drehbuch interessant-
+    -  Ich find **jedes** Drehbuch interessant.
 
 - Dativ
     -  Mit **jedem** Film habe ich etwas gelernt.
