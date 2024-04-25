@@ -49,5 +49,3 @@
 - Das Museum ist von 10 bis 18 Uhr geöffnet. - The museum is open from 10 am to 6 pm.
 - Was kostet der Eintritt für das Konzert? - How much is the admission for the concert?
 - Der Eintritt kostet 20 Euro. - The entrance fee is 20 euros.
--  
--  
