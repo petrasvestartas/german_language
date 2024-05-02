@@ -212,3 +212,29 @@ Teh negative form of the indefinite pronoun **ein-** (a/one) is **kein-** (no/no
 -  Dativ:
     -  Warst du in **allen** Filmen von Daniel Brühl?
     -  Ja, ich war in **allen**.
+ 
+## Location - wohin - wo 
+
+- Accusative - Wohin und Dative - Wo
+- gegen - Er kommt heute gegen (pries) 8 Uhr zum Essen.
+- um - Er kommt heute um 8 Uhr zum Essen.
+- an - Wohin - Ich hänge das Bild die Wand. Wo - Das Bild hängt an der Wand.
+- auf - Wohin - Ich stelle das Glas steht auf dem Tisch. - Wo - Das Glas steht auf dem Tisch.
+- hinter - Wohin - Gehen Sie hinter das Haus! - Wo - Der Garten ist hinter dem Haus.
+- neben - Wohin - Fahren Sie den Wagen neben das Haus! - Wo - Die Garage ist neben dem Haus.
+- in - Wohin - Heute gehen wir ins Kino. - Wo - Die Kinder sind im Kino.
+- über - Wohin - Wir hängen die Lampe über den Tisch. - Wo - Die Lampe hängt über dem Tisch.
+- unter - Wohin - Ich gehe unter den Balkon. - Wo - Jetzt stehe ich unter dem Balkon.
+
+aus, bei, mit, nach, seit, von, zu gegenüber immer mit dem Dative:
+bei dem -> beim, zu dem -> zum, von dem -> vom, zu der -> zur.
+
+
+## Termporal
+
+-  an - Ich komme am Montag. Ich bin an Weihnachten zu Hause. Am Vormittag arbeite ich. Wochentage, Freiertage, Tageszeiten.
+-  in - In diesem Jahr kauft er ein Haus. Im Jahr 2005 kommt er wieder. Jahr, Monat, Woche, Jahreszahl, Vor Jahreszahlen, keine Präposition.
+-  vor - Vor dem Monat August kann ich nicht komment. Es ist Viertel vor 5 Uhr.
+-  zwichen - Ich komme zwichen 3 und 4 Uhr.
+-  an, in, vor, zwichen mit Dativ (termporal, Frage: wann?)
+
