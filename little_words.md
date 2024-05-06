@@ -242,18 +242,18 @@ bei dem -> beim, zu dem -> zum, von dem -> vom, zu der -> zur.
 
 - an/am
       -  die Wochentage oder das Wochenende
-          -  Am Montag kommt der Techniker.
-          -  Am Wochenende arbeite ich nicht.
+            -  Am Montag kommt der Techniker.
+            -  Am Wochenende arbeite ich nicht.
       -  die Taggeszeiten
-          -  Am Nachmittage gehe ich einkaufen.
-          -  Aber: In der Nacht.
+            -  Am Nachmittage gehe ich einkaufen.
+            -  Aber: In der Nacht.
       -  das Datum
           -  Bobbi hat am 25. Dezember Geburtstag.
 - in + Dativ
       -  die Monate
-          -  Im August feiert Katie Ihren Geburtstag.
+            -  Im August feiert Katie Ihren Geburtstag.
       -  die Jahreszeiten
-          -  Im Sommer machen wir ein Picknick.
+            -  Im Sommer machen wir ein Picknick.
       - ein Ereignis (event), from the present perspective lies in the future:
       - Der Techniker kommt in einer Woche.
 
