@@ -34,3 +34,30 @@
 
 -  **Kunde** Vielen Dank für Ihre Hilfe!
 -  **Kundenservice** Gern geschehen. Gerne. Viele Dank für Ihren Anruf! Auf Wiederhören!
+
+## der Termin(e)
+
+-    Können wir einen Termin mit dem Techniker vereibaren? - Could we arrange an appointment with the Techniker?
+-    Wir haben morgen einen freien Termin.
+-    Katie hat einen Friseurtermin.
+
+## einen Termin vereibaren / machen
+-    Wie wäre es mit morgen um 12 Uhr? - How about 12 o'clock tomorrow?
+-    Passt es Ihnen morgen um 12 Uhr? - Does tomorrow at 12 o'clock suit you?
+-    Geht es morgen um 12 Uhr? - Ist 12 o'clock possible tomorrow?
+-    Können Sie morgen um 12 Uhr? Can you make it tomorrow at 12 o'clock?
+
+## einen Termin bestätigen (confirm)
+-    Morgen um 12 Uhr haben wir Zeit.
+-    Morgen um 12 Uhr geht (klappt).
+-    Morgen um 12 Uhr pesst es uns.
+-    Morgen um 12 Uhr können wir.
+-    Morgen um 12 Uhr sind wir da.
+
+
+## einen Termin verschieben (postpone)
+-    Morgen um 12 Uhr hann ich nicht. Können wir den Termin verschieben?
+-    Ja, kein Problem! Wie wäre es am Montag um 10 Uhr.
+
+## einen Termin absagen (cancel)
+-    Ich kann nicht zum Friseur kommen. Ich möchte meinen Termin absage.
