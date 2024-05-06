@@ -240,15 +240,15 @@ bei dem -> beim, zu dem -> zum, von dem -> vom, zu der -> zur.
 
 ## Wann? - Point of time
 
-- an/am
-      -  die Wochentage oder das Wochenende
-            -  Am Montag kommt der Techniker.
-            -  Am Wochenende arbeite ich nicht.
-      -  die Taggeszeiten
-            -  Am Nachmittage gehe ich einkaufen.
-            -  Aber: In der Nacht.
-      -  das Datum
-          -  Bobbi hat am 25. Dezember Geburtstag.
+-  an/am
+  -  die Wochentage oder das Wochenende
+    -  Am Montag kommt der Techniker.
+    -  Am Wochenende arbeite ich nicht.
+  -  die Taggeszeiten
+    -  Am Nachmittage gehe ich einkaufen.
+    -  Aber: In der Nacht.
+  -  das Datum
+    -  Bobbi hat am 25. Dezember Geburtstag.
 - in + Dativ
       -  die Monate
             -  Im August feiert Katie Ihren Geburtstag.
