@@ -238,3 +238,60 @@ bei dem -> beim, zu dem -> zum, von dem -> vom, zu der -> zur.
 -  zwichen - Ich komme zwichen 3 und 4 Uhr.
 -  an, in, vor, zwichen mit Dativ (termporal, Frage: wann?)
 
+## Wann? - Point of time
+
+- an/am
+      -  die Wochentage oder das Wochenende
+          -  Am Montag kommt der Techniker.
+          -  Am Wochenende arbeite ich nicht.
+      -  die Taggeszeiten
+          -  Am Nachmittage gehe ich einkaufen.
+          -  Aber: In der Nacht.
+      -  das Datum
+          -  Bobbi hat am 25. Dezember Geburtstag.
+- in + Dativ
+      -  die Monate
+          -  Im August feiert Katie Ihren Geburtstag.
+      -  die Jahreszeiten
+          -  Im Sommer machen wir ein Picknick.
+      - ein Ereignis (event), from the present perspective lies in the future:
+      - Der Techniker kommt in einer Woche.
+
+
+-  nach + Dativ - indicates what happened after an even
+      -  Nach dem Frühstück gehe ich zur Arbeit.
+ 
+-  vor + Dativ - indicates what happened at some point in the past or that one action happens before another
+      -  Katie ist vor 3 Monaten nach Berlin gekommen.
+      -  Vor der Arbeit frühstücke ich.
+ 
+- um + Uhrzeit
+      -  Um 7 Uhr stehe ich immer auf.
+
+-  Ab wann?
+      - ab + Dativ - from
+          -  Ab morgen mache ich Sport.
+       
+-  Some itme expressions can also be used without preposition. These are specifications of time that are in accusative..
+    -  Jahreszahlen
+        -  Wann habt ihr geheiratet? 2015 habe wir geheiratet.
+    -  Expressions iwth "jede" "diese" and "nächste"
+        -  Jeden Montag gehe ich schwimmen.
+        -  Diesen Monat esse ich keine Schokolade.
+        -  Nächsten Monat esse ich wieder Schokolade.
+     
+- Period of time
+    -   Für wie lange?
+          - für + Accusative - describes a certain period of time
+              -  Für zwei Studen bin ich beim Friseur.
+    -  Seit wann?
+        -   seit + Dativ - expresses that an even began in the past and has not yet ended
+           -  Wir lernen seit einem Monat Deutsch.
+    -  Von wann bis wann?
+        -   von ... bis + Dativ - specifies a time period that has a beginning and ending:
+           -  Der Kurs geht von Februar bis April.
+           -  Vom 3 bis 10 März bin ich Dänemark.
+
+
+
+
