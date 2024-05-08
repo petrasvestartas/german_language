@@ -21,4 +21,11 @@
 - singen: Katie kann gut singen.
 - die Musiker: Hast du einen Lieblingsmusiker? - Do you have a favorite musician?
 - die Bands - the band
+
+## Bandmitglieder
 - das Bandmitglied(er) - the band members: "Die Ärzte" haben drei Bandmitglieder. - the band members: "Die Ärzte haben drei Bandmitglieder".
+- der Bassist(en) - bossist
+- der Schlagzeuger - drummer
+- der Sänger - singer
+- der Gitarrist - gitarist
+- der Saxofonist - saxofonist
