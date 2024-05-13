@@ -293,5 +293,46 @@ bei dem -> beim, zu dem -> zum, von dem -> vom, zu der -> zur.
            -  Vom 3 bis 10 März bin ich Dänemark.
 
 
+##  mal
 
+-  The model particle "mal" is often used in requests and appeals and makes them more friendly:
+    -  Zeig **mal** die Tickets! - Show the tickets!
+    -  Guck **mal**, ob die echt sind! - See if they are real!
+    -  Kommen Sie **mal** rauf! -  Come up!
+    -  Willst du mal sehen?
+    -  Können Sie mir mal helfen?
 
+## los
+
+-  Los geht's - Let' start.
+-  Das Konzert geht gleich los. - The konzert will start in a moment.
+-  Los! - Come on!
+-  **los** + sein:
+    -  Was ist den hier los? - What is happening here?
+    -  Auf dem Konzert is viel/wenig los. - There are many/few people at the concert.
+    -  Was is los mit dit? - What's wrong with you?
+    -  Mit dir ist nichts los. - Nothing is going on with you.
+    -  Ich bin meine Arbeite los. - I lost my job.
+-  **los-** as a prefix expressed the start in conncetion with vebrs movements:
+    -  losgehen: Wir gehen jetzt los. - leave (walking)
+    -  losfahren: Wann fahrt ihr heute lost? - leave (by car, train, etc)
+    -  losfliegen: Das Fleugzeug fliegt los. - leave (plane)
+    -  Omit: Ich muss los. - I have to go.
+    -  Omit: Wollen wir los? -  Shall we go?
+    -  Omit: Gogo is schon los. - Gogo already left.
+-  Other verbs with **los-**:
+    -  loswerden - get rid of
+        -  etwas verfkaufen: Er möchte seine Tickets loswerden. = Er möchte seine Tickets verkaufen.
+        -  Sich von jemandem order etwas befreien: Viola möchte Gogo loswerden.
+    -  loskommen - get away
+        -  Ich hatte noch so viel Arbeit, dass ich nicht eher losgekommen bin (could get away sooner). Gogo kommt nicht von Viola los (Gogo can't get away from Viola).
+    -  loslassen - let go
+        -  nicht mehr festhalten: Lass die Tickets los! Lass mich los! Let go of the tikets! Let me go.
+-  **-los** as an adjective ending
+    -  The ending **-los** expresses that one lacks something:
+        -  Er ist humorlos. - He is humorless.
+        -  Wir sind arbeitslos. - We are jobless.
+-  Noun **Los**
+    -  fate/lottery ticket:
+        -  ein Stück Papier, mit dem man etwas gewinnen kann: Ich kaufe ein Los für die Lotterie.
+        -  das Schicksal: Er hatte ein schweres Los.
