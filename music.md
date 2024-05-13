@@ -29,3 +29,17 @@
 - der Sänger - singer
 - der Gitarrist - gitarist
 - der Saxofonist - saxofonist
+
+## Das Konzert
+
+das Konzert(e): Sie gehen auf ein / zu einem Konzert.
+die Konzerthalle(n): Die Band spielt in einer Konzerthalle.
+die Konzertkarte(n) = das Ticket = die Eintrittskarte: Die Eintrittskarten sind ausverkauft - the tickets are sold out.
+der Entritt(e) - Der Eintritt kostet 70 Eur. - the admision
+der Entrittspreis(e) - the entrance fee
+der Vorverkauf(äufe) - Im Vorverkauf gibt es keine Karten mehr. - the pre-sale
+die Abendkasse(n) - Sie wolen die Tickets an der Abenkasse kaufe - the box office
+der Auftritt(e): Die Band hat viele Auftritte - the gig 
+die Bühne(n): Die Band kommt bald auf die Bühne - the stage
+das Publikum(a): Das Publikum is begeistert - the audience is excited
+
