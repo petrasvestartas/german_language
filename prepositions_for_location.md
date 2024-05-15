@@ -177,4 +177,13 @@ The preposition "von" indicates a starting point of a movement (origin). It alwa
 Local adverbs can describe a position or direction:
 
 -  **Wo** sind Katie un Gogo?
-    -  Sie sind vor der Halle. = Sie sind **draussen** (outside). 
+    -  Sie sind vor der Halle. = Sie sind **draussen** (outside).
+    -  Sie sind **drinnen** (inside).
+    -  Er is **draussen** (outside).
+    -  Sie wohnt **oben** (upstairs).
+    -  Sie sind **unten** (downstairs).
+-  **Wohin** gehen sie später?
+    -  Sie gehen in die Halle. Sie gehen **nach drinnen** (inside).
+
+![image](https://github.com/petrasvestartas/german_language/assets/18013985/faa6a24e-0fb6-4754-ba85-7ff69f696632)
+
