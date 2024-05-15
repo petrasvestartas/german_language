@@ -177,4 +177,4 @@ The preposition "von" indicates a starting point of a movement (origin). It alwa
 Local adverbs can describe a position or direction:
 
 -  **Wo** sind Katie un Gogo?
-  -  Sie sind vor der Halle. = Sie sind **draussen** (outside). 
+    -  Sie sind vor der Halle. = Sie sind **draussen** (outside). 
