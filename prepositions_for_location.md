@@ -182,8 +182,25 @@ Local adverbs can describe a position or direction:
     -  Er is **draussen** (outside).
     -  Sie wohnt **oben** (upstairs).
     -  Sie sind **unten** (downstairs).
--  **Wohin** gehen sie später?
-    -  Sie gehen in die Halle. Sie gehen **nach drinnen** (inside).
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/faa6a24e-0fb6-4754-ba85-7ff69f696632)
 
+-  **Wohin** gehen sie später?
+    -  Sie gehen in die Halle. Sie gehen **nach drinnen** (inside).
+    -  Katie und Gogo gehen **nach draussen**.
+    -  Sie gehen **nach drinnen**.
+    -  Sie gehen **nach oben**.
+    -  Sie gehen **nach unten**.
+
+![image](https://github.com/petrasvestartas/german_language/assets/18013985/c26e0e7b-14a8-4242-9117-0aea21e5ac11)
+
+- **raus, rein, rauf, runter**:
+    -  Katie und Gogo gehen **nach draussen** . = Sie gehen **raus** (rausgehen).
+    -  Sie gehen **nach drinnen** . = Sie gehen **rein** (reingehen).
+    -  Sie gehen **nach oben** . = Sie gehen **rauf** (raufgehen).
+    -  Sie gehen **nach unten** . = Sie gehen **runter** (runtergehen).
+    -  Er bringt den Müll aus dem Haus. = Er bringt den Müll **raus** (rausbringen).
+    -  Wir fahren in die Garage. = Wir fahren **rein** (reinfahren).
+    -  Du kletterst auf den Berg. = Du kletterst **rauf** (raufklettern) - climp up.
+    -  Ich renne in den Keller. = Ich renne **runter** (runterrennen).
+    -  
