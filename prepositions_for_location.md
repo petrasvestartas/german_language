@@ -171,3 +171,10 @@ The preposition "von" indicates a starting point of a movement (origin). It alwa
 -  Wir kommen vom Sport.
 -  Sie kommen von einem Picknick.
 -  Ich komme von der Arbeit.
+
+## Local adverbs
+
+Local adverbs can describe a position or direction:
+
+-  **Wo** sind Katie un Gogo?
+  -  Sie sind vor der Halle. = Sie sind **draussen** (outside). 
