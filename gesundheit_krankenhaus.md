@@ -80,7 +80,7 @@
 -  der Patient - patient
 -  der Besucher - visitor
 -  der Artz - doctor
--  der Krankenwage - ambulance
+-  der Krankenwagen - ambulance
 -  der Unfall (älle): Katie hatte einen Unfall. - the accident
 -  der Notfall (älle): Es gibt einen Notfall. - the emergency
 -  die Psychiatrie(n) - the psychiatry
