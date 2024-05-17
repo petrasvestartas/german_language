@@ -203,4 +203,18 @@ Local adverbs can describe a position or direction:
     -  Wir fahren in die Garage. = Wir fahren **rein** (reinfahren).
     -  Du kletterst auf den Berg. = Du kletterst **rauf** (raufklettern) - climp up.
     -  Ich renne in den Keller. = Ich renne **runter** (runterrennen).
-    -  
+
+-  **an .. vorbei, bis zu, gegenüber**
+    -  **an .. borbei** move past something:
+        -  Gehen Sie **an** dem Wartebereich **vorbei**.
+        -  Fahren Sie **an** der Apotheke **vorbei**.
+        -  Er soll **am** Wartebereich **vorbeigehen**.
+        -  Er soll an der Apotheke **vorbeifahren**.
+    -  **bis zu** indicates end point:
+        -  Gehen Sie **bis zu** der Psychiatrie!
+        -  Fahren Sie **bis zu** dem Krankenhaus!
+    -  **gegenüber** + dative - opposite
+        -  Das Zimmer is **gegenüber** der Psychiatrie.
+        -  Eine Apotheke is **gegenüber** dem Krankenhaus.
+        -  Grossbritainnien liegt **gegenüber von** Frankreich. (countries no article use von)
+        -  Das Zimmer is **gegenüber von** der Psychiatrie. (spoken) 
