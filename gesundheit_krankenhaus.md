@@ -84,8 +84,7 @@
 -  der Unfall (älle): Katie hatte einen Unfall. - the accident
 -  der Notfall (älle): Es gibt einen Notfall. - the emergency
 -  die Psychiatrie(n) - the psychiatry
--  der Sanitäter - the paramedic
--  
+-  der Sanitäter - the paramedic  
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/68745711-4e24-4d00-8bcd-4a362b54aaef)
 
