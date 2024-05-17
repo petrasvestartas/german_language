@@ -69,6 +69,24 @@
 - alleinerziehend - viena auklejanti vaika
 - aufpassen auf - priziureti
 
-- 
+## Im Krankenhaus
+-  der Wartebereich - waiting area
+-  die Notrufnummer: Bei einem Notfall wählt man die Notrufnummer 122 - emergency number
+-  die Nautaufnahme - emergency room
+-  das Krankenhaus - hospital
+-  die Krankeschwester/pfleger - nurse
+-  das Krankenhausbett - hospital bed
+-  das Krankenzimmer - sickroom
+-  der Patient - patient
+-  der Besucher - visitor
+-  der Artz - doctor
+-  der Krankenwage - ambulance
+-  der Unfall (älle): Katie hatte einen Unfall. - the accident
+-  der Notfall (älle): Es gibt einen Notfall. - the emergency
+-  die Psychiatrie(n) - the psychiatry
+-  der Sanitäter - the paramedic
+-  
+
+![image](https://github.com/petrasvestartas/german_language/assets/18013985/68745711-4e24-4d00-8bcd-4a362b54aaef)
 
 
