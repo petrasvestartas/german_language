@@ -205,7 +205,7 @@ Local adverbs can describe a position or direction:
     -  Ich renne in den Keller. = Ich renne **runter** (runterrennen).
 
 -  **an .. vorbei, bis zu, gegenüber**
-    -  **an .. borbei** move past something:
+    -  **an .. vorbei** move past something:
         -  Gehen Sie **an** dem Wartebereich **vorbei**.
         -  Fahren Sie **an** der Apotheke **vorbei**.
         -  Er soll **am** Wartebereich **vorbeigehen**.
