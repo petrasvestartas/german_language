@@ -1,5 +1,8 @@
 # Gesundheit Krankheit
 
+
+
+
 - die Notaufnahme - emergency department
 - der Wartebereich - waiting area
 - wehun - taip skaudeti
@@ -68,6 +71,8 @@
 - Anzeige - seklbimas
 - alleinerziehend - viena auklejanti vaika
 - aufpassen auf - priziureti
+
+![image](https://github.com/petrasvestartas/german_language/assets/18013985/2d55b821-094d-4015-9ebb-814bcb684c5e)
 
 ## Im Krankenhaus
 -  der Wartebereich - waiting area
