@@ -9,7 +9,7 @@
 - du arme - wargsele
 - Krankenhaus-Notaufnahme - Hospital emergency room
 - Unfall - Accident
-- hinsetzen - sit dow
+- hinsetzen - sit down
 - Gib her - duok sen
 - schlimm - blogai
 - selbst - pati
@@ -35,9 +35,10 @@
 - der Bauch(äuche) - pilvas
 - das Bein(e) - koja
 - der Fuss(e) - peda
+- der Haut - skin
 - die Haare - plaukai
 - der Kopf(Köpfe) - galva
-- das Ohr - ausis
+- das Ohr(en) - ausis
 - der Hals(älse) - kaklas
 - der Rücken - nugara
 - der Finger - pirstas
@@ -67,10 +68,8 @@
 - gegen - pries e.g. stresa
 - Husten - cough
 - salbe verwenden - tepti tepalu
-- Bauchschmerzen - galvos skausmas
+
 - Fieber - karsciavimas
-- Halsschmerzen - kaklo skausmai
-- Kopfschmerzen - galvos skausmai
 - Schnupfen - sloga
 - Sachen - daigtai
 - Anzeige - seklbimas
@@ -111,4 +110,34 @@
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/68745711-4e24-4d00-8bcd-4a362b54aaef)
 
+## Schmerz-Wörter
 
+-  der Schmerz(en) - pain
+-  Bauchschmerzen - stomachache
+-  Kopfschmerzen - headache
+-  Rückenschmerzen - back pain
+-  Ohrenschmerzen - earache
+-  Ich habe Schmerzen an der Hand.
+-  Ich habe Schmerzen im Fuss / im Bein.
+-  Meine Hand scherzt. / Meine Hand tut weh.
+-  Mein Fuss/Bein schmerzt. / Mein Fuss / Bein tut weh.
+
+## Wehtun
+
+- wehtun - ache / hurt
+- **Tut** Ihnen etwas **weh**? Ja, mein Kopf **tut weh**.
+- Mein Kopf **tut** sehr **weh**.
+
+This werb has a subject and a dative object:
+-  Der Kopf tut **mir** weh.
+-  Die Ohren tun **mir** weh.
+-  **Mir** tut der Kopf weh.
+-  **Mir** tun die Ohren weh.
+
+Conjugation tun:
+-  ich tue
+-  du tust
+-  er/sie/est tut
+-  wir tun
+-  ihr tut
+-  sie/Sie tun
