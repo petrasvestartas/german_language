@@ -1,8 +1,8 @@
 # Gesundheit Krankheit
 
-
-
-
+- der Mensch(en) - human being / person
+- der Körper - body
+- das Körperteil(e) - the body part
 - die Notaufnahme - emergency department
 - der Wartebereich - waiting area
 - wehun - taip skaudeti
@@ -27,23 +27,28 @@
 - hoch - aukstyn
 - Kühlen - saldyti
 - schrecklich - baisiai
-- das Auge - akis
-- die Nase - nosis
-- der Mund - burna
+- das Gesicht(er) - face
+- das Auge(n) - akis
+- die Nase(n) - nosis
+- der Mund(ünder) - burna
 - die Brust - krutine
-- der Bauch - pilvas
-- das Bein - koja
-- der Fuss - peda
+- der Bauch(äuche) - pilvas
+- das Bein(e) - koja
+- der Fuss(e) - peda
 - die Haare - plaukai
-- der Kopf - galva
+- der Kopf(Köpfe) - galva
 - das Ohr - ausis
-- der Hals - kaklas
+- der Hals(älse) - kaklas
 - der Rücken - nugara
 - der Finger - pirstas
-- der Arm - ranka
-- die Hand - delnas
+- die Brust(üste) - breast
+- der Hintern / der Po(s) - back / but
+- der Arm(e) - ranka
+- die Hand(ände) - delnas
 - Was tut weh? - ka skauda?
 - der Hals - neck
+- der Zahn(ähne) - tooth
+- der Zeh(en) - toe
 - Lied - song
 - ausfallen - fall off
 - beide - together
@@ -73,6 +78,19 @@
 - aufpassen auf - priziureti
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/2d55b821-094d-4015-9ebb-814bcb684c5e)
+
+# Das Organ / die Organe
+
+- die Lunge(n) - lungs
+- das Gehim(e) - brain
+- das Herz(en) - heart
+- der Magen(ägen) - stomach
+- der Darm(ärme) - storoji zana
+- die Niere(n) - kidney
+- die Leber(n) - liver
+
+![image](https://github.com/petrasvestartas/german_language/assets/18013985/f409febb-b844-4627-a083-d794f8817b6f)
+
 
 ## Im Krankenhaus
 -  der Wartebereich - waiting area
