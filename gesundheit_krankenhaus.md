@@ -148,7 +148,7 @@ Conjugation tun:
 -  sich verletzen: Sie hat sich am Kopf verletzt - to injure
 -  unverletzt sein: Ihr ist nichts passiert. Sie ist unverletzt. - to be unharmed/uninjured
 -  liecht/schwer verletzt sein: Sie ist nur leicht verletzt. / Sie ist schwer verletzt. - to be slighlty/seriously injured
--  bewusstlos sein: Katie war bewusstlos. - unconscius
+-  bewusstlos sein: Katie war bewusstlos. - unconscious
 -  die Gehirnerschütterung(en): Sie hat eine Gehirnerschütterung. - concusion
 -  das Blut: Sie verliert Blut - blood
 -  die Wunde(en): Sie hat eine Wunde am Kopf. - wound
@@ -161,3 +161,20 @@ Conjugation tun:
 -  gesund: Ich werde bald wieder gesund. - to be healthy
 -  die Gesundheit: Meine Gesundheit ist mir wichtig. - health
 -  Gute Besserung! - Get well soon!
+
+## die Pantienten versorgen (take care)
+
+- utersuchen: Die Ärztin untersucht eine Patientin. - examine
+- abhören: Die Ärztin hört das Baby ab. - listen to the chest
+- röntgen: Der Arzt röntgt seinen Körper - x-ray
+- der Blutdruck: Der Arzt misst den Blutdruck. - blood preasure
+- verbinden: Der Arzt verbindet den Fuss. - bandage
+- der Verband(ände): Der Arzt wechselt den Verband. - bandage
+- operieren: Si mussten Katie nicht operieren - to operate on
+- das Schmerzmittel: Die Krankenschwester gibt Katie ein Schmerzmittel. - painkiller
+- das Medikament(e): Die Patientin bekommt Medikament. Sie nimmt Medikamente. - medication
+- die Tablette(n): Die Patientin nimmt eine Tablette. - pill
+- die Spritze(n): Die Krankenschwester gibt der Patientin eine Spritze. Die Patientin bekommt eine Spritze. - injection
+- das Pflaster: Die Krankenschwester klebt (stick) ein Pflaster auf die Wunde. - band-aid
+
+![image](https://github.com/petrasvestartas/german_language/assets/18013985/267a937e-5735-446b-8d5e-67563dc00667)
