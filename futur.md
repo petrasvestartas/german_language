@@ -21,6 +21,13 @@ We can also use the future tense, when we want to express something that happens
  
 ## Formation
 
+-    ich werde
+-    du wirst
+-    er/sie/es wird
+-    wir werden
+-    ihr werdet
+-    Sie werden
+
 The future tense 1 is being formed with the auxiliary verb **werden** (present tense) + infinite:
 -  Ich **werde** erstmall nicht mehr **tanzen**.
 -  Du **wirst** mir sofort das Geld **zurückgeben**!
