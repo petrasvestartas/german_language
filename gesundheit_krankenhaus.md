@@ -141,3 +141,23 @@ Conjugation tun:
 -  wir tun
 -  ihr tut
 -  sie/Sie tun
+
+## über Verletzungen(injuries) sprechen
+
+-  die Verletzung(en): Sie hat eine Verletzung am Kopf. - injury
+-  sich verletzen: Sie hat sich am Kopf verletzt - to injure
+-  unverletzt sein: Ihr ist nichts passiert. Sie ist unverletzt. - to be unharmed/uninjured
+-  liecht/schwer verletzt sein: Sie ist nur leicht verletzt. / Sie ist schwer verletzt. - to be slighlty/seriously injured
+-  bewusstlos sein: Katie war bewusstlos. - unconscius
+-  die Gehirnerschütterung(en): Sie hat eine Gehirnerschütterung. - concusion
+-  das Blut: Sie verliert Blut - blood
+-  die Wunde(en): Sie hat eine Wunde am Kopf. - wound
+-  der blaue Fleck: Sie wird einen blauen Fleck bekommen. - bruise
+-  sich brenchen: Ich breche mir den Arm. / Der Arm ist gebrochen. - to break
+-  sich prellen: Ich prelle mir den Fuss. / Der Fuss is geprellt. - to bruise
+-  sich verstauchen: Ich verstauche mir den Fuss. // Der Fuss ist verstaucht. - heal
+-  krank: Ich bin krank. - to be sick/ill
+-  die Krankheit: Die Krankheit ist nicht so schlimm - the desease.
+-  gesund: Ich werde bald wieder gesund. - to be healthy
+-  die Gesundheit: Meine Gesundheit ist mir wichtig. - health
+-  Gute Besserung! - Get well soon!
