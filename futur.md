@@ -27,3 +27,20 @@ The future tense 1 is being formed with the auxiliary verb **werden** (present t
 -  Die Krankenschwester **wird** Ihren Blutdruck **messen** (meaure).
 -  Wir **werden** jeden Tag Deutsch **lernen**!
 -  Frau Koch, Sie **werden** da eine blauen Fleck (bruise) **bekommen**.
+
+## Werden by itself
+
+**Werden** can also be used as a main verb: Ich **werde** gesund.
+
+## Main Sentence / W-Question
+
+-  Ich **werde** erstmal (dabar) nicht mehr **tanzen**.
+-  Wann **werden** Sie meine Vabände **wechseln**?
+
+## Je/Nein-Frage
+
+- **Wirst** du mir das Geld **zurückgeben**?
+
+## Nebensatz (subordinate clause)
+
+- Ich kann dich nicht in Krankenhaus besuchen, will ich nach Hamburg **fahren werde**.
