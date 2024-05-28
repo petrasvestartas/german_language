@@ -32,3 +32,38 @@ An adjective can also stand before noun. Then it adapts to the noun and gets and
 
 -  Das ist eine **leckere** Tafel Schokolade.
 -  Das ist ein **interessantes** Buch.
+
+How the adjective is declined depends on:
+
+-  which article (indefinite article, negative article, possessive article, definite article or zero article) stands before the noun
+-  whether the noun is singular or plural
+-  whether the noun is masculine, feminine or neutral
+-  which case (nominative, accusative, or dative) it is in
+
+Indefinite article:
+-  Nominative - Singular
+    -  **der** Das ist **ein** interessant**er** Ratgeber.
+    -  **die** Das ist **eine** lecker**e** Tafel Schokolade.
+    -  **das** Das ist **ein** interessant**es** Buch.
+    -  **die** Das sind interessant**e** Bücher.
+-  Akkusative - Singular
+    -  **den** Sie liest **einen** interessant**en** Ratgeber.
+    -  **die** Sie isst **eine** lecker**e** Tafel Schokolade.
+    -  **das** Sie liest **ein** interessant**es** Buch.
+    -  **die** Sie lesen interessant**e** Bücher.
+-  Irregular:
+    -  teuer/sauer
+        -  ein **teuer** Ratgeber
+        -  eine **teure** Zeitung
+        -  ein **teures** Buch
+        -  **teure** Bücher
+    -  dunkel/sensibel/flexibel
+        -  ein **dunkler** Flur
+        -  eine **dunkle** Wohnung
+        -  ein **dunkles** Zimmer
+        -  **dunkle** Wohnungen
+    -  hoch
+        -  ein **hoher** Baum
+        -  eine **hohe** Stirn (forehead)
+        -  ein **hohes** Gebäude
+        -  **hohe** Gebäaude
