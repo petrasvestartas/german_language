@@ -20,3 +20,15 @@
 -  der Schmutz - schmutzig - dir - dirty
 -  der Fleiss - fleissig - hard-working
 -  die Angst - ängstlich - anxiety - anxious
+
+## Change of Adjcetives
+
+Adjectives describe characteristics of persons or things. If the adjective is behind the noun, it does not change:
+
+- Die Tafel Schokolade is **lecker**.
+- Das Buch ist **interessant**.
+
+An adjective can also stand before noun. Then it adapts to the noun and gets and ending:
+
+-  Das ist eine **leckere** Tafel Schokolade.
+-  Das ist ein **interessantes** Buch.
