@@ -67,3 +67,17 @@ Indefinite article:
         -  eine **hohe** Stirn (forehead)
         -  ein **hohes** Gebäude
         -  **hohe** Gebäaude
+-  Negative and possesive articles are the same as  indefinite arcticle:
+    -   Das ist **ein** interessant**er** Ratgeber (guidebook).
+    -   Das ist **kein** interessant**er** Ratgeber.
+    -   Das ist **mein** interessant**er** Ratgeber.
+-  Nominativ - Singular
+    -   **der - er** - Das ist **kein/mein** interessant**er** Ratgeber.
+    -   **die - e** - Das ist **keine/meine** richtig**e** Ratte.
+    -   **das - es** - Das ist **kein/mein** interesant**es** Bust.
+    -   **plural get -en instead of -e** - Das sind **keine/meine** alt**en** Bücher.
+-  Akkusative - Singular
+    -   **der - en** - Ich lese **keinen/meinen** interessant**en** Ratgeben.
+    -   **die - e** - Ich lese **keine/meine** neu**e** Zeitung.
+    -   **das - es** - Ich lese **kein/mein** interessant**es** Buch
+    -   **plural get -en instead of -e** - Ich mag **keine/meine** alt**en** Bücher.
