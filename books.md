@@ -20,3 +20,22 @@
 -  die Zeitschrift(en) - the magazine
 
 ![image](https://github.com/petrasvestartas/german_language/assets/18013985/a8b001a4-5923-4362-821e-3aed51c27c8e)
+
+## Rund ums Buch - all about the book
+
+die Buchhandlung(en) / der Buchladen(äden) - the bookshop
+die Bibliothek(en) - the library
+die Literatur(en) - the literature
+die Leser - the reader
+der Autor(en) - the author
+der Schriftsteller - the writer
+der Dichter - poet
+der Verlag - the publisher
+die Leseratte(n) - the reading rat = bookworm
+der Bücherwurm(er) - the bookworm
+der Buchtitel - the book title
+das Thema(en) - the topic
+die Geschichte(n) - the story
+die Seite(n) - page
+
+![image](https://github.com/petrasvestartas/german_language/assets/18013985/a0f16988-c343-4a46-94e9-96afb6a81d84)
