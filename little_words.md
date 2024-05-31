@@ -336,3 +336,14 @@ bei dem -> beim, zu dem -> zum, von dem -> vom, zu der -> zur.
     -  fate/lottery ticket:
         -  ein Stück Papier, mit dem man etwas gewinnen kann: Ich kaufe ein Los für die Lotterie.
         -  das Schicksal: Er hatte ein schweres Los.
+
+## dass
+
+There are many verbs with which we express out personal attitude: **glauben, denken, finden, hoffen**. The verbs are often followed by a subordinate clause with the conjuction **dass**. If **dass** is not used the the verb come in front instead of at the back.
+
+-  Ich **dachte**, **dass** du studieren **musst**.
+-  I **dachte**, du **musst** studieren.
+-  Ich **denke**, **dass** du recht **hast**. Ich **denke**, du **hast** recht.
+-  Ich **finde**, **dass** du gut Deutsch **sprichst**. Ich **finde**, du **sprichst** gut Deutsch.
+-  Ich **hoffe**, **dass** du bald nach Hause **kommst**. Ich **hoffe**, du **kommst** bald nach Hause.
+-  
