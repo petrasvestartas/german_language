@@ -1,0 +1,23 @@
+# Reisen & Fliegen (Traveling & flying)
+
+-  packen: Marie packt ihre Koffer. - to pack.
+-  einpacken/auspacken: Sie packt ihre Kleidung ein. / In Berlin packt sie ihren Koffer aus. - to pack (in) / unpack
+-  fliegen: Marie fliegt nact Deutschland. - to fly
+-  der Flug(üge): Der FLug nach Deutschland ist land. - flight.
+-  buchen: Matie hat einen Flug gebucht. - to book
+-  stornieren: Sie musste den Flug stornieren. - to cancel.
+-  verpassen: Der Mann hat seinen Flug verpasst. - to miss.
+-  das Flugticket(s): Sie hat schnell ein Flugticket gekauft. - the plane ticket.
+-  die Fluggesellschaft(en): Die Fluggesellschaft(en): Die Fluggesellschaft heisst Lufthansa. - the airline.
+-  abfliegen: Marie fliegt in Sydney ab. - to depart / fly out of.
+-  der Abflug: Der Abflug ist um 14 Uhr. - the daparture.
+-  losfliegen: Marie fliegt gleich los. - to fly away.
+-  abheben: Das Flugzeug hebt ab. - to take off.
+-  der Direktflug(üge): Sie hatte einen Direktflug nach Berlin. - the direct flight.
+-  der Passagier(e) / der Fluggast(äste): Die Passagiere sind an Bord. - the passenger.
+-  der Pilot(en): Der Pilot fliegt das Flugzeug - the pilot.
+-  der Flugbegleiter(innen(en)): Der Flugbegleiter betrut die Passagiere. - flight attendant
+-  der Sitzplatz(ätze): Ich habe einen Sitzplatz am Fenster. - seat.
+-  landen: Das Fleugzeug landet pünktlich in Berlin. - to land.
+-  ankommen: Marie kommt um 12 Uhr an. - to arrive.
+-  die Ankunft: Die Ankunft ist um 12 Uhr. - the arrival.
