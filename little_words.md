@@ -346,4 +346,3 @@ There are many verbs with which we express out personal attitude: **glauben, den
 -  Ich **denke**, **dass** du recht **hast**. Ich **denke**, du **hast** recht.
 -  Ich **finde**, **dass** du gut Deutsch **sprichst**. Ich **finde**, du **sprichst** gut Deutsch.
 -  Ich **hoffe**, **dass** du bald nach Hause **kommst**. Ich **hoffe**, du **kommst** bald nach Hause.
--  
