@@ -81,3 +81,23 @@ Indefinite article:
     -   **die - e** - Ich lese **keine/meine** neu**e** Zeitung.
     -   **das - es** - Ich lese **kein/mein** interessant**es** Buch
     -   **plural get -en instead of -e** - Ich mag **keine/meine** alt**en** Bücher.
+
+## Adjective changes: indefinite article, negative aricle and possessive article in the dative
+
+In the **dative** the **adjective** gets the ending **-en** after the indefinite, negative and possessive articles.
+
+-    Indefinite article
+        -    Sie hatte einen Fensterplatz mit **einem** schön**en** Ausblick.
+        -    Sie fliegt mit **einer** klein**en** Tasche.
+        -    Sie telefoniert mit **einem** neu**en** Tasche.
+        -    Katie hat eine Schwester mit grün**en** Augen.
+-    Negative article
+        -    Sie hatte einen Fensterplatz mit **keinem** schön**en** Ausblick.
+        -    Sie fliegt mit **keiner** klein**en** Tasche.
+        -    Sie teleforniert mit **keinem** neu**en** Telefon.
+        -    Er spricht mit **keinem** schön**en** Frauen.
+-    Possessive article
+        -    Sie war glücklich mit **ihrem** schön**en** Ausblick.
+        -    Sie fliegt mit **ihrer** klein**en** Tasche.
+        -    Sie teleforniert mit **ihrem** neu**en** Telefon.
+        -    Er spielt mit **meinem** blond**en** Haaren.
