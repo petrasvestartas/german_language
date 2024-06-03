@@ -66,3 +66,31 @@ The preposition **bei** (at/with) is used when you are **at person's place**. Th
     -  der - den
     -  du - dich
 
+## Personal pronouns vs. demonstrative pronouns in common speech
+
+Personal pronouns as well as demonstrative pronouns refer to a noun already mentioned.
+In colloquial speech, we tend to replace the personal pronouns **er, sie** (singular feminine), **es, sie** (plural) with the demonstrative pronouns: **der, die, das, die**.
+
+-  Wo ist den **Bobbi**?
+    -  **Er** kommt nach. **Er** schleppt die schweren Einkaufstüten.
+    -  **Der** kommt nach. **Der** schleppt die schweren Einkaufstüten.
+-  Wo ist denn **Katie** ?
+    -  **Sie** ist im Wohnzimmer.
+    -  **Die** ist im Wohnzimmer.
+-  Wo ist denn **das Kind?**
+    -  **Es** spielt im Kinderzimmer.
+    -  **Das** spielt im Kinderzimmer.
+-  Wo sind denn **Bobbi** und **Gogo**?
+    -  **Sie** sind im Supermarkt.
+    -  **Die** sind im Supermarkt.
+
+
+This also applies to the forms in the **accusative** and **dative**:
+
+-  Has du **Bobbi** gesehen?
+    -  Nein, ich habe **ihn** nicht gesehen.
+    -  Nein, **den** habe ich nicht gesehen.
+-  Hast du Bobbi geholfen?
+    -  Nein, ich habe **ihm** nicht geholfen.
+    -  Nein, **dem** habe ich nicht geholfen.
+
