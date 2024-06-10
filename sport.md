@@ -12,7 +12,23 @@
 -  der Trainer/die Trainerin: Katie ist seine Trainerin. - the trainer/coach: Katie is his coach.
 -  durchtrainiert: Am Ende wird er durchtrainiert sein. - well-trained: In the end he will be well trained.
 -  der Muskel(n): Gogo fehlen ein paar Muskeln. - the musckle: Gogo lacks a few muscles.
--  die Kondition/Ausdauer: Er muss seine Konsition/Ausdauer trainieren. - the physical fitness/stamina: He has to train his physical fitness/stamina.
+-  die Kondition/Ausdauer: Er muss seine Kondition/Ausdauer trainieren. - the physical fitness/stamina: He has to train his physical fitness/stamina.
 -  das Fett(e): Beim Sport kann man Fett verbrennen. - the fat: You can burn fat during sport.
 -  das Gewicht: Er möchte Gewicht verlieren. - the weight: He wants to lose weight.
 -  abnehmen / zunehmen: Gogo muss abnehmen. Er nimmt immer mehr zu. - to lose weight / gain weight: Gogo has to lose weight. / He's gaining more and more weight.
+
+## Sportaten - types of sports
+
+-  die Sportart(en): Ich mag verschiedene Sportaten. - the type of sport: I like different types of sports.
+-  der Basketball / das Basketballspielen: Beim Basketball wirft man den Ball in einen Korb. - basketball: In basketball you throw the ball in a basket.
+-  das Boxen: Zum Boxem braucht man Boxhandschuhe. - boxing: You need boxing gloves for boxing.
+-  der Fussball / das Fussballspielen: Wir spielen gern Fussball. - football: We like to play football.
+-  das Golf: Mein Vater spielt gern Golf. - golf: My father likes to play golf.
+-  die Gymnastik: Sie macht gern Gymnastik. - gymnastics: She like to do gymnastics.
+-  der Handball / das Hanballspielen: Beim Handball gibt es zwei Mannschaften. - handball: In handball there are two teams.
+-  die Leichtathletik: In der Leichtathletik gibt es viele Disziplinen. - athletics: There are many disciplines in athletics.
+-  das Reiten: Zum Reiten braucht man ein Pferd. - horseback riding: For riding you need a horse.
+-  das Schwimmen: Meine Lieblingssportart ist Schwimmen. - swimming: My favorite sport is swimming.
+-  das Segeln: Segeln macht Spass. - sailing - sailing is fun.
+-  das Surfen: Zum Surfen braucht man ein Surfbrett. - surfing: You need a surfboard to surf.
+-  das Tennis: Tennis ist ein teurer Sport. - tennis: Tennis is an expensive sport.
