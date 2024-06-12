@@ -32,3 +32,23 @@
 -  das Segeln: Segeln macht Spass. - sailing - sailing is fun.
 -  das Surfen: Zum Surfen braucht man ein Surfbrett. - surfing: You need a surfboard to surf.
 -  das Tennis: Tennis ist ein teurer Sport. - tennis: Tennis is an expensive sport.
+
+## At the training - beim training
+
+-  sich bewegen: Gogo bewegt sicht nicht. - to move: Gogo isn't moving.
+-  sich anstrengen: Er soll sich anstrengen. - to try harder. He should try harder.
+-  die Stoppuhr: Katie hat eine Stoppuhr. - the stopwatch: Katie has a stopwatch.
+-  schwitzen: Gogo schwitzt beim Sport. - to sweat: Gogo sweats during sports.
+-  der Schweiss(e): Ihm läuft der Schweiss runter. - the sweat: He's running with sweat.
+-  der Muskelkater: Nach dem Sport hat man manchmal einen Muskelkater. - the sore muscles: After doing sports you sometimes have sore muscles.
+-  Sport ist Mord! - Sport is murder!
+
+
+## Fitnessübungen - fitness exercises
+
+-  die Kniebeuge(n) - the squat
+-  der Liegestütz(e) - the push-up
+-  der Sit-up(s) - the sit-up
+-  der Klimmzug(üge) - the pull-up
+-  der Hampelmann(änner) - the jumping jack
+-  das Seilspringen - the rope skipping
