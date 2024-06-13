@@ -66,7 +66,7 @@
 ## Hausaufgabe
 
 -    Guten Tag. Kunderservice Salt Home Internet, Petras am Apparat. Was kann ich für Sie tun?
-        -    Guten Tag, Könnte ich bitte den Kunderservice sprechen? Mein Internet funktioniert nicht. Der router ist kaputt.
+        -    Guten Tag, Mein Internet funktioniert nicht. Der router ist kaputt.
 -    Ich brauche ihre daten: Ihren Namen, Ihr Geburstdatum, Ihre Kundernummer.
         -    Mein name ist Petras Vestartas, mein Geburstdatum ist 13.12.1989, meine Kundenummer is 212124.
 -    Ja, hier sind Sie richtig. Was für Modell ist es?
