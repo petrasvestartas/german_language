@@ -70,7 +70,7 @@
 -    Ich brauche ihre daten: Ihren Namen, Ihr Geburstdatum, Ihre Kundernummer.
         -    Mein name ist Petras Vestartas, mein Geburstdatum ist 13.12.1989, meine Kundenummer is 212124.
 -    Ja, hier sind Sie richtig. Was für Modell ist es?
-        -    Ich habe internet nch für eine Monate. Es it die neue schwarz modell.
+        -    Ich habe internet noch für eine Monate. Es it die neue schwarz modell.
 -    Sie den Router schon neu gestartet?
             -    Ja, den Router haben wir schon neu gestartet! Kann bitte jemand nachsehen?
 -    Dann, bringen Sie das Gerät bitte vorbei.
