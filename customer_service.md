@@ -61,3 +61,22 @@
 
 ## einen Termin absagen (cancel)
 -    Ich kann nicht zum Friseur kommen. Ich möchte meinen Termin absage.
+
+
+## Hausaufgabe
+
+-    Guten Tag. Kunderservice Salt Home Internet, Petras am Apparat. Was kann ich für Sie tun?
+        -    Guten Tag, Könnte ich bitte den Kunderservice sprechen? Mein Internet funktioniert nicht. Der router ist kaputt.
+-    Ich brauche ihre daten: Ihren Namen, Ihr Geburstdatum, Ihre Kundernummer.
+        -    Mein name ist Petras Vestartas, mein Geburstdatum ist 13.12.1989, meine Kundenummer is 212124.
+-    Ja, hier sind Sie richtig. Was für Modell ist es?
+        -    Ich habe internet nch für eine Monate. Es it die neue schwarz modell.
+-    Sie den Router schon neu gestartet?
+            -    Ja, den Router haben wir schon neu gestartet! Kann bitte jemand nachsehen?
+-    Dann, bringen Sie das Gerät bitte vorbei.
+        -    Bis wann können Sie das Gerät reparieren?
+-    Können Sie bitte bis Morgen warten?
+        -    Ja, natürlich. Um wie viel Uhr kann ich Morgen kommen?
+-    Sie können von 9 bis 17 Uhr abholen.
+        -    Danke und Bis Morgen!.
+-    Bitteschon. Wenn Sie noch Fragen haben, rufen Sie einfach noch mal an. Auf wiedersehen!
