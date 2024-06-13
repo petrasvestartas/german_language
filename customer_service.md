@@ -74,7 +74,7 @@
 -    Sie den Router schon neu gestartet?
         -    Ja, den Router haben wir schon neu gestartet! Kann bitte jemand nachsehen?
 -    Dann, bringen Sie das Gerät bitte vorbei.
-        -    Bis wann können Sie das Gerät reparieren?
+        -    Können Sie das Gerät heute reparieren?
 -    Können Sie bitte bis Morgen warten?
         -    Ja, natürlich. Um wie viel Uhr kann ich Morgen kommen?
 -    Sie können von 9 bis 17 Uhr abholen.
