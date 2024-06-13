@@ -72,7 +72,7 @@
 -    Ja, hier sind Sie richtig. Was für Modell ist es?
         -    Ich habe internet noch für eine Monate. Es it die neue schwarz modell.
 -    Sie den Router schon neu gestartet?
-            -    Ja, den Router haben wir schon neu gestartet! Kann bitte jemand nachsehen?
+        -    Ja, den Router haben wir schon neu gestartet! Kann bitte jemand nachsehen?
 -    Dann, bringen Sie das Gerät bitte vorbei.
         -    Bis wann können Sie das Gerät reparieren?
 -    Können Sie bitte bis Morgen warten?
