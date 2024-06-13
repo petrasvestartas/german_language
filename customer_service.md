@@ -73,7 +73,7 @@
         -    Ich habe internet noch für eine Monate. Es it die neue schwarz modell.
 -    Sie den Router schon neu gestartet?
         -    Ja, den Router haben wir schon neu gestartet! Kann bitte jemand nachsehen?
--    Dann, bringen Sie das Gerät bitte vorbei.
+-    Dann, bringen Sie das Gerät bitte heute vorbei.
         -    Können Sie das Gerät heute reparieren?
 -    Können Sie bitte bis Morgen warten?
         -    Ja, natürlich. Um wie viel Uhr kann ich Morgen kommen?
