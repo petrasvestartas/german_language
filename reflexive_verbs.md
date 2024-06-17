@@ -31,3 +31,81 @@ Other examples:
 Many reflexive verbs often stand with a preposition object:
 -  Ihr freut euch auf den Sommer.
 -  Sie erinnert sich nicht an den Unfall.
+
+## True and Fake reflexive verbs
+
+In German we differentiate between true and fake reflexive verbs.
+
+
+### True reflexive verbs
+
+True reflexive verbs can only be used in a reflexive way using a reflexive pronoun:
+
+-  sich erholen - to recover
+    -  Ich erhole mich.
+    -  I am recovering.
+-  sich bedanken (für). to thank for
+    -  Du bedankst dich für die Geschenke.
+    - You thank someone for the presents.
+-  sich beeilen - to hurry up
+    -  Ich muss mich beeilen, weil mein Kurs gleis anfängt. 
+    -  I have to hurry up, because my course is about to start.
+-  sich beschweren - to complain
+    -  Die Deutschen beschweren sich oft.
+    -  Germans often complain.
+-  sich frauen (auf/über) - to look forward to / be happy about: 
+    -  Ihr freut euch auf den Sommer. / Katie freut sich über die Bücher.
+    -  You are looking forward to the summer. / Katie is happy about the books.
+-  sich interessieren (für) -  to be interested (in)
+    -   Ihr interessiert euch für Bücher. 
+    -  You are interested in books.
+
+### Fake reflexive verbs
+
+Fake reflexive verbs can either be used reflexive or not:
+
+- (sich) bewegen - to move
+    -  Gogo bewegt sich. / Gogo bewegt seine Beine. - Gogo is moving (reflection to itself).
+    -  Gogo is moving his legs (refers to other objects - legs).
+-  (sich) anstrengen - to try hard / strain
+    -  Wir strengen uns an. - Wir strengen unsere Gehirne an.
+    -  We are trying hard. We are straining our brains.
+-  (sich) ausruhen - to rest
+    -  Katie ruht sich aus. Katie ruht ihre Beine aus.
+    -  Katie is resting. Katie is resting her legs.
+-  (sich) ärgern - to upset / annoy
+    -  Das Mädchen ärgert sich. - Das Mädschen ärgert seine Geschwister.
+    -  The girl is upset. The girl is annoying her siblings.
+-  (sich) fotografieren - to take photos
+    -  Ich fotografiere mich. - Ich fotografiere meine Eltern.
+    -  I am taking a selfie. I am taking a picture of my parents.
+-  (sich) fühlen - to feel
+    -  Ich fühle mich nicht so gut. Ich fühle meine Beine nicht. 
+    -  I don't feel so good. I cant feel my legs.
+-  (sich) setzen - to sit down
+    -  Die Mutter setzt sich auf den Stuhl. Die Mutter setzt das Kind auf den Stuhl.
+    -  The mother sits down on the chair. The mother sits the child in the chair.
+-  (sich) legen - to lay down
+    -  Wir legen uns auf das Sofa. Wir legen die Kissen auf das Sofa.
+    -  We lie down on the sofa. We put the pillows on the sofa.
+-  (sich) stellen - to put
+    -  Sie stellt sich an das Fenster. Sie stellt die Blumen an das Fenster.
+    -  She positions herself by the window. She puts the flowers by the window.
+-  (sich) verletzen - to make an injury
+    -  Katie hat sich am Bein verletzt. Ich have meinen Freund sehr verletzt.
+    -  Katie has injured her leg. I hurt my friend/boyfriend very badly.
+-  (sich) verstecken - to hide
+    -  Er versteckt sich. Er versteckt sein Geld.
+    -  He is hiding. He hides his money.
+-  (sich) waschen - to wash
+    -  Wir waschen uns. Wir waschen unsere Wäsche.
+    -  We wash ourselves. We are washing our laudry.
+-  (sich) umziehen - to get changed / to move out
+    -  Er zieht sich um = Er wechselt seine Kleidung.
+    -  Er zieht um. Er zieht in eine andere Wohnung.
+-  (sich) treffen - to meet (intentionally or accidentally)
+    -  Katie trifft sich um 14 Uhr mit Natalia in der Stadt.
+    -  Katie trifft Frau Stock im Hof (yard).
+-  (sich) versprechen - to mispeak / to promise
+    -  Du versprichst dich ständig. = Ich sage etwas Falsches.
+    -  Ich verspreche dir, dass ich pünktlich nach Hause komme.
