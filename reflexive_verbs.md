@@ -112,7 +112,7 @@ Fake reflexive verbs can either be used reflexive or not:
 
 ### Reflexive pronoun position in a sentence
 
-The reflexive pronoun is dependent on the subject, so it is always placed near the subject. In a main clause, the reflexice pronoun is placed after the conjugated verb:
+The reflexive pronoun is dependent on the subject, so it is always placed near the subject. In a main clause, the reflexive pronoun is placed after the conjugated verb:
 
 -    Ich erhole mich zu Hause.
 -    Er bewegt sich sehr langsam.
@@ -139,7 +139,7 @@ Imperative:
 -    Bewegen Sie sich mehr! - Move more!
 
 In a subordinate clause, the reflexive pronoun usually comes after the subject:
--    Ich gehe heute nicht arbeiten, weil ich mich zu Hausae erholen möchte. - I'm not going to work today because I want to relax at home.
+-    Ich gehe heute nicht arbeiten, weil ich mich zu Hause erholen möchte. - I'm not going to work today because I want to relax at home.
 -    Schade, dass er sich nicht bewegt. -    It's a pity he doesn't move.
 
 
