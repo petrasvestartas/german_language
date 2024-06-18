@@ -109,3 +109,41 @@ Fake reflexive verbs can either be used reflexive or not:
 -  (sich) versprechen - to mispeak / to promise
     -  Du versprichst dich ständig. = Ich sage etwas Falsches.
     -  Ich verspreche dir, dass ich pünktlich nach Hause komme.
+
+### Reflexive pronoun position in a sentence
+
+The reflexive pronoun is dependent on the subject, so it is always placed near the subject. In a main clause, the reflexice pronoun is placed after the conjugated verb:
+
+-    Ich erhole mich zu Hause.
+-    Er bewegt sich sehr langsam.
+
+In a conversation, it comes after the subject:
+
+-    Zu Hause erhole ich mich.
+-    Sehr langsam bewegt er sich.
+
+In einer W-Frage und einer Ja/Nein-Question the reflexive pronoun comes after the subject:
+
+-    Wo erholst du dich? - Where do you relax?
+-    Wie bewegt er sich? - How does he move?
+-    Erholst du dich zu Hause? - Are you relaxing at home?
+-    Bewegt er sich sehr langsam? - Is he moving very slowly?
+
+If the subject is noun, the reflexive pronoun can also come before the subject:
+-    Wo erholt sich Natalia? Where is Natalia recovering?
+-    Wie bewegt sich Gogo? How does Gogo move?
+
+Imperative:
+-    Erhol dich gut! - Have a good rest!
+-    Bewegt euch mehr! - Move more!
+-    Bewegen Sie sich mehr! - Move more!
+
+In a subordinate clause, the reflexive pronoun usually comes after the subject:
+-    Ich gehe heute nicht arbeiten, weil ich mich zu Hausae erholen möchte. - I'm not going to work today because I want to relax at home.
+-    Schade, dass er sich nicht bewegt. -    It's a pity he doesn't move.
+
+
+If the subject is a noun, the reflexive pronoun can also precede the subject:
+
+-    Wenn sich meine Mutter ärgert, bekommt sie ein rotes Gesicht. -    When my mum gets angry, her face turns red.
+-    Weil sich das Kind ständig verspricht, lachen alle. - Everyone is laughing, because the child is constantly misspeaking itself.
