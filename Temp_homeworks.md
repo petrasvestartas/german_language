@@ -34,7 +34,7 @@ text
 
 Hamburg
 
-## Essen / Trinket
+## Essen / Trinken
 
 Bratwurst
 Brot
