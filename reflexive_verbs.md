@@ -1,3 +1,4 @@
+
 # reflexive verbs
 
 Reflexive verbs are verbs with an additional pronoun that relate back to the subject. This pronoun is called reflexive pronoun:
@@ -147,3 +148,53 @@ If the subject is a noun, the reflexive pronoun can also precede the subject:
 
 -    Wenn **sich** meine Mutter ärgert, bekommt sie ein rotes Gesicht. -    When my mum gets angry, her face turns red.
 -    Weil **sich** das Kind ständig verspricht, lachen alle. - Everyone is laughing, because the child is constantly misspeaking itself.
+
+### Reflexive pronouns in the dative
+
+If the reflexive verb is given an additional accusative object, the reflexive pronoun is in the dative:
+
+-    Ich kämme mich. - I am brushing myself.
+-    Ich kämme mir die Haare. - I am brushing my hair.
+
+For the 1st and 2nd personal singular and plural, the forms of the personal pronoun are used in the dative. Only in the 3rd person singular and plural **sich** is used.
+
+-    Ich kämme **mir** die Haare.
+-    Du kämmst **dir** die Haare.
+-    Er/Sie/Es kämmt **sich** die Haare.
+-    Wir kämmen **uns** die Haare.
+-    Ihr kämmt **euch** die Haare.
+-    Sie/Sie kämmen **sich** die Haare.
+
+More examples:
+
+-    Ich wasche mich. Ich wasche **mir** die Haare.
+-    Du trocknest (dry) dich ab. Du trocknest **dir** die Hände ab.
+-    Die Katze putzt sich. Das Kind putzt **sich** die Zähne.
+-    Wir rasieren unss. Wir rasieren **uns** die Beine.
+-    Ihr cremt euch ein. Ihr cremt **euch** den Rücken ein.
+-    Sie ziehen sich an (uzsideti). Sie ziehen **sich** die Schuhe an.
+
+Some verbs always have the reflexive pronoun in the dative, because they have an accusative object:
+
+-    sich Sorgen machen - to worry
+        -    Ich mache **mir** Sorgen. - I worry.
+-    sich etwas kaufen - to buy oneself something
+        -    Du kaufst **dir** einen Spiegel. - You buy yourself a mirror.
+-    sich etwas leihen - to borrow something
+        -    Er leiht **sich** einen Rasierer. - He borrows a shaver.
+-    sich etwas wünschen - to wish for sth
+        -    Wir wünschen **uns** neue Fahrräder. - We wish for new bicicles.
+-    sich die Nägel lackieren - to paint one's nails
+        -    Sie lackieren **sich** die Nägel. - They are painting their nails.
+     
+
+The verb **vorstellen** changes its meaning when used the reflexive pronoun in the accusative or dative:
+
+-    sich vorstellen - to introduce myself
+        -    Ich stelle **mich** vor - I introduce myself.
+-    sich etwas vorstellen - to imagine something.
+        -    Ich stelle **mir** einen schönen Urlaub vor. - I imagine a nice holiday.
+        -    Ich kann **mir** gut vorstellen, dass das Buch langweilig ist. I can easily imagine that the book is boring.
+          
+Breaking down the problem into small parts with a word and a small logo. Then zoom in to  certain thing.
+Stage gate process. Milestones.
