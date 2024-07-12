@@ -27,7 +27,7 @@
 -  abschneiden - to cut off
     -  Ich schneide mir meine lange Haare ab. - I am cutting off my long hair.
 -  föhnen - to blow-dry
-    -  Ich schneide mir meine langen Haare ab.  -  I am cutting off my long hair.
+    -  Der Friseur föhnt die Haare trocken. The hairdresser blow-dries the hair.
 -  färben - to dye
     -  Sie färbt sich ihre Haare rot.  -  She dyes her hair red.
 -  stylen - to style
