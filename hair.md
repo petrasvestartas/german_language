@@ -1,0 +1,34 @@
+# Hair
+
+-  der Friseur(e) / öre - the hairdresser
+    -  Katie ist Gogos Friseurin. - Katie is Gogo's hairdresser.
+-  die Frisur / en - the hairstyle
+    -  Gogo möchte eine neue Frisur. - Gogo wants a new hairsyle.
+-  der Haarschnitt / e  -  the haircut
+    -  Er möchte einen modernen Haarschnitt. - He wants a modern haircut.
+-  der Pony / s - the bangs
+    -  Ich schneide dir einen Poly. - I will cut you bangs.
+-  die Schere / n - the scissors
+    -  Katie hat eine Schere in der Hand. - Katie has scissors in her hand.
+-  der Kamm / ämme - the comb (shukos)
+    -  Er kämmt sich mit einem Kamm. - He combs his hair with a comb.
+-  die Bürste / en - the brush
+    -  Sie kämmt sich mit einer Bürste.  -  She brushes her hair with a brush.
+-  der Föhn / e - the hairdryer
+    -  Ich föhne mir mit dem Föhn die Haare.  -  I blow-dry my hair with the hairdryer.
+-  das Haarspray / s - the hairspray
+    -  Sie benutzt kein Haarspray.  -  She doesn't use hairspray.
+-  die Kopfmassage / n - the head massage
+    -  Die Kunde bekommt eine Kopfmassage.   -  The customer is getting a head massage.
+-  massieren  - to massage
+    -  Die Friseurin massiert ihm den Kopf. - The hairdresser is massaging his head.
+-  schneiden - to cut
+    -  Katie schneidet Gogo die Haare.  -  Katie is cutting Gogo's hair.
+-  abschneiden - to cut off
+    -  Ich schneide mir meine lange Haare ab. - I am cutting off my long hair.
+-  föhnen - to blow-dry
+    -  Ich schneide mir meine langen Haare ab.  -  I am cutting off my long hair.
+-  färben - to dye
+    -  Sie färbt sich ihre Haare rot.  -  She dyes her hair red.
+-  stylen - to style
+    -  Natalia stylt Gogos Haare. - Natalia styles Gogo's hair.
