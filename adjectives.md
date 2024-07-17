@@ -127,7 +127,7 @@ Demonstrativ pronomen have the same endings:
 -    Ich finde **diesen** eckig**en** Tisch schön.
 
 Akkusative
-Ich finde **den** eckig**en** Tisch schön.
-Ich finde **die** rot**e** Uhr schön.
-Ich finde **das** gross**e** Bett schön.
-Ich finde **die** eckig**en** Tische schön.
+-    Ich finde **den** eckig**en** Tisch schön.
+-    Ich finde **die** rot**e** Uhr schön.
+-    Ich finde **das** gross**e** Bett schön.
+-    Ich finde **die** eckig**en** Tische schön.
