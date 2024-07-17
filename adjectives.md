@@ -122,7 +122,9 @@ Nominativ
 Demonstrativ pronomen have the same endings:
 -    **Dieser** eckig**e** Tisch ist schön.
 -    **Diese** rot**e** Uhr ist schön.
--    **Dieses** gross**e*
+-    **Dieses** gross**e** Bett schön.
+-    **Diese** eckig**en** Tische sind schön.
+-    Ich finde **diesen** eckig**en** Tisch schön.
 
 Akkusative
 Ich finde **den** eckig**en** Tisch schön.
