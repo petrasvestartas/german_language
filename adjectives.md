@@ -21,7 +21,7 @@
 -  der Fleiss - fleissig - hard-working
 -  die Angst - ängstlich - anxiety - anxious
 
-## Change of Adjcetives
+## Change of Adjectives
 
 Adjectives describe characteristics of persons or things. If the adjective is behind the noun, it does not change:
 
@@ -100,4 +100,32 @@ In the **dative** the **adjective** gets the ending **-en** after the indefinite
         -    Sie war glücklich mit **ihrem** schön**en** Ausblick.
         -    Sie fliegt mit **ihrer** klein**en** Tasche.
         -    Sie teleforniert mit **ihrem** neu**en** Telefon.
+
+
+## Formen
+
+-    rund - round
+-    halbrund - semicircular
+-    oval - oval
+-    eckig - angular
+-    viereckig / quadratisch - square
+-    herzförmig - hear-shaped
+-    sternförmig / sternenförmig - star-shaped
         -    Er spielt mit **meinem** blond**en** Haaren.
+
+Nominativ
+-    **Der** eckig**e** Tisch ist schön.
+-    **Die** rot**e** Uhr ist schön.
+-    **Das** gross Bett ist schön.
+-    **Die esckig**en** Tische sind schön.
+
+Demonstrativ pronomen have the same endings:
+-    **Dieser** eckig**e** Tisch ist schön.
+-    **Diese** rot**e** Uhr ist schön.
+-    **Dieses** gross**e*
+
+Akkusative
+Ich finde **den** eckig**en** Tisch schön.
+Ich finde **die** rot**e** Uhr schön.
+Ich finde **das** gross**e** Bett schön.
+Ich finde **die** eckig**en** Tische schön.
