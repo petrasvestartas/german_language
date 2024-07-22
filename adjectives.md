@@ -131,3 +131,15 @@ Akkusative
 -    Ich finde **die** rot**e** Uhr schön.
 -    Ich finde **das** gross**e** Bett schön.
 -    Ich finde **die** eckig**en** Tische schön.
+
+In the dative the adjective received the ending **-en** after the **the definite article**:
+-    die Kette mit **dem** klein**en** Stern. - the necklace with **the** little star.
+-    die Kette mit **der** keine**en** Perle. - the necklace with **the** little pearl.
+-    die Uhr mit **dem** schön**en** Armband. - the watch with **the** nice wristband.
+-    die Ringe mit **den** klei**en** Sternen. - the rings with **the** small stars.
+
+Same for the demonstrative adjective:
+-    Wie wäre es mit **diesem** schön**en** Ring?
+-    Wie wäre es mit **dieser** schön**en** Kette?
+-    Wie wäre es mit **diesem** schön**en** Armband?
+-    Wie wäre es mit **diesen** **schön**en** Ringen?
