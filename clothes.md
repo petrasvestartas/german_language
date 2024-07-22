@@ -69,4 +69,31 @@ Die Bluse steht Katie nicht = Sie sieht nicht gut an Katie aus.
 - A - Kann ich das Kleid anprobieren?
 - B - Ja natürlich. Hier links sind die Umkleidekabinen.
 
+## der Schmuck (jewelry)
 
+- der Ring(e) - the ring
+- die (Hals)Kette(n) - the necklace
+- der Anhänger - the pendant (pakabutis)
+- der Ohrring(e) - the earring
+- der Ohrstecker - the ear stud
+- die Brosche(n) - the borach (sage)
+- das Armband(änder) - the bracelet
+
+![image](https://github.com/user-attachments/assets/b993f1b5-75bf-4c9a-8e33-20bf49d91d25)
+
+## das Material (ien)
+
+- das Silber - the silver
+- das Nickel - the nickel
+- das Leder - the leather
+- das Gold - the gold
+- das Holz - the wood
+- das Papier - the paper
+- das Plastik/der Kunstoff - the plastic / the synthetic material
+- das Metall - the metal
+- das Glass - the glass
+
+Usage with the word **aus**:
+- Der Ring ist **aus Silber**.
+- Das Armband ist **aus Leder**.
+- Der Tisch ist **aus Holz**.
