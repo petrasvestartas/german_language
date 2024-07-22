@@ -91,7 +91,7 @@ Die Bluse steht Katie nicht = Sie sieht nicht gut an Katie aus.
 - das Papier - the paper
 - das Plastik/der Kunstoff - the plastic / the synthetic material
 - das Metall - the metal
-- das Glass - the glass
+- das Glas - the glass
 
 Usage with the word **aus**:
 - Der Ring ist **aus Silber**.
