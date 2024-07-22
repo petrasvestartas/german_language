@@ -142,4 +142,4 @@ Same for the demonstrative adjective:
 -    Wie wäre es mit **diesem** schön**en** Ring?
 -    Wie wäre es mit **dieser** schön**en** Kette?
 -    Wie wäre es mit **diesem** schön**en** Armband?
--    Wie wäre es mit **diesen** **schön**en** Ringen?
+-    Wie wäre es mit **diesen** schön**en** Ringen?
