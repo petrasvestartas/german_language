@@ -169,7 +169,7 @@ Akkusativ:
 
 Dativ:
 -    Mit **was für einem** Ball spielt das Kind? Mit einem Fussball.
--    In **was für ein** Wohnung lebst du? In eine Terrassenwohnung.
+-    In **was für einer** Wohnung lebst du? In eine Terrassenwohnung.
 -    Mit **was für einem** Auto seid ihr gekommen? Mit einem weissen Auto.
 
 Plural:
