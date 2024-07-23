@@ -159,7 +159,7 @@ The question **Was für ein-** is used to ask about the nature of characteristic
 
 Nominative:
 -    **Was für ein** Tisch ist das? Das ist ein Tisch aus Holz.
--    **Was für eine** Lamper is das? Das ist eine Schlafzimmerlampe.
+-    **Was für eine** Lamper ist das? Das ist eine Schlafzimmerlampe.
 -    **Was für ein** Fahhrad ist das? Das ist ein Damenrad.
 
 Akkusativ:
@@ -171,4 +171,11 @@ Dativ:
 -    Mit **was für einem** Ball spielt das Kind? Mit einem Fussball.
 -    In **was für ein** Wohnung lebst du? In eine Terrassenwohnung.
 -    Mit **was für einem** Auto seid ihr gekommen? Mit einem weissen Auto.
+
+Plural:
+-    **Was für** Fahrräder gibt es? Es gibt Damenrräder,
+
+TIPP: **Was für ein-?** is sometimes separated:
+-    **Was** ist das **für ein** Tisch?
+-    **Was** hast du denn **dur einen Tisch** gekauft?
 
