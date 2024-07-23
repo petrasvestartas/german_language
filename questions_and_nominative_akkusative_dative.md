@@ -149,3 +149,26 @@
 ## Questions with Dativ
 - **Wem** antwortet Katie? Katie antwortet **der** Lehrerin.
 - **Wem** schmeckt das Radler? **Dem** Mann schmeckt das Radler.
+
+
+## Was für (ein-)?
+
+The question **Was für ein-** is used to ask about the nature of characteristic of a person or thing:
+
+-    **Was für ein** Fahhrad suchen Sie? Ich suche ein Damenrad.
+
+Nominative:
+-    **Was für ein** Tisch ist das? Das ist ein Tisch aus Holz.
+-    **Was für eine** Lamper is das? Das ist eine Schlafzimmerlampe.
+-    **Was für ein** Fahhrad ist das? Das ist ein Damenrad.
+
+Akkusativ:
+-    **Was für einen** Tisch suchen Sie? Ich suche einen rudnen Tisch.
+-    **Was für eine** Lampe suche Sie? Ich suche eine Schlafzimmerlampe.
+-    **Was für ein** Fahhrad suchen Sie? Ich suche ein Damerad.
+
+Dativ:
+-    Mit **was für einem** Ball spielt das Kind? Mit einem Fussball.
+-    In **was für ein** Wohnung lebst du? In eine Terrassenwohnung.
+-    Mit **was für einem** Auto seid ihr gekommen? Mit einem weissen Auto.
+
