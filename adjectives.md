@@ -143,3 +143,29 @@ Same for the demonstrative adjective:
 -    Wie wäre es mit **dieser** schön**en** Kette?
 -    Wie wäre es mit **diesem** schön**en** Armband?
 -    Wie wäre es mit **diesen** schön**en** Ringen?
+
+## Laipsniavimas
+
+-    billig - billiger - billigst
+-    weit - weiter - weitest
+-    gern - liebe - liebsten
+
+-    dunkel - dunkler - dunkelsten
+-    teur - teurer - teuerst
+
+-    alt - älter - ältest
+
+-    gross - grösser - grosst
+-    warm - wärmer - wärmen
+-    kalt - kalter - kalten
+-    hoh - höher - höchsten
+-    nah (arti) - näher - nächsten
+-    gut - besser - besten
+-    viel - mehr - meistens
+
+-    komisch - komischer - am komischsten
+-    bedeutend - bedeautender - am bedeutendsten
+-    höflich (mandagus) - höflicher - höflichest
+-    hell (sviesus) - heller - hellest
+-    würzig (astrus) - würziger - würzigen
+-    knusprig (traskus) - knuspriger - 
