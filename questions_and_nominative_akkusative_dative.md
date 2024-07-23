@@ -175,7 +175,19 @@ Dativ:
 Plural:
 -    **Was für** Fahrräder gibt es? Es gibt Damenrräder,
 
+
 TIPP: **Was für ein-?** is sometimes separated:
 -    **Was** ist das **für ein** Tisch?
 -    **Was** hast du denn **dur einen Tisch** gekauft?
 
+
+What is the difference between **Was für (ein)?** and **Welch-** ?
+
+**Was für ein?** you ask for a property fo something.
+**Welch-?**  you ask for the individual in a crowd or selection.
+
+**Was für ein** Fahrrad suchen Sie? - Ich suche **ein Damenrad**.
+**Was für einen** Tisch möchten Sie? - Wir möchten **einen eckigen** Tisch.
+
+**Welches** Fahhrad möchten Sie? - Ich möchte **das rote** Fahhrad dort.
+**Welechen** Tisch möchten Sie? - Wir möchten **den eckigen** Tisch dort.
