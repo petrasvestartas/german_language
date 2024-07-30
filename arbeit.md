@@ -1,0 +1,43 @@
+# Work - arbeit
+
+- Einfach - nepaprastas
+- Berufserfahrung - patirtis
+-	Angestellt - samdomas
+-	Berufstätig - dirbantis
+-	Arbeitlos - bedarbis
+-	selbstständig sein - be self-employed
+    -  Er wäre gern selbständig. - He would like to be self-employed.
+    -  Er möchte sich selbständig machen. - He would like to be self-employed.
+-	Erfahrung - patirtis
+-	die Stelle - vieta
+-	Vierdienst - uzdarbis
+-	verdieden - to earn
+    -  Er verdienst gut. - He earns well.
+- das Gehalt (salary) = der Verdienst (earnings) = das Einkommen (income) = das Lohn (wage)
+    -  Sein Gehalt ist gut. - His salary is good.
+-	vorbei - uzeikit pasmus
+-	Stelleanzeige - darbo skelbimas
+-	NachhilfeLehrer - pagalbine
+- die Arbeit - the work
+    -  Bobbi hat viel Arbeit. - Bobbi has a lot of work.
+- tätig - to work as
+    -  Er ist als Informatiker tätig. - He works as a computer scientist.
+- beschäftigt sein - to be employed / be busy
+    -  Er ist bei einer grossen Firma beschäftigt. - The is employed at a big company.
+    -  Er war in den letzen Wochen sehr beschäftigt. - He has been very busy in the past weeks.
+- angestellt sein - to be employed
+    -  Bobbi ist bei einer Firma angestellt. - Bobbi is employed at a company.
+- zufrieden / unzufrieden sein (mit) - to be satified/unsatistfied
+    -  Er ist zufrieden/unzufrieden mit seiner Arbeit. - He is satisfied/unsatisfied with his job.
+- der Arbeitsplatz - the place of work
+    -  Er hat einen gut bezahlten Arbeitsplatz. - He has a well paid job.
+- das Unternehmen - company
+    -  Sie arbeitet in einem grossen Unternhemen. - She works works in a big company.
+- die Abteilung - the department
+    -  Bobbi arbeitet in der IT-Abteilung. - Bobbi works in the IT department.
+- der Mitarbeiter - the employee
+    -  Die Firmat hat viele Mitarbeiter. - The company has many employees.
+- die Beförderung - promotion
+    -  Er möcte eine Beförderung bekommen.
+- der Feierabend - closing time / end of work
+    - Nach der Arbeit hat er Feierabend. - After work he is free.
