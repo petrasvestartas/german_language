@@ -41,3 +41,34 @@
     -  Er möcte eine Beförderung bekommen.
 - der Feierabend - closing time / end of work
     - Nach der Arbeit hat er Feierabend. - After work he is free.
+- die Vollzeit - full time
+    -    Bobbi arbeitet Vollzeit. - Bobbi works full-time.
+- die Teilzeit - part time
+    -    Ich arbeite in Teilzeit. - I work part-time.
+-    der Gelegenheitsjob - the the casual work
+    -    Er macht nur Gelegenheitsjobs. - He only does casual jobs.
+-    die Arbeitzeit - the working hours
+    -    Meine Arbeitszeit ist von 8 bis 17 Uhr. / Ich habe flexible Arbeitszeiten. - My working hours are from 8 am to 5pm. / I have flexible working hours.
+-    mit der Arbeit angfangen / beginnen - to start / begin work
+    -    Ich fange um 8 Uhr mit der Arbeit an. - to start / begin work: I start work at 8 am.
+-    aufhören - to finish
+    -    Er hört um 17 Uhr (mit der Arbeit) auf. - He finishes work at 5 pm.
+-    die Mittagspause - the lunch break
+    -    Um 13 Uhr mache ich immer Mittagspause. - I alwways take my lunch break at 1 pm.
+-    die überstunde - the overtime
+    -    Wir müssen heute Überstunden machen. - We have to work overtime today.
+-    frei haben - to be off
+    -    Ich have nächste Woche frei. - I am off next week.
+-    der Arbeitsvertrag - the labor contract
+    -    Ich habe meinen Arbeitsvertrag unterschrieben. - I signed my labour contract.
+-    die Kündigung - the resignation
+    -    Ich reiche meine Kündigung ein. - I'm handling in my resignation.
+-    einen Job kündigen - to quite a job
+    -    Ich kündige bald meinen Job. - I will soon quit my job.
+-    jemandem kündigen - to dismiss
+    -    Mein Chef kündigt mir. - My boss is dismissing me.
+-    jemanden entlassen (informell: feuern)
+    -     Der Chef muss viele Mitarbeiter entlassen. - The boss has to lay off many employees.
+-    Die Entlassung - the layoff.
+    -    die Entrlassung - the layoff
+-    In der Firma gab es viele Entlassungen.- The were mayn layoffs in the company.
