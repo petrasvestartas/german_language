@@ -4,7 +4,11 @@ To express something that is not real e.g. wishes, you form a special form of th
 Many wishes can be expressed with the subjunctive 2 of **haben** or **sein** and the adverb **gern(e)** (like to):
 
 -  I **hätte** so **gern** einen anderen Job.
--  Ich **wäre gern** mein eigener Chef.d
+-  Ich **wäre gern** mein eigener Chef.
+
+You can also use **werden** to express a wish, then you use **würde + gern(e) + verb in infinitive**
+-  Was **würdest** du denn **gern machen**?
+-  Ich **würde fern** als Restauranttester **arbeiten**. 
 
 ## Subjunctive 2 of haben
 
@@ -23,3 +27,12 @@ Many wishes can be expressed with the subjunctive 2 of **haben** or **sein** and
 - Wir **wären** gern in einer anderen Firma.
 - Ihr **wärt** gern erfolgreich (successful).
 - Sie/Sie **wären** gern mit der Arbeit zufrieden
+
+## Subjunctive 2 of werden
+
+- Ich **würde** gern als Restauranttester arbeiten.
+- Du **würdest** gern deinen Job kündigen.
+- Er/Sie/Es **würde** sich gern selbständig machen.
+- Wir **würden** gern in Teilzeit arbeiten.
+- Ihr **würdet** gern den Job wechseln.
+- Sie/Sie **würden** gern Karriere machen.
