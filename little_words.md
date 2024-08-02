@@ -68,6 +68,8 @@
 -  Gestern ist ein Triebwerk ausgefallen. Ich musste **deshalb** auf dem Wannsee notlanden.
 -  Gogo ist Pilot, **deswegen, deshalb, daher, darum, aus diesem Grund** fliegt er sehr viel.
 
+
+
 ## Doch
 
 -	Doch - neigiamas klausimas - teigiamas atsakymas
@@ -129,6 +131,43 @@ The **weil-Satz** can also be used by itself if it is a reply and if the situati
 The **weil-Satz** can also be placed before the main clause. Then the main clause begins with the finitie verb because the subordinate clause takes the first position:
 - Sie gehen in den Park, weil sie ein Picknick machen wollen.
 - Weil sie ein Picknick machen wollen, gehen sie in den Park.
+
+## da
+
+The conjuction **da**, like the conjuction **weil** introduces a subordinate clause and has casual meaning. That is, the give a reason and can be used synonymoinusly:
+
+-  Ich habe wirklich viel zu tun, **da** ich immer arbeiten muss.
+-  Ich habe wirklich viel zu tun, **weil** ich immer arbeiten muss.
+
+In common speech **da** is often used when the subordinate clause stands in front of the main clause:
+
+- **Da** ich immer arbeiten muss, habe ich wirklich viel zu tun.
+- **Da** Gogo verloren hat, muss er in den See.
+
+### da as an adverb
+
+**Da** as a local adverb is often used synonymously with **dort** and can refer to a place that has been mentioned before or describe where something is:
+
+-  Und der Verlierer muss **dort** in den See springen.
+-  Und der Verlierer muss **da** in den See springen.
+
+-  Schau mal, **dort** beginnt der Wald.
+-  Schau mal, **da** beginnt der Wald.
+
+**Da** as a verb connection with **sein** = **da sein** means that someone or something is present:
+-  **Ist** noch Bier **da**? Is there any beer left?
+-  Gogo **ist** wider **da**. Gogo is back.
+-  Ich **bin** gleich **da**
+
+Tip: **Da** can also have other meaning:
+
+Temporal:
+-  Hast du **heute Abend** zeit? Nein, **da** kann ich nicht.
+-  Katie hat einen Witz gemacht. **Da** (in diesem moment) hat Gogo gelacht.
+
+Modal:
+-  Gogo möchte nicht arbeiten. **Da** kann man nichts machen. - Gogo doesn't want to work. There is nothing you can do about it.
+-  Gogo ist faul. **Da** stimme ich dir zu. - Gogo is lazy. There I agree with you.
 
 ## ein-
 
