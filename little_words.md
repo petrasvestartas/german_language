@@ -384,4 +384,28 @@ There are many verbs with which we express out personal attitude: **glauben, den
 -  I **dachte**, du **musst** studieren.
 -  Ich **denke**, **dass** du recht **hast**. Ich **denke**, du **hast** recht.
 -  Ich **finde**, **dass** du gut Deutsch **sprichst**. Ich **finde**, du **sprichst** gut Deutsch.
--  Ich **hoffe**, **dass** du bald nach Hause **kommst**. Ich **hoffe**, du **kommst** bald nach Hause.
+-  Ich **hoffe**, **dass** du bald nach Hause **kommst**. Ich **hoffe**, du **kommst** bald nach Hause
+
+## Temporal preposition über
+
+The temporal preposition **über** can express a period of time meaning **more than**. The question word is **Wie lange**.
+year
+- **Wie lange** warst du unterwegs? - Ich war **über** (for more than) ein Jahr unterwegs (on the road).
+
+The preposition **über** is followed by a time in the accusative:
+
+- **ein** Monat - über **einen** Monat - more than **a** month
+- **eine** Studen - über **eine** Student - more than **an** hour
+- **ein** Jahr - über **ein** Jahr - more than **a** year
+- zwei Jahr**e** über zwei Jahr**e** - more than two year**s**
+
+Furthermore, **über** can specify a limited period of time which is asked with **Wann**.
+
+**Wann** bist du in Australien?
+-  Ich bin **über** (over) Weihnachten in Australien.
+-  Ich bin **zu** (for) Weihnachten in Australien.
+-  Ich bin **an** (at) Weihnachten in Australien.
+
+**Wann** besuch ihr eure Eltern?
+-  Wir besuchen sie **übers** (over the) Wochenende.
+-  Wir besuchen sie **am** Wochenende.
