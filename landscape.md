@@ -16,3 +16,12 @@
 -  der Dschungel - the jungle
 -  die Wüste - the desert
 -  das Land - the countryside
+-  die Himmelsrichtung - the direction
+-  der Norden - the north
+-  der Osten - the east
+-  der Süden - the south
+-  der Westen - the west
+-  der Nordosten - the northeast
+-  der Nordwesten - the northwest
+-  der Südosten - the southeast
+-  der Südwesten - the southwest
