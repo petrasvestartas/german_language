@@ -1,0 +1,18 @@
+# Landscape - Landschaften
+
+-  die Landschaft - the landscape
+-  das Meer - the ocean
+-  die See - the sea
+-  die Küste - the coast
+-  der See - the lake
+-  der Strand - the beach
+-  die Insel - the island
+-  der Fluss - the river
+-  das Ufer - the bank / riverside / shore
+-  das Gebirge - the mountains / mountain range
+-  der Berg - the mountain
+-  das Tal - the valley
+-  der Wald - the forest
+-  der Dschungel - the jungle
+-  die Wüste - the desert
+-  das Land - the countryside
