@@ -101,4 +101,4 @@ The preposition **aus** is often used when you can answer a where question with 
 - **aus dem** Tal - from the valley
 - **aus der** Wüste - from the desert
 - **aus dem** Wald/Dschungel - from the forest/jungle
-- **aus dem** Norden/Osten/Süden/Wester
+- **aus dem** Norden/Osten/Süden/Westen - from the north/east/south/west
