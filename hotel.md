@@ -24,5 +24,6 @@
     -  Die Unterkunft ist mit Vollpension/Halbpension. - The accommodation is full board/half board.
 -  das Büffet - the buffet
     -  Das Hotel hat ein grosses Frühstücksbüfett. - The hotel has a large breakfast buffet.
+
   
 
