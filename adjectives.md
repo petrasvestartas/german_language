@@ -169,3 +169,28 @@ Same for the demonstrative adjective:
 -    hell (sviesus) - heller - hellest
 -    würzig (astrus) - würziger - würzigen
 -    knusprig (traskus) - knuspriger - 
+
+## Nullartikel
+
+When you use a noun without an article, it is called a **zero aticle**. **Adjective declension without an article** is rearely used, mainly in advertisements. The ending of the adjective indicates case and genus.
+
+### Nominativ
+
+-    freundlich**er** Service - friendly service
+-    schön**e** Ferienwohnung - nice vacation apartment
+-    gross**es** Frühstücksbüfett - large breakfast buffet
+-    schön**e** Einzelzimmer * nice single rooms
+
+### Akkusativ
+
+-    freundlich**en** Service - friendly service
+-    schön**e** Ferienwohnung - nice vacation apartment
+-    gros**es** Frühstücksbüfett - large breakfast buffet
+-    schön**e** Einzelzimmer - nice single rooms
+
+### Dativ
+
+-    mit herrlich**em** Blick - with a superb view
+-    mit schön**er** Ferienwohnung - with a nice vacation apartment
+-    mit gross**em** Frühstücksbüfett - with a large breakfast buffet
+-    mit schön**en** Einzelzimmern - with nice single rooms
