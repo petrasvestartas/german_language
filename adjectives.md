@@ -196,5 +196,6 @@ When you use a noun without an article, it is called a **zero aticle**. **Adject
 -    mit schön**en** Einzelzimmern - with nice single rooms
 
 ![image](https://github.com/user-attachments/assets/c26b95a6-7a16-4e37-972d-49f716a46f4b)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/49f31df3-7ed8-4f03-8c9d-80c555477c19)
+
 
