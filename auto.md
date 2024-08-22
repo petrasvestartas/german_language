@@ -35,4 +35,33 @@
 - statt finded - to travel to
 - Opernaufführungen - opera
 - Schritte - steps 
-- -
+- das Fahrzeug - the vehicle
+    -  Fahrzeuge sind mobile Verkehsmittel. - Vehicle are mobile means of transport.
+-  das Auto - the car
+    -  Bobbi hat ein altes Auto. - Bobbi has an old car.
+-  das Wagen - the car
+    -  Wollen wir einen Wagen mieten? - Shall we rent a car?
+-  der Autfahrer - the car driver
+    -  Bobbi ist ein guter Autofahrer. - Bobbi is a good driver.
+-  der Führerschein / die Fuhrerlaubnis - the driving license / the driving permit
+    -  In Deutschland darf man mit 18 Jahren seinen Führerschein / seine Fahrerlaubnis machen. - In Germany, you can get your driving license / driving permit when you are 18 years old.
+-  die Autovermietung - the car rental
+    -  Sie rufen die Autovermietung an. - They are calling the car rental.
+-  das Modell - the model
+    -  Es gibt verschieden Modelle. - There are different models.
+-  die Versicherung - the insurance
+    -  Wir bieten Ihnen ein Auto mit Haftpfichtversicherung. - We offer you a car with liability insurance.
+-  das Navi - the navigation system
+    -  Wir brauchen ein Navi. - We need a navigation system.
+-  die Strecke - the distance
+    -  Für lange Streken ist Bobbis Auto zu alt. - Bobbi's car is too old for long distances.
+-  der Kilometer - the kilometer
+    -  Die Automietung enhält 1000 Freikilometer. - The car rental includes 1000 free kilometers.
+-  Kilometer pro Stunde (Abkürzung km/h) - kilometers per hour (abbreviation km/h)
+    -  In der Stadt darf man nur 50 km/h fahren.
+-  die Begrenzung - the limitation
+    -  Sie wollten ein Auto ohne Kilometerbegrenzung. - They want a car without kilometer limitation.
+-  das Benzin - the gas
+    -  Das Benzin ist nicht im Preis enhalten. - Gas is not included in the price.
+-  die Panne - the breakdown
+    -  Das Auto hat eine Panne. - The car has broken problem.
