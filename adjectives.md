@@ -194,3 +194,7 @@ When you use a noun without an article, it is called a **zero aticle**. **Adject
 -    mit schön**er** Ferienwohnung - with a nice vacation apartment
 -    mit gross**em** Frühstücksbüfett - with a large breakfast buffet
 -    mit schön**en** Einzelzimmern - with nice single rooms
+
+![image](https://github.com/user-attachments/assets/c26b95a6-7a16-4e37-972d-49f716a46f4b)
+![Uploading image.png…]()
+
