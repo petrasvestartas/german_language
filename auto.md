@@ -66,4 +66,22 @@
 -  die Panne - the breakdown
     -  Das Auto hat eine Panne. - The car has broken problem.
 -  das Rad - the wheel
-    -     
+-  das Reifen - the tire
+-  der Kofferraum - the trunk
+-  das Nummernschild - the license plate
+-  das Vorder- / Rücklicht - the front / rear light
+-  der Blinker - the indicator
+-  die Motorhaube - the engine hood
+-  der Motor - the engine
+-  der Scheibenwischer - the windshield wiper
+-  der Fahrersitz / der Beifahrersitz - the driver's / passenger's seat
+-  der Sicherheitsgurt - the seat belt
+-  das Lenkrad - the streering wheel
+-  die Bremse - the brake
+-  die Hupe - the horn
+-  die Gangschaltung - the shift
+-  das Gaspedal - the gas pedal
+-  die Kupplung - the clutch
+
+![image](https://github.com/user-attachments/assets/fd0a933f-83d5-4b60-89fc-6b4ca53daf8d)
+
