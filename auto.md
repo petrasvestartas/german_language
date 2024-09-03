@@ -65,3 +65,5 @@
     -  Das Benzin ist nicht im Preis enhalten. - Gas is not included in the price.
 -  die Panne - the breakdown
     -  Das Auto hat eine Panne. - The car has broken problem.
+-  das Rad - the wheel
+    -     
