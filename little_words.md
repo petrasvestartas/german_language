@@ -406,6 +406,12 @@ Furthermore, **über** can specify a limited period of time which is asked with 
 -  Ich bin **zu** (for) Weihnachten in Australien.
 -  Ich bin **an** (at) Weihnachten in Australien.
 
+## sondern
+
+The conjuction **sondern** (but) connects two main clauses. The first sentence contains a negation, usually with nicht or kein. The second sentence, with **sondern**, expresses a contrast to the first sentence, i.e. a statement or opinion is corrected:
+
+-  Ich habe es nicht kaputt gemacht, **sondern** es war schon kaputt.
+-  Er möchte kein neues Auto, **sondern** er möchte ein gebrauctes Auto.
 **Wann** besuch ihr eure Eltern?
 -  Wir besuchen sie **übers** (over the) Wochenende.
 -  Wir besuchen sie **am** Wochenende.
