@@ -415,3 +415,8 @@ The conjuction **sondern** (but) connects two main clauses. The first sentence c
 **Wann** besuch ihr eure Eltern?
 -  Wir besuchen sie **übers** (over the) Wochenende.
 -  Wir besuchen sie **am** Wochenende.
+
+If the subject and/or the verb in both main clauses are the same, the verbs can be omitted.
+
+- Er möchte kein neues Auto, sondern ein gebrauctes Auto.
+- Ich helfe nicht ihm, sonder dir.
