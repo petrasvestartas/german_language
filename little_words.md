@@ -420,3 +420,31 @@ If the subject and/or the verb in both main clauses are the same, the verbs can 
 
 - Er möchte kein neues Auto, sondern ein gebrauctes Auto.
 - Ich helfe nicht ihm, sonder dir.
+
+
+## viel
+
+The word **viel** indicates an uncertain amount. It can be used, for example, as an adverb:
+
+-  Der Händler (dealer) arbeitet viel.
+
+**Viel** can also stand before a noun and function as an adjective. In the singular, **viel** is often used without an ending:
+
+-  **die** Arbeit: Der Händler hat **viel** Arbeit.
+-  **das** Geld: Der Porsche kostet **viel** Geld.
+
+In the plural, it is declined and has the same ending as the article-less adjective:
+
+- Nominativ: Dort sind viel**e** Modelle.
+- Akkusativ: Wir haben viel**e** Modelle.
+- Dative: Dort ist ein Händler mit **vielen** Modellen.
+
+After the definite article, **viel-** receives the ending **-en** the nominative, accusative and dative:
+
+- Ich mag die viel**en** Autos auf der Strasse nicht.
+
+If the plural form **viel-** is followed by an adjective, it has the same ending:
+
+- Wir haben viel**e** schön**e** Modelle.
+- Dort ist ein Händler mit viel**en** schön**en** Autos.
+- Ich mag die viel**en** gross**en** Autos auf der Strasse nicht.
