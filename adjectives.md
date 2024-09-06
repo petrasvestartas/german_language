@@ -199,3 +199,32 @@ When you use a noun without an article, it is called a **zero aticle**. **Adject
 ![image](https://github.com/user-attachments/assets/49f31df3-7ed8-4f03-8c9d-80c555477c19)
 
 
+## Adjectives with the ending -bar
+
+Many adjectives with the ending **-bar** (able) are formed from verbs. The ending expresses that one can do something (something is possible):
+
+- Einen VW Gold kann man bezahlen. = Ein VW Gold ist bazahl**bar**.
+- Die Autotür kann man abschliessen (lock). = Die Autotür ist abschliess**bar**.
+
+The adjective with **-bar** is formed by omitting the infinitive ending in most cases:
+
+- bezahl**bar**
+- abschliess**bar**
+
+If one cannot do something, the prefix **un** is sometimes added:
+
+- Eine Porsche kann man nicht bezahlen. Ein Porsche is **un**bezahl**bar**.
+- Den Preis kann man nicht schlagen (beat). Der Preis is **un**schlag**bar**.
+
+Other examples:
+
+- Die Liebensmittel (food) kann man noch essen. Sie sind noch ess**bar**.
+- Den Text kann man lesen. Es ist les**bar**.
+- Diese Aufgabe (task) kann man lösen (solve). Sie ist lös**bar**.
+- Das Leitungswasser (tap water) kann man trinken. Es ist trink**bar**.
+- Das Verb anfangen kann man trennen (separate). Es ist tren**bar**.
+
+There are some adjectives with **bar** that are formed from nouns:
+- die Furcht(fear) - furchtbar (terrible)
+- das Wunder(miracle) - wunderbar 
+
