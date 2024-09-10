@@ -136,3 +136,10 @@ Other vebrs:
 ## Verbs SEIN in Past Partciple are formed: sein + gewesen
 - Wie **war** dein Tag? - Wie **ist** dein Tag **gewessen**
 - Ich **war** Minuten zu spät. - Ich bin Minuten zu spät **gewessen**.
+
+
+## What have I done during the weekend.
+
+Am Samstag bin ich um 10 Uhr aufgestanden. Dann habe ich mir die Zähne geputzt und mich gewaschen. Da war es 11 Uhr, und ich bin zum Café gegangen. Danach habe ich das Mittagessen gegessen. Um 14 Uhr bin ich einkaufen gegangen. Am Abend war es die „Museumsnacht“. Zuerst habe ich noch einen Kaffee getrunken und eine Pizza gegessen. Ich habe zwei Museen besucht. Das erste war ein Museum für moderne Kunst, und das zweite war eine Werkstatt für Kunst aus Metall. Ich habe gesehen, wie Metall geschmolzen wurde. Um Mitternacht habe ich geduscht und bin ins Bett gegangen. Am Sonntag hat es den ganzen Tag geregnet. Also bin ich zu Hause geblieben. Ich habe ferngesehen, viel gegessen und ein bisschen meine Wohnung geputzt.
+
+
