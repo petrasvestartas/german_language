@@ -85,3 +85,27 @@
 
 ![image](https://github.com/user-attachments/assets/fd0a933f-83d5-4b60-89fc-6b4ca53daf8d)
 
+- die Fahrt - trip / drive
+        -    Sie machen ein Probefahrt. You are taking a test drive.
+- der Verkehr - the traffic
+        -    Bobbi muss auf den Verkehr achten. - Bobbi has to pay attention to the traffice.
+- die Kreuzung - the intersection
+        -    An der Kreuzung gibt es viele Ampeln. - There are many traffic lights at the intersection.
+- die Ampel - the traffic light
+        -    Die Ampel ist rot/gelb/grün. - The traffice light is red/yellow/green.
+- die Brücke - the bridge
+        -    Sie fahren über eine Brücke. - You are driving over a bridge.
+- die Baustelle - the construction site
+        -    Auf der Strasse ist eine Baustelle. - There is a construction site on the road.
+- der Zebrastreifen - the crosswalk
+        -    Eine Frau ist auf dem Zebrastreifen. - A woman is on the crosswalk.
+- die Fussgängerzone - the pedestrian zone
+        -    In der Stadt gibt es viele Fussgängerzonen. - There are many pedestrian zones in the city.
+- anhalten - to stop
+        -    Das Auto muss an der Ampel anhalten. - The car must stop at the traffic lights.
+- parken - to park
+        -    Hier darf man parken. - You are allowed to park here.
+- der Parkplatz - the parking lot
+        -    Es gibt in der Nähe einen Parkplatz.
+
+![image](https://github.com/user-attachments/assets/aaef1aa5-5aeb-4f53-8840-fd502807a676)
