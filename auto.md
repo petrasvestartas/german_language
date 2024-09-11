@@ -109,3 +109,6 @@
         -    Es gibt in der Nähe einen Parkplatz.
 
 ![image](https://github.com/user-attachments/assets/aaef1aa5-5aeb-4f53-8840-fd502807a676)
+
+![image](https://github.com/user-attachments/assets/105e0f0e-784a-4c1a-9feb-1f3c0592185c)
+
