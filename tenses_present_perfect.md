@@ -142,4 +142,28 @@ Other vebrs:
 
 Am Samstag bin ich um 10 Uhr aufgestanden. Dann habe ich mir die Zähne geputzt und mich gewaschen. Da war es 11 Uhr, und ich bin zum Café gegangen. Danach habe ich das Mittagessen gegessen. Um 14 Uhr bin ich einkaufen gegangen. Am Abend war es die „Museumsnacht“. Zuerst habe ich noch einen Kaffee getrunken und eine Pizza gegessen. Ich habe zwei Museen besucht. Das erste war ein Museum für moderne Kunst, und das zweite war eine Werkstatt für Kunst aus Metall. Ich habe gesehen, wie Metall geschmolzen wurde. Um Mitternacht habe ich geduscht und bin ins Bett gegangen. Am Sonntag hat es den ganzen Tag geregnet. Also bin ich zu Hause geblieben. Ich habe ferngesehen, viel gegessen und ein bisschen meine Wohnung geputzt.
 
+## Namu darbai Grysbachas 109
+
+- Er hat den Weg nicht gefunden.
+- Sie haben Kaffee gern getrunken.
+- Gisela hat Peter sehr nett gefunden.
+- Ich habe Milch nicht gern getrunken.
+- Haben Sie Wein getrunken?
+
+Correct past participle 
+
+- Wir haben uns am Sonntag getroffen.
+- Der Film hat um 8 Uhr begonnen.
+- Er hat das Buch aus dem Regal genommen.
+- Die Kinder haben mit dem Briefträger gesprochen.
+- Der Dieb hat das Geld gestohlen.
+- Der Zug hat um 6 Uhr angekommen.
+- Der Scaffner hat der Frau geholfen.
+- Ich habe einen Brief eingeworfen.
+- Wir haben gestern Abend gesprochen.
+- Er is oft zu mir gekommen und hat mir geholfen.
+- Er is am Montag gekommen. Dann hat er das Geld bekommen.
+
+
+
 
