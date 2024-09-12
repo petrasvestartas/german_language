@@ -172,6 +172,12 @@ Am Samstag bin ich um 10 Uhr aufgestanden. Dann habe ich mir die Zähne geputzt 
 - Frau Krüger hat den Kindern einen Apfel mitgegeben.
 - Wir immer auf der Couch gesessen.
 - Sie hat zu viel Geld augegeben.
-- 
+
+- Peter hat Fritz eigeladen.
+- Haben Sie heute Ihr Auto gewaschen?
+- Wir sind nach Berlin gefahren.
+- Er hat die Koffer zum Wagen getragen.
+- Du bist zu schnell gefahren.
+- Wir haben Freunde gern eigeladen und sind mit ihren spazierengefahren.
 
 
