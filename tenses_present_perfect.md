@@ -150,8 +150,6 @@ Am Samstag bin ich um 10 Uhr aufgestanden. Dann habe ich mir die Zähne geputzt 
 - Ich habe Milch nicht gern getrunken.
 - Haben Sie Wein getrunken?
 
-Correct past participle 
-
 - Wir haben uns am Sonntag getroffen.
 - Der Film hat um 8 Uhr begonnen.
 - Er hat das Buch aus dem Regal genommen.
@@ -164,6 +162,16 @@ Correct past participle
 - Er is oft zu mir gekommen und hat mir geholfen.
 - Er is am Montag gekommen. Dann hat er das Geld bekommen.
 
-
+- Er hat die Zeitung gelesen.
+- Wir haben um Entschuldigung gebeten.
+- Er hat im Bett gelegen.
+- Sie hat viel Obst gegessen.
+- Man hat in diesem Sessel gesessen.
+- Er hat mir eine Mark gegeben.
+- Er hat Inge jetzt besehen.
+- Frau Krüger hat den Kindern einen Apfel mitgegeben.
+- Wir immer auf der Couch gesessen.
+- Sie hat zu viel Geld augegeben.
+- 
 
 
