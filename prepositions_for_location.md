@@ -218,3 +218,33 @@ Local adverbs can describe a position or direction:
         -  Eine Apotheke is **gegenüber** dem Krankenhaus.
         -  Grossbritainnien liegt **gegenüber von** Frankreich. (countries no article use von)
         -  Das Zimmer is **gegenüber von** der Psychiatrie. (spoken) 
+
+## durch, entlang, gegen, um, über
+
+The prepositions **durch (through), entlang (along), gegen (into / against), um (around), über (over / across)** stand with the accusative (genitive):
+
+**Durch** (through) indicates the movement:
+-  Wir fahren **durch** die Stadt. - We're driving **through** the city.
+-  Wit gehen **durch** den Park. - We're going **through** the park.
+
+**Entlang** indicates a parallel movement. It stands behind the reference word:
+-  Wir fahren den Fluss **entlang**. - We are driving **along** the river.
+-  Gehen Sie die Stasse **entlang**. - Go **along** the street.
+
+Tip: If **entlang** stands in front of a noun, it is used with the dative:
+-  Entlang **dem** Fluss bauen sie neue Häuser. - They are building new houses along **the** river.
+-  Entlang **des** Fluss **es** bauen sie neue Häuser. - They are building new houses along **the** river.
+
+It can also appear in the combination with **an + dative + entlang**:
+-  Am Fluss **entlang** bauen sie neue Häuser. - They are building new houses along the river.
+
+**Gegen** (into / against) concludes a movement with a contact:
+-  Er ist **gegen** das Schild gefahren. - He drove **into** the sign.
+-  Sie ist **gegen** den Baum gerannt. - She ran **into** the tree.
+
+**Um** (around) describes an often circular movement:
+- Ich gehe **um** die Ecke. - I am going **around** the corner.
+- Wir fahren **um** den See. - We are driving **around** the lake.
+
+**über** (over, across) indicates a movement, often from one side to the other one:
+- Wir fahren **über** die Brücke. - We are driving **over** the bridge.
