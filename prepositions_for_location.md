@@ -253,3 +253,46 @@ It can also appear in the combination with **an + dative + entlang**:
 **über wo?** also belongs to the group of the two-way prepositions and can be used in response to the question Where? with the dative.
 
 Tip: **überfahren** is a non-separable verb. It means that you run over someone with a vehicle and (fatally) injure him.
+
+## Repetition of local prepositions
+
+### Local prepositions + accusative:
+
+**durch** (through) - indicates the movement:
+-  Wir fahren **durch** die Stadt. - We are driving **through** the city.
+
+**entlang** (along) - indicates a parallel movement:
+-  Wir fahren den Fluss **entlang**. - We are driving **along** the river.
+
+**Gegen** (into) - concludes a movement with a contact:
+- Er ist **gegen** das Schild gefahren. - He drove **into** the sign.
+
+**Um** (around) - indicates an often circular movement:
+- Wir fahren **um** den See. - We are driving **around** the lake.
+
+### Local prepositions + dative:
+
+**an ..vorbei** (past) describes that one passes something and goes on:
+-  Fahren Sie **an** der Apotheke **vorbei**! - Drive **past** the pharmacy!
+
+**Aus** (from) indicates the origin or movement from **space**:
+- Katie kommt **aus** Australien. - Katie is **from** Australia.
+- Wir kommen **aus** den Bergen. - We come **from** the mountains.
+- Natalia kommt **aus** dem Badezimmer. - Natalia is coming **from** the barthroom.
+
+Tip: The preposition **aus** is mostly used when you can answer a Where-question with **in**.
+
+**Bei** (at) indicates the stay with a person. It is also used in combination with activities. We also use **bei**, when mentioning the name of a company:
+- Gogo ist **beim** Autohändler. - Gogo is **at** the car dealer.
+- Katie ist **bei** Jonas. - Katie is **with** Jonas.
+- Natalia ist **beim** Sport. - Natalia is doing sports.
+- Ich arbeite **bei** Siemens. - I work **at** Siemens.
+
+Tip: **bei** also has the meaning **near (to)**:
+-  Postdam liegt **bei** Berlin. - Potsdam is located **near** Berlin.
+
+**Bis zu** (up to) indicates an end point:
+- Fahren Sie **bis zum** Krankenhaus. - Drive **up to** the hospital.
+
+**Gegenüber** (opposite) shows that something is on the opposite side:
+- Die Apotheke ist **gegenüber** dem Krankenhaus. - The pharmacy is **opposite** the hospital.
