@@ -248,3 +248,8 @@ It can also appear in the combination with **an + dative + entlang**:
 
 **über** (over, across) indicates a movement, often from one side to the other one:
 - Wir fahren **über** die Brücke. - We are driving **over** the bridge.
+- Sie geht **über** die Strasse. - She is walking **across** the street.
+
+**über wo?** also belongs to the group of the two-way prepositions and can be used in response to the question Where? with the dative.
+
+Tip: **überfahren** is a non-separable verb. It means that you run over someone with a vehicle and (fatally) injure him.
