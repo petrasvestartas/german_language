@@ -448,3 +448,33 @@ If the plural form **viel-** is followed by an adjective, it has the same ending
 - Wir haben viel**e** schön**e** Modelle.
 - Dort ist ein Händler mit viel**en** schön**en** Autos.
 - Ich mag die viel**en** gross**en** Autos auf der Strasse nicht.
+
+## Umfahren
+
+The verb **umfahren** has two different meanings, which become clear only by the stress of the verb:
+
+-  Fahr die Baustelle **um**! - Knock down the construction site!
+-  Um**fahr** die Baustelle! - Drive around the construction site!
+-  **Um**fahren and um**fahren** sind zwei verschiedene Dinge. **Um**fahren and um**fahren** are two different things.
+
+If you stress the first syllable, i.e. the prefix **um** fahren, it means that you hit something so hard while driving that it falls over:
+
+-  Ich kann das Schild nich **um**fahren. - I cannot knock down the sign.
+
+This verb is separable:
+
+-  Er **fährt** das Schild **um**. - He knocks over the sign.
+-  **Fahr** das Schild nicht **um! - Don't knock over the sign!
+
+In the perfect tense, the prefix stands together with the past participle. After the prefix, **ge-** is added:
+
+- Er hat die Frau fast um**ge**fahren.
+
+But if you stress the verb stem um**fahr**en, it means driving aroung something or someone:
+
+The verb is not separable:
+- Wir **umfahren** die Baustelle. - We're driving around the construction site.
+- **Umfahr** die Baustelle! - Drive around the construction site!
+
+The past participle is built without **-ge**:
+-  Wir haben die Baustelle **umfahren**. - We **drove around** the construction site.
