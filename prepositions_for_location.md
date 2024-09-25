@@ -296,3 +296,52 @@ Tip: **bei** also has the meaning **near (to)**:
 
 **Gegenüber** (opposite) shows that something is on the opposite side:
 - Die Apotheke ist **gegenüber** dem Krankenhaus. - The pharmacy is **opposite** the hospital.
+
+**nach** (to) is used for cities and countries without article:
+-  Katie ist **nach** Berlin geflogen. - Katie flew **to** Berlin.
+-  Sie fahren **nach** Bayern. - They drive **to** Bavaria.
+
+**von** (from) indicates a starting point of a movement:
+- Gogo kommt **vom** Authohändler. - Gogo comes **from** the car dealer.
+- Katie kommt **von** Jonas. - Katie comes **from** Jonas' house.
+- Natalia kommt **vom** Sport. - Natalia comes **from** doing sports.
+- Wir kommen **von** der Küste. - We come **from** the coast.
+
+Tip: The preposition **von** is being used when you can answer the Where-question with **an, auf, bei** (at, on, at):
+
+**zu** (to) indicates the direction, a certain destination:
+- Gogo geht **zum** Authändler. - Gogo goes **to** the car dealer.
+- Katie geht **zu** Jonas. - Katie goes **to** Jonas' house.
+- Natalia geht **zum** Sport. - Natalia goes **to** do sports.
+
+### Two-way Prepositions
+
+The prepositions **an, auf, hinter, in, neben, vor, über, unter, zwischen** (at, on, behind, in, next to, in front of, above, under, between) can be used with the accusative or the dative:
+
+Accusative:
+
+When a movement with a direction towards a destination is indicated, the preposition stands with the accusative. It answers the question **Wohin... ?**
+
+-  Wir gehen **an den** Strand. - We go **to** the beach.
+-  Sie fahren **auf die** Insel. - The drive **to** the island.
+-  Er geht **hinter das** Haus. - He goes **behind** the house.
+-  Sie geht **in die** Küche. - She goes **into** the kitchen.
+-  Ich lege den Stift **neben das** Heft. - I put the pen **next to** the notebook.
+-  Sie stellt die Flaschen **vor den** Müllcontainer. - She  puts the bottles **in front of** the dumster.
+-  Du hängst die Lampe **über den** Tisch. - You hand the lamp **above** the table.
+-  Der Hund legt sich **unter das** Bett. - The dog lies down **under** the bed.
+-  Ich stelle die Pflanze **zwischen das** Sofa und **den** Tisch. - I put the plant **between** the sofa and the table.
+
+Dative:
+
+When a fixed point or a place is indicated, the preoposition stands with the dative. It answers the qustion **Wo...**?
+
+- Wir sind **am** Strand. - We are **at** the beach.
+- Sie sind **auf der** Insel. - They are **on** the island.
+- Er ist **hinter dem** Haus. - He is **behind** the house.
+- Sie ist **in der** Küche. - She is **in** the kitchen.
+- Der Stift liegt **neben dem** Heft. - The pen is **next to** the notebook.
+- Die Flaschen stehen **vor dem** Müllcontainer. - The bottles stand **in front of** the dumster.
+- Die Lampe hängt **über dem** Tisch. - The lamp hangs **above** the table.
+- Der Hund liegt **unter dem** Bett. - The dog lies **under** the bed.
+- Die Pflanze steht **zwichen dem** Sofa und **dem** Tisch. - The plant stands **between** the sofa and the table.
