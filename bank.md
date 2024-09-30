@@ -1,0 +1,28 @@
+# bank
+
+- die Bank - the bank
+    -  Sie gehen in die Bank. - The go to the bank.
+-  die Filiale - the branch.
+    -  Die Bank hat viele Filialen. - The bank has many branches.$
+-  der Geldautomat - the ATM
+    -  Die Geldautomaten sind gleich nebenan. - The ATMs are right next door.
+-  der Schalter - the counter
+    -  Katie geht an den Schafter. - Katie goes to the counter.
+-  der Bankmitarbeiter - the bank employee
+    -  Am Schalter steht der Bankmitarbeiter. - The bank empoloyee is standing at the counter.
+-  der Berater - the consulatant
+    -  Katie hat ein Bartungsgespräch mit dem Bankberater. - Katie has a consulation with the bank consultant.
+- der Kunde - the customer
+    -  Der Berater berät die Kunden. - The consultant advises the customers.
+-  der Kredit - the loan
+    -  Gogo möchte einen Kredit aufnehmen. - Gogo wants to take out a loan.
+-  der Zins - the interest rate
+    -  Die Zinsen für den Kredit sin niedrig. - The interest rates for the loan are low.
+-  das Konto - the account
+    -  Katie möchte ein Konto eröffnen. - Katie wants to open an account.
+-  Schulden haben - to be in dept
+    -  Wenn Gogo einen Kredit aufnimmt, hat er Schulden bei der Bank. - If Gogo takes out a loan, he is in dept to the bank.
+- der Tressor / der Geldschrank - the safe / the vault
+    -  In der Bank gibt es einen Tressor. - There is a safe in the bank.
+-  das Spraschwein - the piggy bank.
+    -  Man kann Geld auch im Sprachschwein haben, - You can also have money in the piggy bank. 
