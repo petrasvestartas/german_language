@@ -38,4 +38,25 @@ For the formation of polite requests we use the subjunctive II of:
 
 - **werden** + Verb in the infinitive
 
-- Gib mir bitte das Geld! **Würdest** du mir bitte das Geld geben? - Give me the money, please! Would you please give me the money?
+- Gib mir bitte das Geld! - Give me the money, please!
+    - **Würdest** du mir bitte das Geld geben? - Would you please give me the money?
+- Ruft mich bitte an! - Please call me!
+    -  **Würdet** ihr mich bitte anrufen? - Would you please call me?
+-  Machen Sie bitte das Fenster auf! - Open the window, please.
+    -  **Würden** Sie bitte das Fenster **aufmachne? - Would you please open the window?
+
+-  **können** + Verb in the infinitive
+
+-  Kann ich bitte Fra Müller sprechen? - Can I speak to Mrs. Müller, please?
+    -  **Könnte** ich bitte Frau Müller sprechen? - Could I speak to Mrs. Müller, please?
+-  Könnt ihr mich zur Bank bringen? - Can you take me to the bank?
+    -  **Könntet** ihr mich zur Bank bringen? - Could you take me to the bank?
+-  Können Sie mich bitte beraten? - Can you please advise me?
+    -  **Könnten** Sie mich bitte beraten? - Could you please advise me?
+ 
+- **haben**
+
+- Hast du heute Zeit? - Are you free today?
+    -  **Hättest** du jeute Zeit? - Would you have time today?
+-  Haben Sie heute Zeit? - Are you free today?
+    -  **Hätten** Sie heute Zeit? - Would you have time today?
