@@ -191,3 +191,29 @@ What is the difference between **Was für (ein)?** and **Welch-** ?
 
 **Welches** Fahhrad möchten Sie? - Ich möchte **das rote** Fahhrad dort.
 **Welechen** Tisch möchten Sie? - Wir möchten **den eckigen** Tisch dort.
+
+## Indirect W-questions
+
+In a direct W-question the question word (Wer/Wie/Wo ...) is in position 1, followed by the verb:
+
+-    Wer ist hier für Kredite zuständig? - Who is in charge of loans here?
+-    Wo sind Ihre Geldautomaten? - Where are your ATMs?
+
+You can also ask a question indirectly. We often use indirect interrogative clauses to formulate questions in a particularly polite way. In an indirect W-question, you form a subordinate clause from the direct W-question:
+
+- Könnten Sie mir sagenn, wer hier für Kredite züständig ist? - Could you tell me who is in charge of loans here?
+- Ich würde gern wissen, wo Ihre Geldautomaten sind. - I would like to know where your ATMs are.
+
+The conjugated verb is at the end of the sentence. A comma separates the main clause from the subordinate clause. Tip: The main clause that introduces the subordinate clause (indirect person) can be a statement or an interrogative clause. If the main clause is a statement, there is a full stop at the end:
+-    Ich würde gern wissen, wo Ihre Geldautomaten sind. - I would like to know where your ATMs are.
+
+If the main clause is an interrogative clause, there is a question mark at the end:
+-    Könnten Sie mir sagen, wer hier für Kredite zuständig ist? - Could you tell me who is in charge of loans here?
+
+An indirect question follows certain verbs and expressions such as:
+-    Ich würde gern wissen, wo Ihre Geldautomaten sind. - I would like to know where your ATMs are.
+-    Ich möchte wissen, wo Ihre Geldautomaten sind. - I would like to know where your ATMs are.
+-    Weisst du / Wissen Sie, wo die Geldautomaten sind? - Do you know where the ATMs are?
+-    Könntest du / Könnten Sie mir sagen, wo die Geldautomaten sind? - Could you tell me where the ATMs are?
+-    Könntest du / Könnten Sie mir erklären, wie ich zur Bank komme? - Could you explain to me how to get to the bank?
+-    Darf ich fragen, wo die Geldautomaten sind? - May I ask where the ATMs are?
