@@ -39,4 +39,14 @@
 -    die Kreditkarte - the credit card
     -    Eine Kreditkarte hat Katie schon. - Katie already has a credit card.
 -    die Geheimzahl - the pin code
-    -    Katie bekommt
+    -    Katie bekommt auch eine Geheimzahlen für ihre EC-karte. - Katie also gets a pin code for her EC card.
+-    das Online-Banking - the online banking
+    -    Die Bank bietet Online-Banking an. - The bank offers online banking.
+-    die Abhebung - the withdrawal
+    -    Man kann Geld vom Konto abheben. - You can withdraw money from the account.
+-    die Einzahlung - the deposit
+    -    Man kann Geld auf das Konto einzahlen. - You can deposit money into the account.
+-    die Überweisung - the bank transfer
+    -    Mit dem Online-Banking kann man Überiweisungen machen. - With onlin banking you can make bank transfers.
+-    der Kontostand - the account balance.
+    -    Man kann den Kontostand jederzeit abfragen. - You can check the account balance at any time.
