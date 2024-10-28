@@ -26,3 +26,17 @@
     -  In der Bank gibt es einen Tressor. - There is a safe in the bank.
 -  das Spraschwein - the piggy bank.
     -  Man kann Geld auch im Sprachschwein haben, - You can also have money in the piggy bank. 
+-    das Konto - the account
+    -    Ich have mehrere Konten. - I have several accounts.
+-    das Sparkonto - the savings account
+    -    Auf einem Sparkonto kann man Geld sparen. - With a savings account you can save money.
+-    das Girokonto - the checking account
+    -    Das Girokonto ist für das alltägliche Leben. - The checking account is for everyday life.
+-    die Gebühr - the free
+    -    Die Gebühr ist zehn Euro im Monat. - The fee is ten euros a month.
+-    die EC-karte - the ATM card
+    -    Die EC-Karte bekommt Katie in einer Woche. Katie will get the EC card in a week.
+-    die Kreditkarte - the credit card
+    -    Eine Kreditkarte hat Katie schon. - Katie already has a credit card.
+-    die Geheimzahl - the pin code
+    -    Katie bekommt
