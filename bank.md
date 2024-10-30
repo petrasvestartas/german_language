@@ -50,3 +50,11 @@
     -    Mit dem Online-Banking kann man Überiweisungen machen. - With onlin banking you can make bank transfers.
 -    der Kontostand - the account balance.
     -    Man kann den Kontostand jederzeit abfragen. - You can check the account balance at any time.
+-    der Kontoauszug - the bank statement
+    -    Man bekommt einen Kontoauszug. - One gets a bank statement.
+-    den Bertrag abbuchen - to debit the amount
+    -    Die Bank bucht den Bertrag ab. - The bank bank depits the amount.
+-    das Konto üuberziehen - to overdraw the account
+    -    Oje, ich habe mein Konto überzogen. - Oh dear, I've overdrawn  my account.
+-    die Karte sperren lassen - to block one's card
+    -    Ich habe meine Karte verloren und muss sie jetzt sperren lassen. - I have lost my card and now I have to get it blocked.
