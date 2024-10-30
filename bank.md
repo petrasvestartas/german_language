@@ -32,7 +32,7 @@
     -    Auf einem Sparkonto kann man Geld sparen. - With a savings account you can save money.
 -    das Girokonto - the checking account
     -    Das Girokonto ist für das alltägliche Leben. - The checking account is for everyday life.
--    die Gebühr - the free
+-    die Gebühr - the fee
     -    Die Gebühr ist zehn Euro im Monat. - The fee is ten euros a month.
 -    die EC-karte - the ATM card
     -    Die EC-Karte bekommt Katie in einer Woche. Katie will get the EC card in a week.
