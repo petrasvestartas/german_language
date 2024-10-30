@@ -52,8 +52,8 @@
     -    Man kann den Kontostand jederzeit abfragen. - You can check the account balance at any time.
 -    der Kontoauszug - the bank statement
     -    Man bekommt einen Kontoauszug. - One gets a bank statement.
--    den Bertrag abbuchen - to debit the amount
-    -    Die Bank bucht den Bertrag ab. - The bank bank depits the amount.
+-    den Betrag abbuchen - to debit the amount
+    -    Die Bank bucht den Bertrag ab. - The bank depits the amount.
 -    das Konto üuberziehen - to overdraw the account
     -    Oje, ich habe mein Konto überzogen. - Oh dear, I've overdrawn  my account.
 -    die Karte sperren lassen - to block one's card
