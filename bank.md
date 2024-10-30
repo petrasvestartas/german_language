@@ -54,7 +54,7 @@
     -    Man bekommt einen Kontoauszug. - One gets a bank statement.
 -    den Betrag abbuchen - to debit the amount
     -    Die Bank bucht den Bertrag ab. - The bank depits the amount.
--    das Konto üuberziehen - to overdraw the account
+-    das Konto überziehen - to overdraw the account
     -    Oje, ich habe mein Konto überzogen. - Oh dear, I've overdrawn  my account.
 -    die Karte sperren lassen - to block one's card
     -    Ich habe meine Karte verloren und muss sie jetzt sperren lassen. - I have lost my card and now I have to get it blocked.
