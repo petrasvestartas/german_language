@@ -217,3 +217,62 @@ An indirect question follows certain verbs and expressions such as:
 -    **Könntest du / Könnten Sie mir sagen**, wo die Geldautomaten sind? - Could you tell me where the ATMs are?
 -    **Könntest du / Könnten Sie mir erklären**, wie ich zur Bank komme? - Could you explain to me how to get to the bank?
 -    Darf ich fragen, wo die Geldautomaten sind? - May I ask where the ATMs are?
+
+
+## Indirect yes/no questions
+
+In a direct yes/no question the verb is in position 1:
+
+- Bieten Sie auch Online-Banking an? - Do you also offer online banking?
+
+One can also ask a yes/no question indirectly, in which case it becomes a subordinate clause. The indirect interrogative clause is introduced with the conjunction **ob**:
+
+- Ich möchte wissen, **ob** Sie auch Online-Banking anbieten. - I would like to know **whether** you also offer online banking.
+
+The conjugated verb is at the end.
+
+Tip: You can also use **indirect interrogative clauses** to express that you don't **know** something or are **unsure**:
+
+- Ich kann Ihnen nicht sagen, **ob** das Online-Banking funktioniert. - I can't tell you, if the online banking works.
+
+- Gogo ist sich nicht sicher, **ob** er einen Kredit aufnimmt. - Gogo's not sure, **if** he will take out a loan.
+
+- Ich weiss nicht, **wo** die Geldautomaten sind. - I don't know where the ATMs are.
+
+But if you are sure, you use the conjunction **dass** instead of  **ob**:
+
+- Unsicher: Ich weiss nicht, **ob** die Bank geöffnet hat. - Unsure: I don't know **if** the bank is open.
+- Sicher: Ich weiss, **dass** die Bank geöffnet hat. - Sure: I know **that* the bank is open.
+
+### Examples with ob
+
+- Bieten Sie auch Online-Banking an? - Ich möchte wissen, **ob** Sie auch Online-Banking anbieten.
+- Gibt es hier eine Bank? - Wissen Sie vielleicht, **ob** es hier eine Bank gibt.
+- Kann ich den Kaffee mit meiner Karte bazahlen? - Könnten Sie mir sagen, **ob** ich den Kaffee mit meiner Karte bezahlen kann?
+-  Hast du ein Konto eröffnet? - Ich würde gern wissen, **ob** du ein Konto eröffnet hast.
+- Haben Sie Ihre Geheimzahl (PIN) schon bekommen? - Ich würde gern wissen, **ob** Sie Ihre Geheimzahl schon bekommen hat.
+- Habe ich mein Konto überzogen (overdrawn)? - Könnten Sie mir sagen, **ob** ich mein Konto überzogen habe.
+
+### Examples with dass and ob
+
+- Ich have gefragt, **ob** der Zug bald kommt.
+- Ich glaube, **dass** es bald regnet.
+- Kannst du mir sagen, **ob** wir noch warten müssen?
+- Ich hoffe, **dass** Bobbi bald fertig ist.
+- Wissen Sie vielleicht, **ob** die Abhebung (withdrawals) im Ausland gebührenfrei (charge free) ist?
+- Ich weiss nicht, **ob** ich das Auto kaufe.
+- Er ist sicher, **dass** der Berater (consultant) ihm helfen wird.
+- Wir wissen jetzt, **dass** Rügen eine Insel ist.
+- Entschuldigen Sie! Ich möchte gern wissen, **ob** ich bei Ihnen eine Unterkunft (accommodation) buchen kann.
+
+### Examples with: ob, wann, was, wie, wie viel
+
+- Ich weiss nicht, **ob** er das Auto gekauft hat.
+- Sie sind sich nicht sicher, **ob** sie ein Hotel oder eine Ferienwohnung wollen.
+- Können Sie mir sagen, **wie viel** ein Doppelzimmer kostet?
+- Weisst du, **ob** deine Freunde im Sommer Urlaub machen?
+- Ich frage mich, **ob** ich diesen Monat mehr Geld bekomme.
+- Wissen Sie vielleicht, **wann** der Deutschkurs beginnt?
+- Kannst du mir erklären, **wie** der Geldautomat funktioniert?
+- Ich kann dir nicht sagen, **was** Gogo den ganzen Tag macht.
+ 
