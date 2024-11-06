@@ -58,3 +58,21 @@
     -    Oje, ich habe mein Konto überzogen. - Oh dear, I've overdrawn  my account.
 -    die Karte sperren lassen - to block one's card
     -    Ich habe meine Karte verloren und muss sie jetzt sperren lassen. - I have lost my card and now I have to get it blocked.
+- die Bankverbindung = die Kontodaten - the bank details
+    -   Katie bekommt ihre Bankverbindung.  - Katie gets her bank details.
+-   der Kontoinhaber - the accout holder
+    -   Katie ist die Kontoinhaberin. - Katie is the account holder.
+-   der Zahlungsempfänger - the payee
+    -   Katie überweist Geld an Bobbi. Bobbi is der Zahlungsempfänger. - Katie transfers money to Bobbi. Bobby is the payee.
+-   die Kontonummer - the account number
+    -   Die Kontronummer ist 112233. - The account number is 112233.
+-   die IBAN - the IBAN (Internation Bank Account Number)
+    -   Die IBAN ist: DE112233... - The IBAN is: DE112233...
+-   der BIC - the bic (Bank Identifier Coder)
+    - Der BIC ist: DEF5GH - The BIC is: DEF5GH.
+-   die Bankleitzahl - the bank code.
+    -   Die Bankleitzahl ist 445566. - The bank code is: 445566.
+-   der Bertrag - the ammount
+    -   Der Bertrag ist die bestimmte Geldsumme. - The amount is the specified sum of money.
+-   der Verwendungszweck - the payement reference
+    -    Der Verwendugszweck hilft dem Empfänger, die Überweisung zuzuordnen. - The payment reference helps the recipient to allocate the transaction. 
