@@ -30,3 +30,11 @@ The subject in the subordinate clause is usually behind the conjuction.
 Separable verbs in subordinate clause are inseparable:
 
 -  Ich will, dass die Tür **aufmachst**.
+
+Subordinate clauses are subordinate to the main clause. They are connected to the main clause by certain conjunctions: **dass, weill, da, ob, wenn**. In a subordinate clause, the conjugated verb is placed at the end of the sentence. The two sentences are separated by comma:
+
+- Wissen Sie, **ob** ich mit der Karte auch Geld im Ausland abheben kann? - Do you know **whether** I can also withdraw money abroad with the card?
+- Ich denke, **dass** er immer noch bei der Beraterin ist. I think, **that** he is still with the consultant.
+- Wir müssen noch etwas warten, **weil** der Mitarbeiter mir noch meine Bankverbindung gibt. - We have to wait a little longer **because** the employee is still giving me my bank details.
+- Katie geht zum Geldautomaten, **da** sie Geld abheben will. - Katie goes to the ATM **because** she wants to widthdraw money.
+- **Wenn** Gogo den Kredit bekommt, kann er sich das Auto kaufen. - **If** Gogo gets the loan, he can buy the car.

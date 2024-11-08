@@ -478,3 +478,20 @@ The verb is not separable:
 
 The past participle is built without **-ge**:
 -  Wir haben die Baustelle **umfahren**. - We **drove around** the construction site.
+
+## ja
+
+The modal particle **ja** has different meanings:
+
+- It expresses that a piece of information is assumed to be known or that something is exactly as expected:
+    -   Ein Porsche is viel zu teuer. Den kann **ja** niemand bezahlen. - A porsche is far too expensive. Nobody can afford it.
+    -   Das Konto ist nicth gebührenfrei. Das habe ich dir **ja** gesagt. - The account is not free of charge. I told you so.
+    -   Gogo, du hast das Schild umgefahren. Das musste **ja** passieren. - Gogo, you 0have knocked the sign. It was bound to happen.
+- It expresses astonishement, surprise:
+    -   Die haben **ja** lustige Masken auf. - They are wearing funny masks.
+    - Sie bekommen Ihre Karten in einer Woche. Oh, das geht **ja** schnell. - You'll get your cards in a week. Oh, that's quick.
+    - Die Grammatikübungen waren **ja** einfach. The grammar exercises were easy.
+- One expresses a warning. In this case, the yes is vocally expressed.
+    -   Gogo, fahr **ja** vorsichtig! - Gogo drive carefully!
+    -   Gogo, du bist viel zu schnell gefahren. Mach das **ja** nie wieder! - Gogo, you were driving way too fast. Don't do that again!
+    - Wir haben fast die Frau überfahren. Erzählt das **ja** nicht dem Autohändler! - We almost ran over that woman. Don't tell that to the car dealer.

@@ -56,9 +56,9 @@
     -    Die Bank bucht den Bertrag ab. - The bank depits the amount.
 -    das Konto überziehen - to overdraw the account
     -    Oje, ich habe mein Konto überzogen. - Oh dear, I've overdrawn  my account.
--    die Karte sperren lassen - to block one's card
+-   die Karte sperren lassen - to block one's card
     -    Ich habe meine Karte verloren und muss sie jetzt sperren lassen. - I have lost my card and now I have to get it blocked.
-- die Bankverbindung = die Kontodaten - the bank details
+-   die Bankverbindung = die Kontodaten - the bank details
     -   Katie bekommt ihre Bankverbindung.  - Katie gets her bank details.
 -   der Kontoinhaber - the accout holder
     -   Katie ist die Kontoinhaberin. - Katie is the account holder.
@@ -75,4 +75,8 @@
 -   der Bertrag - the ammount
     -   Der Bertrag ist die bestimmte Geldsumme. - The amount is the specified sum of money.
 -   der Verwendungszweck - the payement reference
-    -    Der Verwendugszweck hilft dem Empfänger, die Überweisung zuzuordnen. - The payment reference helps the recipient to allocate the transaction. 
+    -    Der Verwendugszweck hilft dem Empfänger, die Überweisung zuzuordnen. - The payment reference helps the recipient to allocate the transaction.
+-   beraten - discuss, give advice
+-   überweisen - transfer
+-   Gebühren - fees
+-   Zinsen - interest charges
