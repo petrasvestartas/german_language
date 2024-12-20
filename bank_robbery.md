@@ -11,6 +11,17 @@
 - Raus! - Lauk!
 - Keine Manieren! - Jokiu manieru!
 - Nicht nur dreist, sondern auch noch dumm! - Ne tik drasus, bet ir kvailas!
+- Alles in Butter. - Everything is okay.
+- Sie sind unsere Heldin! - You are our heroine!
+- Jetzt reicht's. - That's enough.
+- Lassen Sie mich wieder los! - Let's go of me!
+- Ich möchte mich verabschieden. - I would like to say goodbye.
+- Von wem? - To whom?
+- Ich höre auf. - I am quitting.
+- Womit hören Sie auf? - What are you quitting?
+- Mit meiner Arbeit. Ich geh' in Rente. - My work. I am retiring.
+-  Here, Herr Müller, haven Sie etwas zum Spielen. - Mr. Müller you have something to play with.
+-  Auf den Schreck gibt's erstmal eine Flasche Sekt! - After this schock let's have a bottle of sparkling wine!
 
 <img width="596" alt="Screenshot 2024-12-18 at 09 06 31" src="https://github.com/user-attachments/assets/6daee3e7-d7c5-4a00-88f2-5be9c6924fbe" />
 
@@ -34,11 +45,38 @@
     - Katie versteckt sich hinter dem Schalter. - Katie pasislepe ur prekystaliu.
 - der Alarm (Alarme)
     - Der Bankmitarbeiter löst den Alarm aus. - Bank darbutojas ijungia alarma.
-- der Bankräuber - banko plesikas
 - die Flucht ergreifen - iskristi, pabegti
     -  Die Bankräuber ergreifen die Flucht. - Bank plesikai bega.
-- verstecken - pasislepti
 - die Polizei - policija
-    -   Sie warten aud die Polizei. - Jie laukia polizijos.
+    -   Sie warten auf die Polizei. - Jie laukia polizijos.
 - der Polizist (Polizisten) - policininkas / policininkai
     -  Vor der Bank warten viele Polizisten. - Priesais banka laukia daug policininku.
+- in Rente / in den Ruhenstand gehen - iseit it pencija
+    - Werner geht in Rente. - Werner iseina i pencija.
+- in Rente / im Ruhenstand sein - buti pensininku
+    - Er ist ab morgen in Rente / im Ruhenstand. - Jis iseina rytoj i pencija.
+- der Rentner (Rentner) - pensininkas
+    - Rentner haben niemals Zeit. - Pencininkas niekada neturi laiko.
+- die Rente (Renten) - pencija
+    - Er bekommt jeden Monat seine Rente. - Jis gauna savo pencija kiekviena menesi.
+- das Rentenalter (Rentealtner) - pencijos amzius
+    - Werner hat das Rentaltner erreicht. - Werner pasieke pencijos amziu.
+- die Rentenversicherung (Rentenversicherungen) - pencijos draudimas
+    - Angestellte müssen in die Rentenversicherung einzahlen. - Darbuotojai turi moketi pencijos draudimui.
+- der Rentenbeitrag (Rentenbeiträge) - pencijos mokesciai
+    -    Die Rentenbeiträge sind sehr hoch in Deutschland. - Pensijos mokesciai yra labai dideli vokietijoje.
+- aufhören mit + Dativ - stabdyti / mesti uzsiemima
+    - Werner hört mit der Arbeit auf. - Werner iseina is darbo.
+- sich verabschieden von + Dativ - atsisveiktinti su
+    - Frau Stock will sich von ihm verabschieden. - Ponia Stock nori atsisveikinti su juo.
+- der Abschied (Abschiede) - atsisveikinimas
+    - Sie wollen seinen Abschied feiern. - Jie nori svesti atsisveikinima.
+- der Arbeitstag (Arbeitstage) - darbo diena
+    - Werner hat heute seinen letzten Arbeitstag. - Werner turi siandien paskutine darbo diena.
+- der Arbeitsleben - darbo gyvenimas
+    - Dar Arbeitsleben is beendet. Darbo gyvenimas baigiasi.
+- der Lebensabend (Lebensabende) - gyvenimo vakaras
+    - Rentner geniessen ihren Lebensaben. - Pensininkai megaujasi savo gyvenimo pabaiga.
+
+
+
