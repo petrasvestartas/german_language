@@ -50,3 +50,52 @@ Veiksmazodziai su prielinksniais pakeicia savo reiksme. Pavyzdiui:
     -  Du **triffst dich mit** deiner Freundin. - Tu susitinkti su savo drauge.
 - sich verabreden mit - susitarti del susitikimo
     -  Ich **verabrede mict mit** meinem Freunden. As tariuosi susitarti su savo draugais.
+
+## Veiksmazodziai su prielinksniu - Klausimai
+
+- Vonwem? - su kuo? zmogus
+    - **Von wem** verabschieden Sie sich? Ich verabschiede mich **von meinem Bankberater**. - Su kuo tu atsisveikini? As atsisveikinu su savo banko konsultantu.
+- Womit? - su kuo? daigtas
+    - **Womit** hören Sie auf? Ich höre **mit meiner Arbeit** auf. - Ka tu sustabdai? As sustoju su savo darbu.
+
+ ## Veiksmazodiai su prielinksniu - Klausimai - zmones - Akkusativ-Präposition + wen
+
+- Auf wen? - ko?
+    - **Auf wen** warten sie? Sie warten **auf die Polizei**. - Ko jie laukia? - Jie laukia policijos.
+- An wen? - apie ka?
+    - **An wen** denkt Katie? Katie denkt **an ihre Familie**. - Apie ka Katie galvoja? Katie galvoja apie jos seima.
+- Um wen? - kuo?
+    - **Um wen** kümmert ihr euch? Wir kümmern uns **um unsere Grosseltern**. - Kuo tu rupiniesi? As priziuriu musu senelius.
+
+ ## Veiksmazodiai su prielinksniu - Klausimai - zmones - Dativ-Präposition + wen (kai objektas yra itakojamas)
+
+- **Von wem** - kam?
+    -    **Von wem** verabschieden Sie sich? Ich verabschiede mich **von meinem Bankberater**. - Kam tu sakai viso gero? As sakau viso gerao su savo banko konsultantui.
+- **Mit wem** - kuo?
+    -    **Mit wem** verabredest du dich? Ich verabrede mich **mit meiner Kollegin**. Su kuo tu susitarti susitikima? As susitariu tureti susitikima su savo kolega.
+- **Bei wem** - kam?
+    -    **Bei wem** beschwert ihr euch? Wir beschweren uns **bei der Verkäuferin**. - Kam jus skundziates? As skundziuosiu paradvejui.
+
+## Veiksmazodziai su prielinksniu - Klausimai - daigtai
+
+- **Womit** - su kuo?
+    -    **Womit** hören Sie auf? Ich höre **mit meiner Arbeit** auf. - Su kuo to sustoji? As sustoji su savo darbu.
+- **Wovon** - apie ka?
+    -    **Wovon** träumst du? Ich träume **von einem Haus** am Meer. - Apie ka tu svajoji? As svajoju apie nama prie juros.
+- **Wofür** - kuo?
+    -    **Wofür** interessierst du dich? Ich interessiere mich **für Technik** - Kuo tu domiesi? As domejuos technologijomis.
+- **Wo-r-an** - apie ka?
+    -    **Woran** denkst du? Ich denke **an den Sommer**. - Apie ka tu galvoji. As galvoju apie vasara.
+- **Wo-r-auf** - ko?
+    -    **Worauf** wartest du? Ich warte **auf den Bus**. Ko tu lauki? As laukiu autobuso.
+- **Wo-r-über** - kuo?
+    -    **Worüber** ängern Sie sich? Ich ärgere mich **über das Wetter.** - Kuo tu esi susierzines? As esu susierzines oru.
+
+Bendrineje kalboje klausimai formuojami su **prielinkniu+was**
+
+- **An was** - apie ka?
+    -    **An was** denkt ihr? - Apie ka jus galvojate?
+- **Auf was** - ko?
+    -    **Auf was** wartest du? Ko tu lauki?
+- **Über was** - apie ka?
+    -    **Über was** ängern Sie sich? - Kuo esate susierzine?
