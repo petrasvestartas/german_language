@@ -92,6 +92,27 @@
     - Dar Arbeitsleben is beendet. Darbo gyvenimas baigiasi.
 - der Lebensabend (Lebensabende) - gyvenimo vakaras
     - Rentner geniessen ihren Lebensaben. - Pensininkai megaujasi savo gyvenimo pabaiga.
-
+- die Abschiedsfeier (Abschiedsfeier) - atsisveikinimo vakarelis
+    - Wenwer organisiert seine Abschiedsfeier. - Werner organizuoja savo atsiveikinimo vakareli.
+- der Ausstand - atsisveikinimo vakarelis
+    - Werner feiert seinen Ausstand. - Werner svencia savo atsisveikinimo vakareli.
+- die Rede (Reden) - kalba
+    - Frau Stock will eine Rede hören. - Frau Stock nori kalba isgirsti.
+- eine Rade halten - duoti kalba
+    - Werner hält eine Rede. - Werner duoda kalba.
+- die Anrede - kreipinys
+    - Liebe Brigitte... - Miela Brigitte...
+- der Dank - padeka
+    - Vielen Dank für deinen mutigen Einsatz. - Labai dekoju uz tavo drasia pastanga.
+- sich bendanken für + Akkusativ - padekoti kazkam
+    - Ich bedanke mich für deinen mutigen Einsatz. - As dekoju uz drasu veiksma.
+- der Glückwunsch (Glückwünsche) - sveikinimai
+    - Herclichen Glückwunsch zum Ruhestand! Alles Gute! - Sirdingi sveikinimai pencijai! Viso ko geriausio!
+- klatschen - ploti
+    - Frau Stock und Gogo klatschen Beifall. - Ponia Stock ir Gogo ploja plojimus.
+- das Buffet - svediskas stalas
+    - Das Buffet ist eröffnet. - Svediskas stalas yra atidarytas.
+- anstossen - susidauzti
+    - Sie stossen mit Sekt an. - Jie susidauzia tauremis su vynu.
 
 
