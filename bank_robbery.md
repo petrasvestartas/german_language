@@ -20,8 +20,23 @@
 - Ich höre auf. - I am quitting.
 - Womit hören Sie auf? - What are you quitting?
 - Mit meiner Arbeit. Ich geh' in Rente. - My work. I am retiring.
--  Here, Herr Müller, haven Sie etwas zum Spielen. - Mr. Müller you have something to play with.
+-  Here, Herr Müller, haben Sie etwas zum Spielen. - Mr. Müller you have something to play with.
 -  Auf den Schreck gibt's erstmal eine Flasche Sekt! - After this schock let's have a bottle of sparkling wine!
+-  Abschied feiern - tureti atsisveikimo vakareli
+-  Unterschied - skirtumas
+-  sich freuen auf - laukti
+-  being glad about - driaugdamasis
+-  herzlichen Glückwuncsch - sveikinu
+-  eine Rede! - kalba!
+-  Zuerst möchte ich mich bei dir für deinen mutigen Einsatz bedanken - pirmiausiai noreciau padekoti uz jusu drasias pastangas
+-  Du hast uns alle gerettet. - Tu mus visus isgelbejai.
+-  Du bist eine wahre Heldin! - Tu esi tikra heroje!
+-  In meinem wohlverdienten Ruhenstand gehe ich mit einem lachenden und einem weinenden Auge. - Į savo pelnytą pensiją išeinu viena besijuokiančia ir verkiančia akimi.
+-  Aber ich werde auch an die Zeit in meiner Bank zurückdenken. - As prisiminsiu savo laika banke.
+-  Ich hatte nur netter Kollgen, ausser Helga, die hat mir das Leben immer zur Hölle gemacht. - As turejau tik malonius kolegas, isskyrus Helga, kuri mano gyvenima pragaru paverte.
+-  Aber Schwamm drüber. - Bet nesijaudink del to.
+-  Mir fällt da gerade was ein. - As prisiminiau kazka.
+-  Die Luft ist rein! - Oras skaidrus!
 
 <img width="596" alt="Screenshot 2024-12-18 at 09 06 31" src="https://github.com/user-attachments/assets/6daee3e7-d7c5-4a00-88f2-5be9c6924fbe" />
 
