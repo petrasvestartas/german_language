@@ -99,3 +99,14 @@ Bendrineje kalboje klausimai formuojami su **prielinkniu+was**
     -    **Auf was** wartest du? Ko tu lauki?
 - **Über was** - apie ka?
     -    **Über was** ängern Sie sich? - Kuo esate susierzine?
+
+Laukimo prieveiksmis: sich freuen auf / sich freuen über
+
+- **sich freuen auf** - kai laukiame atsakymo ir zinome kad jis turi buti
+    -    Günther **freut sich auf** seinen Ruhestand. - Günther laukia savo pensijos.
+    -    Nächste Woche habe ich Geburtstag. Ich **freue mich auf** die vielen Geschenke. - Kita savaite yra mano gimtadienis. As laukiu daug dovanu.
+ 
+Kai kazkuo dziaugiesi dabartyje arba del to kas ivyko praeityje naudojame prielinksni **sich freuen über**:
+
+- Günther **freut sich über** die Überraschung. - Günther yra laimingas siurprizu.
+- Ich habe gestern meinen Geburtstag gefeiert und mich **über** die vielen Geschenke **gefreut**. - As vakar svenciau savo gimtadieni ir dziaugiausi gaves daug dovanu.
