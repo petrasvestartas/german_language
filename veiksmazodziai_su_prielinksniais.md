@@ -100,7 +100,7 @@ Bendrineje kalboje klausimai formuojami su **prielinkniu+was**
 - **Über was** - apie ka?
     -    **Über was** ängern Sie sich? - Kuo esate susierzine?
 
-Laukimo prieveiksmis: sich freuen auf / sich freuen über
+## Laukimo prieveiksmis: sich freuen auf / sich freuen über
 
 - **sich freuen auf** - kai laukiame atsakymo ir zinome kad jis turi buti
     -    Günther **freut sich auf** seinen Ruhestand. - Günther laukia savo pensijos.
@@ -110,3 +110,27 @@ Kai kazkuo dziaugiesi dabartyje arba del to kas ivyko praeityje naudojame prieli
 
 - Günther **freut sich über** die Überraschung. - Günther yra laimingas siurprizu.
 - Ich habe gestern meinen Geburtstag gefeiert und mich **über** die vielen Geschenke **gefreut**. - As vakar svenciau savo gimtadieni ir dziaugiausi gaves daug dovanu.
+
+## Veiksmazodziai su dviem prielinksniais:
+
+Pavyzdys:
+
+- Ich möchte mich **bei dir** für deinen mutigen Einsatz **bedanken**. - As noriu tau padekoti uz tavo drasu isipareigojima.
+
+Prieveikmiais nurodo nustato atveji:
+
+- sich bedanken **bei + Dativ** / **für + Akkusativ** - dekoti kazkam uz
+    -    Ich bedanke mich **bei dir für deinen Einsatz**. - As dekoju tau uz tavo isipareigojima.
+- sich beschweren **bei + Dativ** / **über + Akkusativ** - skustis kazkam uz
+    -    Er beschwert sich **beim Kellner über das Essen**. - jis skundziasi padavejui apie maista.
+- sich entschuldigen **bei + Dativ / für + Akkusativ** - atsiprasyti kazko uz kazka
+    -    Der Kellner entschuldigt sich **beim Gast für das schlechte Essen**. - Padavejas atsipraso svecio uz bloga maista.
+- sprechen **mit + Dativ / über + Akkusativ** - kalbetis su kazkuo apie kazka
+    -    Gogo spricht mit der Beraterin über einen Kredit. - Gogo kalbasi su banko konsultantu apie paskola.
+- sich unterhaltern **mit + Dativ / über + Akkusativ** - kalbetis su kazkuo apie kazka
+    - Werner unterhält sich **mit seinen Kollegen über den Banküberfall**. - Werner kalba su savo kolegomis apie banko plesima.
+ 
+Jei konstekstas yra aiskus antrasis preveiksmis gali buti praleidziamas:
+
+- Ich preche **mit der Frau**. - As kalbuosi su moterimi.
+- Wir sprechen **über den Urlaub**. - As kalbuosi apie atostogas.
