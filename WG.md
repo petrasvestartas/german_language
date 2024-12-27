@@ -26,3 +26,11 @@
        - Erwachsene verstehen die Jugendsprache nicht. - Suagusieji nesupranta jaunimo kalbos.
 - die Umgangssprache - snekamoji kalba
        - Die Umgangssprache verwenden Jugedliche und Erwachsene. - Snekamoji kalba yra naudojama jaunimo ir suaugusiuju.
+
+- Na? = Wie geht's? - kaip sekasi?
+- Was geht's? = Was ist los bei dir? - Kaip sekasi?
+- Es läuft - viskas gerai
+- Deine Bude = Deine Wohnung - tavo butas
+- gesteiskrank = extrem toll / unfassbar - labai puiku / neitiketina
+- geil = fantastisch / sexy - fantastiska / seksualu
+
