@@ -1,4 +1,7 @@
-# In der WG
+
+# Snekamoji Kalba
+
+## Ivairios frazes
 
 - Was geht? - kaip sekas?
 - Läuft - viskas gerai
@@ -33,4 +36,15 @@
 - Deine Bude = Deine Wohnung - tavo butas
 - gesteiskrank = extrem toll / unfassbar - labai puiku / neitiketina
 - geil = fantastisch / sexy - fantastiska / seksualu
+- sau + adjective = very
+- nee / nö - ne
+- umstylen - daryti makijaza
+- Boch habe - tureri noro
 
+## Sutrumpinti veiksmazodziai
+
+E raide gali buti su apostrofu arba be apostrofo.
+
+- Ich habe - Ich hab'
+- Ich komme - Ich komm'
+- Ich mache - Ich mach'
