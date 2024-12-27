@@ -45,6 +45,27 @@
 
 E raide gali buti su apostrofu arba be apostrofo.
 
-- Ich habe - Ich hab'
-- Ich komme - Ich komm'
-- Ich mache - Ich mach'
+- Ich **habe** - Ich **hab'**
+- Ich **komme** - Ich **komm'**
+- Ich **mache** - Ich **mach'**
+- Wir **fahren** - Wir **fahr'n**
+- Sie **gehen** - Sie **geh'n**
+- Wir **haben** - Wir **ham**
+- Herr Kraut was **ist** denn mit Ihnen passierr? - Herr Kraut, was **is'**  denn mit Ihnen passiert?
+- Das **ist** 'ne gute Idee. - Das **is'** 'ne gute Idee.
+- Was **ist es**? - Was **isses**?
+- **Willst du** mal probieren? - **Willste** mal probieren?
+- **Kommst du** zu mir? - **Kommste** zu mir?
+
+Sutrumpinti prieveiksmiai
+
+- Willst du **einen** Donut? - Willst du **'nen** Donut?
+- Ich habe **eine** neue Hose. - Ich hab **'ne** neue Hose.
+- Das ist **ein** Donut. - Das ist **'n** Donut.
+- Ich hab' **einen** Donut. - Ich hab' **'nen** Donut.
+- Ich habe **keinen** Bock. - Ich hab' **kein'** Bock.
+
+Proeveikmsii es strumpinimas
+
+- Wie geht **es**? - Wie geht **'s**?
+- Hat **es** geschmeckt? - Hat **'s** geschmeckt?
