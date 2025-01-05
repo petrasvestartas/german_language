@@ -38,7 +38,7 @@
 - sitzen bleiben - pakartoti metus
     - Wenn man nur Sechsen auf dem Zeugnis hat, bleibt man sitzen. - Jeigu turi tik sesetus mokyklos pazymejime, turi kartoti metus.
       
-## Pamokos
+## Pamokos - Fächern (dalykai)
 
 - Biologie - biologija
 - Chemie - chemija
