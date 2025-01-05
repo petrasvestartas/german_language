@@ -11,6 +11,7 @@
 - Ich habe keine Lust, etwas Richtiges zu lernen. - As neturiu noro, konors naudingo ismokti.
 - Ach, du willst Ärztin werden und die Grippeviren erforschen? - Ach, tu nori gydytoja taptu ir tyrineti gripo virusa?
 - Dabei war sie so lieb, als sie klein war. - Ji buvo tokie miela kai buvo maza.
+- Lieblingsfach - megstamiausia tema
 
 ## Zodziai ir sakiniai apie mokykla
 
