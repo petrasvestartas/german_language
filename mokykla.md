@@ -12,4 +12,7 @@
 - Ach, du willst Ärztin werden und die Grippeviren erforschen? - Ach, tu nori gydytoja taptu ir tyrineti gripo virusa?
 - Dabei war sie so lieb, als sie klein war. - Ji buvo tokie miela kai buvo maza.
 
- 
+## Zodziai ir sakiniai apie mokykla
+
+- die Schule (Schulen) - mokykla
+ - Lola geht nicht gern in die Schule. - Lola nemegsta eiti i mokykla.
