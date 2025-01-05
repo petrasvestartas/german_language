@@ -54,3 +54,31 @@ Dazniausiai sias laikais kablelio nerasoma su bendraties veiksmazodiais:
     - Ich **fange an zu arbeiten**. - I pradedu dibti.
 - umzustylen - daryti makijaza
     - Ich habe angefangen, ihn **umzustylen**. - As pradejau ja daryti makijaza.
+ 
+Su tam tikromis frazemis:
+
+- **Es ist** echt **cool**, frei **zu haben**! - Yra labai kieta tureti laisvo laiko!
+- Aber ich **habe keine Lust**, etwas Richtiges **zu lernen**. - Bet as neturiu noro, konors svarbaus mokytis.
+- Es macht (keinen) Spass, die Lehrer **zu ängern**. - Nesmagu mokytoja pykdyti.
+- Ich finde es toll, Sprachen **zu lernen**. - Manau kad puiku mokytis kalbas.
+
+- haben + daiktavardis
+        - Ich habe (keine) Lust, etwas **zu lernen**. - As neturiu noro konors mokytis.
+        - Du hast (keine) Zeit, eine Kuchen **zu backen**. - Tu neturi laiko, pyrago iskepti.
+        - Sie hat (kein) Interesse, in die Schule **zu gehen.** - Ji neidomu eiti i mokykla.
+        - Wir haben (keine) Angst, schlecte Noten **zu bekommen**. - Mes nebijome gauti blogus pazymius.
+
+- Est ist + bundratis
+        - Es ist anstrengend, in die Schule **zu gehen**. - Vargina eiti i mokykla.
+        - Est is cool, frei **zu haben**. - Kietai tureti laisvo laiko.
+        - Es ist gesund, Sport **zu machen**. - Yra sveika sportuoti.
+        - Es ist schön, Sie **zu sehen**. - Smagu tave matyti.
+        - Es ist toll, bei meinem Opa **zu sein**. - Puiku buti su seneliu.
+        - Es ist (nicht) erlaubt, im Unterricht **zu sprechen**. - Yra neleidziama kalbeti pamokoje.
+        - Es ist verboten, im Unterricht **zu telefonieren**. - Yra uzdrausta pamokoje kalbetis telefonu.
+
+Kablelis yra nebutinas kai veiksmazodis yra iskart po pagrdindines frazes, bet jei informacijos yra daugiau nei vienas vieksmazodis, tada kablelis yra butinas:
+
+- Ich habe keine Lust zu lernen.
+- Ich habe keine Lust, Deutsch zu lernen.
+
