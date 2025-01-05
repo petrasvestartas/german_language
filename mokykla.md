@@ -15,4 +15,4 @@
 ## Zodziai ir sakiniai apie mokykla
 
 - die Schule (Schulen) - mokykla
- - Lola geht nicht gern in die Schule. - Lola nemegsta eiti i mokykla.
+  - Lola geht nicht gern in die Schule. - Lola nemegsta eiti i mokykla.
