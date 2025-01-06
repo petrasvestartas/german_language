@@ -1,5 +1,7 @@
 # Laikinieji sakiniai
 
+## Laikinieji sakiniai su Als ir Wann
+
 Laikinieji sakiniai su zodeliu **als** apibudina ivyki, kuris ivyko viena karta praeityje.
 
 - Ich habe das letze Mal gespielt, **als ich bin ein Kind war**.
@@ -22,3 +24,7 @@ Kiti pavyzdziai:
 - **Als** ich 18 war, bin ich bei meinem Eltern ausgezogen.
 - Lola war so lieb, **als** sie klein war.
 - Katie hat Herrn Kraut im Hotel kennengelernt, **als** sie nach Berlin gekommen ist.
+
+## Laikinieji sakiniai su Wenn
+
+Laikinieji sakiniai su **wenn** - jeigu yra naudojami veiksmams dabartyje ir praeityje:
