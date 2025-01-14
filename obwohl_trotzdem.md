@@ -31,3 +31,6 @@ Trotzdem zodis gali buti neatskirtas arba atskirtas kableliu:
 - Er hat Laura verlassen, obwohl er sie liebt.
 - Obwohl er Laura liebt, hat er sie verlassen.
 - Er liebt Laura. Trotzdem hat er sie verlassen.
+
+Nors ir negalima taip sakyti, bet vieta sakinyje siu zodziu galima suprasti taip:
+Obwohl mano sakinys pagrindis, trotzdem salutinis priesingos pasekmes sakinys.
