@@ -28,6 +28,6 @@ Trotzdem zodis gali buti neatskirtas arba atskirtas kableliu:
 
 ## Palyginimas Obwohl ir Trotzdem
 
-Er hat Laura verlassen, obwohl er sie liebt.
-Obwohl er Laura liebt, hat er sie verlassen.
-Er liebt Laura. Trotzdem hat er sie verlassen.
+- Er hat Laura verlassen, obwohl er sie liebt.
+- Obwohl er Laura liebt, hat er sie verlassen.
+- Er liebt Laura. Trotzdem hat er sie verlassen.
