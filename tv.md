@@ -85,7 +85,7 @@
         - das Wetter - orai
 - die Politik - politika
         - Katie interessiert sich nicht für Politika. - Katie politika neidomu.
-- die Regierung - vyriausybe
+- die Regierung(Regierungen) - vyriausybe
         - Die Regierung will die Steuern nicht senken. - Vyriausybe nenori mazinti mokesciu.
 - der Politiker (Politiker) - politikas
         - Die Politiker reden zu viel. - Politikai kalba per daug.
