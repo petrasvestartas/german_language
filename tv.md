@@ -51,6 +51,7 @@
     - Bobbi stört die Werbung im Fernsehen. - Bobbi nerbuoja tv reklamos.
 - (sich) etwas ansehen / anschauen / angucken - ziureti kazka
     - Bobbi und Gogo sich eine Seifenoper an. - Bobbi ir Gogo ziuri muilo opera.
+
  
 ## die Fernsehsendungen - televizijos programos
 
@@ -92,3 +93,13 @@
         - Den Politikern geht es um Macht. - Politikai yra apie jega.
 - die Wahl (Wahlen) - rinkimai
         - Die nächste Wahl ist den Politikern wichtig. - Kiti rinkimai poltikams yra svarbus.
+- die Demonstration (Demonstrationen) - demonstracijos
+        - In vielen Städten fanden Demonstrationen statt. - Daugelyje miestu vyksta demonstracijos.
+- der Protest (Proteste) - protestas
+        - Es gab deutschlandweite Proteste. - Protestai buvo visoje Vokietijoje.
+- die Steuer (Steuern) - mokesciai
+        - Die Menschen protestieren für die Senkung der Steuern. - Zmones protestuoja mokesciu sumazinimui.
+- der Umsatz (Umsätze) - pajamaos
+        - Die deutsche Wirtschaft machte hohe Umsatz. - Vokietijos vyriausybe pade didelis pajamas.
+- der Sparkurs - taupymo planas
+        - Die Regierung will Ihren Sparkurs fortsetzen. - Vyriausybe nori testi taupymo plana.
