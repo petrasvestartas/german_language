@@ -15,6 +15,10 @@
 - Haribo macht Kinder froh... und Erwachsene ebenso. - Haribo dziugina vaikus ir suaugusius taip pat.
 - Ich will jetzt eh Tagesschau schauen. - Vistiek as noresiu ziureti naujienas.
 
+- Muss das sein? - Do we have to?
+- Politik, Wirtschaft und dieser ganze Quatsch! - Politika, ekonomika ir visa sita nesamone!
+- Ja, stimmt. - Taip, tai tiesa.
+
 ## Zodziai ir ju naudojimas
 
 - fernsehen - ziureti tv
