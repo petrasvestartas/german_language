@@ -18,6 +18,14 @@
 - Muss das sein? - Do we have to?
 - Politik, Wirtschaft und dieser ganze Quatsch! - Politika, ekonomika ir visa sita nesamone!
 - Ja, stimmt. - Taip, tai tiesa.
+- Es geht immer nur um Macht, Geld und die nächtse Wahl. - Visadai tai eina tik apie jega, pinigus ir kitus rinkimus.
+- Und was haben wir normalen Menschen davon? - Ir ka mes normalus zmones gauname is to?
+- Sagte der Arbeitslose. - Pasake bedarbis.
+- Ruhe jetzt! Es geht los. - Ramiai dabar. Prasideda.
+- Auch heute fanden wieder in vielen Städten Demonstrationen statt. - Taip pat siandien vyksta vel daug miesto demonstraciju.
+- Es gab tausende von Menschen, die für die Senkung der Steuern auf die Strasse gingen. - Buvo tukstanciai zmoniu, kurie del mokesciu sumazinimo i gatves isejo.
+- Frechheit! - Izulu!
+- Oh, unsere Regierung besteht nur aus Spiessern. - Oh, musu valdzia susideda tik is burzua.
 
 ## Zodziai ir ju naudojimas
 
