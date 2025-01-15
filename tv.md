@@ -65,3 +65,30 @@
 - die Nachrichten - naujienos
 - die Reportage (Reportagen) - reportazas
 - der Spielfilm (Spielfime) - filmas
+
+## Zinios
+
+- die Nachricht (Nachrichten) - zinios
+        - Bobbi sieht sich die Nachrichten an. - Bobbi ziuri zinias.
+- die Meldung (Meldungen) - prenesimas
+        - Eine Meldung jagte die andere. - Vienas pranesimas seke kita.
+- der Nachrichtensprecher (Nachrichtensprecher) - ziniu vedejas
+        - Der Nachrichtensprecher liest die Nachrichten vor. - Ziniu vedejas skaito zinias.
+- die Rubrik - kategorija
+        - die Politik - politika
+        - die Innenpolitik - vidaus politika
+        - die Aussenpolitik - uzsienio politika
+        - die Wirtschaft - ekonomika
+        - der Sport - sportas
+        - die Kultur - kultura
+        - das Wetter - orai
+- die Politik - politika
+        - Katie interessiert sich nicht für Politika. - Katie politika neidomu.
+- die Regierung - vyriausybe
+        - Die Regierung will die Steuern nicht senken. - Vyriausybe nenori mazinti mokesciu.
+- der Politiker (Politiker) - politikas
+        - Die Politiker reden zu viel. - Politikai kalba per daug.
+- die Macht - jega
+        - Den Politikern geht es um Macht. - Politikai yra apie jega.
+- die Wahl (Wahlen) - rinkimai
+        - Die nächste Wahl ist den Politikern wichtig. - Kiti rinkimai poltikams yra svarbus.
