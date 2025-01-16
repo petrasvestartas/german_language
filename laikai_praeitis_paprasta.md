@@ -97,7 +97,7 @@ Atskiriamieji veiksmazodiai
 
 ## Stiprieji veiksmazodziai
 
-Stiprieji veiksmazodziai daznai keicia priebalsi zodzio saknyje.
+Stiprieji veiksmazodziai daznai keicia priebalsi zodzio saknyje:
 
 - stattf**i**nden - stattf**a**nden
 - es g**i**b - es g**a**b
@@ -107,6 +107,15 @@ Arba keiciasi net visa saknis:
 - essen - assen
 - gehen - gingen
 - kommen - kammen
+
+Kai kurie veiksmazodiai keicia sakni bet baigiasi kaip silnieji veikmazodziai:
+
+- bringen - Ich brachte mein Kind ins Bett.
+- denken - Dachtest du, das ich früher nach Hause komme?
+- brenne - Das Haus brannte (dege).
+- kennen - Wir kannten (pazinoti) den Mann.
+- rennen - Ihr ranntet zum Zug.
+- wissen - Sie wussten es nicht.
 
 Linksniavimas:
 
@@ -142,3 +151,10 @@ Linksniavimas:
     - ihr kamt
     - sie/Sie kamen
  
+- werden - tapti
+    - ich wurde
+    - du wurdest
+    - er wurde
+    - wir wurden
+    - ihr wurdet
+    - sie/Sie wurden
