@@ -94,3 +94,51 @@ Atskiriamieji veiksmazodiai
     - Herr Kraut **holte** Lola vom Bahnhof **ab**.
 - einkaufen - apsipirkti
     - Wir **kauften** im Supermarkt **ein**.
+
+## Stiprieji veiksmazodziai
+
+Stiprieji veiksmazodziai daznai keicia priebalsi zodzio saknyje.
+
+- stattf**i**nden - stattf**a**nden
+- es g**i**b - es g**a**b
+
+Arba keiciasi net visa saknis:
+
+- essen - assen
+- gehen - gingen
+- kommen - kammen
+
+Linksniavimas:
+
+- geben - duoti
+    - ich gab
+    - du gabst
+    - es/sie/es gab
+    - wir gaben
+    - ihr gabt
+    - sie/ gaben
+
+- gehen - eiti
+    - ich ging
+    - du gingst
+    - er/sie/es ging
+    - wir gingen
+    - ihr gingt
+    - sie/Sie gingen
+
+- finden - rasti
+    - ich fand
+    - du fandest
+    - er/sie/es fand
+    - wir fanden
+    - ihr fandet
+    - sie/Sie fandet
+
+- kommen - ateiti
+    - ich kam
+    - du kamst
+    - er/sie/es kam
+    - wir kamen
+    - ihr kamt
+    - sie/Sie kamen
+ 
