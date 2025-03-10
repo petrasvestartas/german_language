@@ -15,3 +15,9 @@
 - Voraussetzungen: Muttersprache Englisch, gutes Deutsch, kreativ, kommunikativ und zuverlässig. - Reikavimai: gimtoji kalba anglu, gera vokieciu kalba, kreatyvumas, kommunikabiluma ir patikimumas.
 - Beginn: ab sofort. - Pradeti: is kart.
 - Du solltest dich da bewerben! - Tu turi ten kreiptis!
+- die Stelleanzeigen (Stelleanzeigen) - darbo reklama
+    -   Katie schaut sich ein paar Stelleanzeigen an. - Katie iesko darbo pasiulymu.
+- das Stelleangebot (Stelleangebote) - darbo pasiulymas
+    -  Es gibt ein Stelleangebot für Englischlehrer. - Yra darbo pasiulymas anglu kalbos mokytojams.
+- die Stelle (Stellen) - vieta
+    - Gibt es Stellen für Hundfriseure? - Ar yra vietu sunu kirpejoms?
