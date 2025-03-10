@@ -2,6 +2,7 @@
 
 ## Dialog 1: Sind Sie lustig und engagiert? - Ar tu esi linksmas ir isipareigojes
 
+- Ich möcte wider anfangen zu arbeiten. - As noreciau vel pradeti dirbti.
 - Ich möcte etwas anderes machen. - As noreciau daryti kazka kito.
 - Wenn ich das wüsste! - Jei as tik zinociau.
 - Überlegen wir mal. - Paziurekime.
