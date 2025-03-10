@@ -16,8 +16,16 @@
 - Beginn: ab sofort. - Pradeti: is kart.
 - Du solltest dich da bewerben! - Tu turi ten kreiptis!
 - die Stelleanzeigen (Stelleanzeigen) - darbo reklama
-    -   Katie schaut sich ein paar Stelleanzeigen an. - Katie iesko darbo pasiulymu.
+    - Katie schaut sich ein paar Stelleanzeigen an. - Katie iesko darbo pasiulymu.
 - das Stelleangebot (Stelleangebote) - darbo pasiulymas
-    -  Es gibt ein Stelleangebot für Englischlehrer. - Yra darbo pasiulymas anglu kalbos mokytojams.
+    - Es gibt ein Stelleangebot für Englischlehrer. - Yra darbo pasiulymas anglu kalbos mokytojams.
 - die Stelle (Stellen) - vieta
     - Gibt es Stellen für Hundfriseure? - Ar yra vietu sunu kirpejoms?
+- der Job (Jobs): darbas
+    - Katie sucht einen Job als Englischlehrerin. - Katie iesko Anglu kalbos mokytojos darbo.
+- der Muttersprachler (Muttersprachler) - gimtakalbis
+    - Einige Sprachschulen nehmen Mutterspracher. - Kai kurios kalbos mokyklos ima gimtakalbius.
+- der Quereinsteiget (Quereinsteiger) - karjeros keitejas
+    - Die Stelle ist auch für Quereinsteiger geeignet. - Vieta yra taip pat tinkama karjeros keitejams-
+- die Anfänger (Anfänger) - pradedantysis
+    - Anfänger sind willommen. - Pradedantieji yra laukiami.
