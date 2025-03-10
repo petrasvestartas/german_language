@@ -29,3 +29,17 @@
     - Die Stelle ist auch für Quereinsteiger geeignet. - Vieta yra taip pat tinkama karjeros keitejams-
 - die Anfänger (Anfänger) - pradedantysis
     - Anfänger sind willommen. - Pradedantieji yra laukiami.
+- die Bewerbung (Bewerbungen) - paraiska
+    - Man schickt eine Bewerbung. - Siuncia paraiska.
+- sich bewergen um + Akk. : duoti paraiska kazkam
+    - Katie soll sich um die Stelle bewergen. - Katie turi duoti paraiska darbo vietai.
+- die Bewerbungsunterlegen - paraiskos dokumentai
+    - Bitte senden Sie Ihre Bewerbungsunterlegen an...! - Prasome siusti savo paraiskos dokumentus i ... !
+- die Voraussetzung (Voraussetzungen) - reikalavimas
+    - In den Voraussetzungen für eine Stelle werden oft die erwarteten Qualifikationen, Kenntnisse und Kompetenzen formuliert. - Reikalavimuose ieskant darbo vietos yra daznai laukiamos kvalifikacijos, zinios ir kompetencijos.
+- die Qualifikation (Qualifikationen) - kvalifikacijos
+    - Die Qualifikationen können die Schulbildung, die Berufsausbildung, der Studienabschluss oder die Berufserfahrungen sein. - Kvalifikacijos gali buti mokslas mokykloje, profesinis mokymas, arba universiteto diplomas arba darbo patirtis.
+- die Kenntnis (Kenntnisse) - zinios / igudziai
+    - Kenntisse können zum Beispiel Computer- und/oder Sprachkenntnisse sein. - Zinios gali buti, pavyzdziui kompiuterio ar kalbos zinios.
+- die Kompetenz (Kompetenzen) - kompetencijos
+    - Kompetenzen sind Eigenschaften (charakteristikos), die für jeweilige Stelle gebraucht werden oder die eine Person für die Stelle mitbringt - 
