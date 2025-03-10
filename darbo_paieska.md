@@ -42,4 +42,14 @@
 - die Kenntnis (Kenntnisse) - zinios / igudziai
     - Kenntisse können zum Beispiel Computer- und/oder Sprachkenntnisse sein. - Zinios gali buti, pavyzdziui kompiuterio ar kalbos zinios.
 - die Kompetenz (Kompetenzen) - kompetencijos
-    - Kompetenzen sind Eigenschaften (charakteristikos), die für jeweilige Stelle gebraucht werden oder die eine Person für die Stelle mitbringt - 
+    - Kompetenzen sind Eigenschaften (charakteristikos), die für jeweilige Stelle gebraucht werden oder die eine Person für die Stelle mitbringt - kompetencijos yra savybes kuios yra reikiamos darbo vietai arba kurias atsinesa zmogus i darba.
+- belastbar - atsparus kaip zmogus
+- engagiert - isipareigojes
+- flexibel - lankstus
+- geduldig - kantrus
+- gewissenhaft - saziningas
+- kommunikativ - bendraujantis
+- kreativ - kurybingas
+- teamfähig - komandos zaidejas
+- sebständig - nepriklausomas
+- zuverlässig - patikimas
