@@ -60,3 +60,45 @@ For the formation of polite requests we use the subjunctive II of:
     -  **Hättest** du jeute Zeit? - Would you have time today?
 -  Haben Sie heute Zeit? - Are you free today?
     -  **Hätten** Sie heute Zeit? - Would you have time today?
+
+## Subjunctive II B1
+
+In german we distinguish between the indicative and the subjunctive II. The indicattive denotes a real world:
+
+- Katie **arbeitet** als Hundefriseurin.
+
+With the subjunctive II we express:
+
+- wishes and dreams: **möchten, hätten gern, wären gern, würden gern**
+    - Ich **möchte** wieder anfangen zu arbeiten.
+    - Ich **hätte gern** einen anderen Job.
+    - Ich **wäre gern** Lehrerin.
+    - Ich **würde gern** etwas anderes.
+
+Note: with möchten the adverb gern (gladly) can be omitted. With the other verbs it is used to express a wish.
+
+- suggestion and advice: **können, sollen**
+    - Du **könntest** hier Englisch unterrichten.
+    - Du **solltest** dich dort bewerben.
+
+- polite requests and questions:
+    - **Könntest** du bitte etwas langsamer sprechen?
+    - **Würden** Sie mir bitte helfen?
+    - **Hätten** Sie einen Stift für mich?
+ 
+- hypothesis:
+    - Du **wärst** bestimmt eine super Lehrerin!
+ 
+The subjunctive II shows the opposite of the indicative:
+
+- Real: Katie ist keine Lehrerin.
+- Irreal: Katie wäre bestimmt eine super Lehrerin.
+
+### Sein
+
+- Ich wäre
+- du wärst
+- er/sie/es wäre
+- wir wären
+- ihr wärt
+- sie/Sie wären
