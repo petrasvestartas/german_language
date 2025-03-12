@@ -96,9 +96,86 @@ The subjunctive II shows the opposite of the indicative:
 
 ### Sein
 
-- Ich wäre
+- ich wäre
 - du wärst
 - er/sie/es wäre
 - wir wären
 - ihr wärt
 - sie/Sie wären
+
+### Haben
+
+- ich hätte
+- du hättest
+- er/sie/es hätte
+- wir hätten
+- ihr hättet
+- sie/Sie hätten
+
+### Können
+
+Letter **T** is added.
+
+- ich könnte
+- du könntest
+- er/sie/es könnte
+- wir könnten
+- ihr könntet
+- sie/Sie könnten
+
+- Gestern **konnte** ich nicht kommen. Ich **könnte** an einem anderen Tag kommen.
+
+### Müssen
+
+Letter **T** is added.
+
+- ich müsste
+- du müsstest
+- er/sie/es müsste
+- wir müssten
+- ihr müsstet
+- sie/Sie müssten
+
+### Dürfen
+
+Letter **T** is added.
+
+- ich dürfte
+- du dürftest
+- er/sie/es dürfte
+- wir dürften
+- ihr dürftet
+- sie/Sie dürften
+
+### Möchten
+
+- ich möchte
+- du möchtest
+- er/sie/es möchte
+- wir möchten
+- ihr möchtet
+- sie/Sie möchten
+
+### Wollen
+
+The same as simple past.
+
+- ich wollte
+- du wolltest
+- er/sie/es wollte
+- wir wollten
+- ihr wolltet
+- sie/Sie wollten
+
+### Sollen
+
+
+The same as simple past.
+
+- ich sollte
+- du solltest
+- er/sie/es sollte
+- wir sollten
+- ihr solltet
+- sie/Sie sollten
+
