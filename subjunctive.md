@@ -156,6 +156,20 @@ Letter **T** is added.
 - ihr möchtet
 - sie/Sie möchten
 
+**Möchten** (would like) is actally the subjunctive II of  **mögen** (like). But today it is used as an independent modal verb and as a polite variant of **wollen** (want), especially when addressing another person:
+
+- Ich **will** mich bei Ihnen bewerben. - Ich **möchte** mich bei Ihnen bewerben.
+
+For the past tense of **möchten** we take the forms of **wollen**:
+
+- Ich will mich bewerben. - Gestern **wollte** ich mich bewerben.
+- Ich möchte mich bewerben. - Gestern **wollte** ich mich bewerben.
+
+**Mögen** is almost only used as a full verb is combination with a noun, in the meaning **etwas gern haben** (to like something):
+
+- Ich **mag** meinen Beruf.
+- Katie **mag** Kinder.
+
 ### Wollen
 
 The same as simple past.
@@ -166,6 +180,10 @@ The same as simple past.
 - wir wollten
 - ihr wolltet
 - sie/Sie wollten
+
+The subjunctive II form of **wollen** is used for example, to express an unreal condition:
+
+Wenn Katie **wollte**, könnte sie in Deutschland studieren.
 
 ### Sollen
 
@@ -179,3 +197,21 @@ The same as simple past.
 - ihr solltet
 - sie/Sie sollten
 
+
+### Other verbs
+
+Some verbs we use in the subjunctive II form, for example **wissen**:
+
+- Ich wüsste es gern.
+- Du wüsstest es gern.
+- Er/Sie/Es wüsste es gern.
+- Wir wüssten es gern.
+- Ihr wüsstet es gern.
+- sie/Sie wüssten es gern.
+
+We usually use the other verbs with the auxilliary verb **werden** (to become) in the subjunctive II and the infinitive:
+
+- Katie **würde** gern etwas anderes **machen**.
+- Du **würdest** gern in einer Sprachschule **arbeiten**.
+- Er/Sie/Es **würde** gern **schlafen**.
+- Wir **würden** gern Deutsch **lernen**.
