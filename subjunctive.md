@@ -215,3 +215,5 @@ We usually use the other verbs with the auxilliary verb **werden** (to become) i
 - Du **würdest** gern in einer Sprachschule **arbeiten**.
 - Er/Sie/Es **würde** gern **schlafen**.
 - Wir **würden** gern Deutsch **lernen**.
+- Ihr **würdet** gern Bewerbungen (applications) **schreiben**.
+- sie/Sie **würden** sich gern **bewerben**.
