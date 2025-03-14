@@ -90,6 +90,7 @@ Jei tu aplikuoji darbui, aplikacijos dokumentai susideda is motivacinio laisko (
 - Schluss - Pabaiga
     - Grussformel - formalus pasveikinimas
     - Unterschrift - parasas
+- Anlage - priedai
  
 ### Empfänger:
 Fröhlich Englisch lernen
@@ -104,6 +105,25 @@ Berlin, 10, Oktober 2019
 Bewerbung als Englischlehrerin
 
 ### Anrede
-Sehr geehrte Frau Fröhlich
+Sehr geehrte Frau Fröhlich,
 
- 
+### Einleitung (ivadas)
+da die Beschreibung meinem Vorstellungen und meinem Fähigkeiten enspricht, bewerbe ich mich hiermit un diese Stelle.
+
+### Hauptteil (Komptenzen, Kenntisse, Motivation)
+Ich bin gelernte Hundefriseurin, aber ich habe seit längerem den Wunsch, mich in eine andere berufliche Richtung zu entwickeln und mich neuen Herausforderungen zu stellen.
+
+Deshalb bringe ich für die Stelle viel Kreativität und Engagement mit. Ich bin eine kommunikative und zuverlässige Person, die gern Neues lernt un spass an der Arbeit mit Kindern hat.
+
+Meine Muttersprache is Englisch, weil ich aus Australien komme. Ausserdem beherrsche (meistras) ich Deutsch sicher in Wort und Schrift.
+
+### Schluss
+
+Mit freundlichen Grüssen
+Katie Koch
+
+### Anlagen (priedai)
+
+Lebenslauf, Zeugniskopie (falls vorhanden) - cv, rekomendaciniai laiskai.
+Geresnis:; Im Anhang finden Sie meinen Lebenslauf und meine Zeugniskopien.
+
