@@ -53,3 +53,12 @@
 - teamfähig - komandos zaidejas
 - sebständig - nepriklausomas
 - zuverlässig - patikimas
+- mit sehr grossem Interesse - su dideliu susidomejimu
+- Ich bewerbe mich hiermit für die Stelle. - As kreipiuosi todel i sias pareigas.
+- Das sind die Standardformulierungen. - Tai yra standartinis formuliaras,
+- Was macht ihr denn? - Kas jus darote?
+- Wir schreiben eine überzeugende Bewerbung. - Mes rasome itikinancia aplikacija.
+- Wenn ich der Chef wäre, dann würde ich ein Video viel geiler finden. - Jei buciau virsininkas, man video butu daug kietesnis.
+- Ich weiss da was. - As zinau kai ka.
+- Ich bin bereit. - As tuoj busiu pasiruoses.
+- Die Kinder werden viel Spass mit mir haben. - Vaikai tures daug smagumo su manimi.
