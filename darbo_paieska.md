@@ -62,3 +62,48 @@
 - Ich weiss da was. - As zinau kai ka.
 - Ich bin bereit. - As tuoj busiu pasiruoses.
 - Die Kinder werden viel Spass mit mir haben. - Vaikai tures daug smagumo su manimi.
+
+## Sich bewerben
+
+Jei tu aplikuoji darbui, aplikacijos dokumentai susideda is motivacinio laisko (Anschreiben), cv (dem Lebenslauf) ir rekomendiciniu laisku (den Zeugnissen).
+
+- das Anschreiben (Anschreiben) - motivacinis laiskas
+- der Lebenslauf (Lebensläufe) - cv
+- das Zeugnis (Zeugnisse) - rekomendacinis laiskas
+    - Schulzeugnis - mokyklos pazymejimas
+    - Universitätzeugnis - universiteto pazymejimas
+    - Praktikumzeugnis - praktikos rekomendacinis laiksas
+    - Arbeitzeugnis - darbo rekomendacinis laiskas
+
+## Das Anschreiben - motivacinis laiskas
+
+- Absender - Siuntejas
+- Empfänger (Unternehmen) - gavejas (imone)
+- Ort + Datum - vieta ir laikas
+- Betreff - tema
+- Anrede - pasisveikinimas
+- Einleitung - ivadas
+- Hauptteil - pagrindine dalis
+    - Komptenzen - kompetencijos
+    - Kenntnisse - zinios
+    - Motivation - motivacija
+- Schluss - Pabaiga
+    - Grussformel - formalus pasveikinimas
+    - Unterschrift - parasas
+ 
+### Empfänger:
+Fröhlich Englisch lernen
+Rosa Fröhlich
+Alexanderstrasse 11
+10178 Berlin
+
+### Ort + Datum
+Berlin, 10, Oktober 2019
+
+### Betreff
+Bewerbung als Englischlehrerin
+
+### Anrede
+Sehr geehrte Frau Fröhlich
+
+ 
