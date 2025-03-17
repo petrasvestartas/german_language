@@ -222,10 +222,19 @@ We usually use the other verbs with the auxilliary verb **werden** (to become) i
 ### Irreale Bedingungssätze (isgalvotos situacijos)
 
 Konjuktiv II yra naudojamas isgalvotoms situacijoms esamajame laike:
-- **Wenn** ich der Chef **wäre**, dann **würde** ich ein Video viel geiler**finden**. - Jei buciau virsininkas, man patiktu daug labiau video zaidimas.
+- **Wenn** ich der Chef **wäre**, dann **würde** ich ein Video viel geiler**finden**. - Jei buciau virsininkas, man patiktu daug labiau video.
 - Ich **würde** ein Video viel geiler **finden**, **wenn** ich der Chef **wäre**.
 
 Nerealios situacijos parodo atvirkcia situacija realioms:
 - Katie hat Teller. Sie kann joglieren.
 - Wenn Katie keine Teller hätte, könnte sie nicht jonglieren.
+
+Posityvus sakinys pasidaro negatyvus:
+- Katie hat Teller. -> Wenn Katie **keine** Teller hätte, könnte sie **nicht** jonglieren.
+
+Negatyvus sakinys pasidaro posityvus:
+- Katie hat **keine** Teller. -> Wenn Katie Teller hätte, könnte sie jonglieren.
+
+Galima praleisti zodi jeigu, tada sakinys prasideda nuo veiksmazodio:
+- **Wäre** ich der Chef, würde ich ein Video viel geiler finden.
 
