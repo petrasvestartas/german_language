@@ -217,3 +217,15 @@ We usually use the other verbs with the auxilliary verb **werden** (to become) i
 - Wir **würden** gern Deutsch **lernen**.
 - Ihr **würdet** gern Bewerbungen (applications) **schreiben**.
 - sie/Sie **würden** sich gern **bewerben**.
+
+
+### Irreale Bedingungssätze (isgalvotos situacijos)
+
+Konjuktiv II yra naudojamas isgalvotoms situacijoms esamajame laike:
+- **Wenn** ich der Chef **wäre**, dann **würde** ich ein Video viel geiler**finden**. - Jei buciau virsininkas, man patiktu daug labiau video zaidimas.
+- Ich **würde** ein Video viel geiler **finden**, **wenn** ich der Chef **wäre**.
+
+Nerealios situacijos parodo atvirkcia situacija realioms:
+- Katie hat Teller. Sie kann joglieren.
+- Wenn Katie keine Teller hätte, könnte sie nicht jonglieren.
+
