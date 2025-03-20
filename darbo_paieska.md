@@ -127,3 +127,15 @@ Katie Koch
 Lebenslauf, Zeugniskopie (falls vorhanden) - cv, rekomendaciniai laiskai.
 Geresnis:; Im Anhang finden Sie meinen Lebenslauf und meine Zeugniskopien.
 
+## CV
+
+- die Lebensauf (Lebenläufe) - cv
+- persönliche Daten - asmenine informacija
+- die Berufserfahrung (Berufserfahrungen) - darbo patirtis
+- die Ausbildung (Ausbildungen) - patirtis / praktika
+- der Bildungsweg (Bildungswege) - mokslas
+- die Kenntnis (Kenntnisse) - zinios, iguziai
+    -    Sprachkenntnisse - kalbos zinios
+    -    Computerkenntnisse - kompiuterio zinios
+- das Hobby (Hobbys) - hobis
+- die Interessen - pomegiai
