@@ -26,3 +26,14 @@ Kartais **es** perima daiktavardzio funkcijas, neturint jokio tiesioginio vertim
 - Wie geht **es** dir? **Es** geht mir gut/schlecht.
 - **Es** duftet (smells good) / riecht (smells) / stinkt.
 - **Es** klingelt/klopft (knocks)/ knackt (cracks) / raschelt (rustles).
+
+Kartais sakinys su **es** sunjungiamas su **dass-Satz** arba **Infinitivsatz**:
+
+- **Es** ist schön, **dass du mitkommst**.
+- **Es** ist wichtig, **dass wir eine Wärmeflasche mitnehmen**.
+- **Es** ist nicht möglich, **alles eunzupacken**.
+
+Jei antrasis sakinys yra pirmas **es** yra praleidziamas:
+
+- Dass d mitkommst, ist schön.
+- Alles einzupacken, ist nicht möglich.
