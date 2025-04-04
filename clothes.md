@@ -97,3 +97,24 @@ Usage with the word **aus**:
 - Der Ring ist **aus Silber**.
 - Das Armband ist **aus Leder**.
 - Der Tisch ist **aus Holz**.
+
+## Reisevorbereitungen - pasiruosimas kelionei
+
+- das Gepäck - bagazas
+- das Gepäckstück (Gepäckstücke) - bagazo vienetas
+- der Koffer (Koffer) - lagaminas
+- die (Reise)Tasche (Taschen) - (kelioninis) krepsys
+- der Rucksack (Rucksäcke) - kuprine
+- der Kulturbeutel (Kulturbeutel) - tualeto reikmenu krepsys
+
+## Die Winterkleidung - winter clothing
+
+- die Mütze (Mützen) - kepure
+- der Schal (Schals/Schale) - salikas
+- der Handschuh (Handschuhe) - pirstines
+- die Jacke (Jacken) - striuke
+- der Pullover - megztinis / dzemperis
+- die Hose (Hosen) - kelnes
+- die Unterwäsche (Unterwäschen) - apatiniai
+- der Strumpf (Strümpfe) - kojine
+- der Stiefel - batai
