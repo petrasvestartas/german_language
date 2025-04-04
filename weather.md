@@ -10,7 +10,8 @@
 - Das Gewitter. Es donnert und blitzt. (- The thunderstorm. There is thunder and lightning.)
 - Der Nebel. Es ist neblig. (- The fog. It is foggy.)
 
-![Uploading Screenshot 2025-04-04 at 13.36.24.png…]()
+
+<img width="346" alt="Screenshot 2025-04-04 at 13 36 24" src="https://github.com/user-attachments/assets/f64f5d2a-b5b3-45ab-b06b-6d5d0883d321" />
 
 
 ## Wie viel Grad sind es?
