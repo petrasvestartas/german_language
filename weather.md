@@ -10,6 +10,9 @@
 - Das Gewitter. Es donnert und blitzt. (- The thunderstorm. There is thunder and lightning.)
 - Der Nebel. Es ist neblig. (- The fog. It is foggy.)
 
+![Uploading Screenshot 2025-04-04 at 13.36.24.png…]()
+
+
 ## Wie viel Grad sind es?
 - Es sind 25 Grad. Es ist warm.
 - Es sind 8 Grad. Es ist kühl (chilly).
