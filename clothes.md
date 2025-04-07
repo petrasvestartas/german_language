@@ -107,7 +107,7 @@ Usage with the word **aus**:
 - der Rucksack (Rucksäcke) - kuprine
 - der Kulturbeutel (Kulturbeutel) - tualeto reikmenu krepsys
 
-## Die Winterkleidung - winter clothing
+## Die Winterkleidung - ziemos drabuziai
 
 - die Mütze (Mützen) - kepure
 - der Schal (Schals/Schale) - salikas
@@ -118,3 +118,18 @@ Usage with the word **aus**:
 - die Unterwäsche (Unterwäschen) - apatiniai
 - der Strumpf (Strümpfe) - kojine
 - der Stiefel - batai
+
+## Reiseutensilien - keliones butniausi dalykai
+
+- das Handy / Smartphone - mobilus telefonas
+- das Ladegerät (Ladegeräte) - pakrovejas
+- das Bügeleisen (Bügeleisen) - lygintuvas
+- das Taschenmesser (Taschenmesser) - kelionis peilis
+- die Schere (Scheren) - zirkles
+- die Kometik (Kosmetika) / das Make-up (Make-ups) / die Schminke - kosmetika
+- die Kamera (Kameras) / der Fotoapparat (Fotoapparate) - kamera
+- die Taschenlampe (Tachenlampen) - prozektorius
+- die Batterie (Batterien) - baterija
+- die Lupe (Lupen) - padidinamasis stiklas
+- das Bargeld - grynieji
+- der Ausweis (Ausweise) - pasas
