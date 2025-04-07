@@ -29,4 +29,8 @@ Inversija:
 
 **Um** dursch Europa **zu reisen**, brauche ich Geld.
 
+## Tikslo sakiniai su damit (todel, del to)
 
+Tikslo sakiniai gali taip pat buti konstruojami su zodziu **damit**, naudojant linksniuota veiksmazodi:
+
+- Ihre Unterwäsche mustt glatt sein, **damit** SIe im Krankenhaus ordentlich **aussehen**.
