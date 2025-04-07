@@ -34,3 +34,35 @@ Inversija:
 Tikslo sakiniai gali taip pat buti konstruojami su zodziu **damit**, naudojant linksniuota veiksmazodi:
 
 - Ihre Unterwäsche mustt glatt sein, **damit** SIe im Krankenhaus ordentlich **aussehen**.
+
+Abi sakinio dalys gali buti konstruojamos su tuo paciu veiknsiu:
+
+- **Ich** brauch das Bügelseinen, **damit ich** Ihre Unterwäsche bügeln kann.
+
+Jei veiksniai skiriasi, vietoj **um ... zu**, turime naudoti **damit**:
+
+- **Ihre Unterwäsche** must glatt sein, **damit Sie** im Krankenhaus ordentlich aussehen.
+
+Inversija:
+
+**Damit Sie** im Krankenhaus ordentlich aussehen, muss **Ihre Unterwäsche** glatt sein.
+
+## Isvada naudojant **um ... zu** ir **damit**
+
+Jei abiejose sakinio dalyse veiksniai yra tie patys galime naudoti tiek **um ... zu** tiek **damit**, jei skiriasi tik **damit**.
+
+- **Ich** brauche das Bügeleisen, **damit** ich Ihre Unterwäsche bügeln kann.
+- **Ich** brauche das Bügeleisen, **um** Ihre Unterwäsche **zu** bügeln.
+- **Ihre Unterwäsche** muss glatt sein. **damit Sie** im Krankenhaus ordentlich aussehen.
+
+### Isimtis
+
+Modalniai veiksmazodziai: sollen, möchten. wollen pakeiciami **können**, kuris dar gali buti praleidziamas.
+
+- **Wozu** brauchst du Geld?
+    - Ich will dursch Europa reisen.
+    - Ich brauche Geld, **um** durch Europa **reisen zu können**.
+    - Ich möchte ein Auto kaufen.
+    - Ich brauche Geld, **um** ein Auto **zu kaufen**.
+    - Ich soll Eier kaufen.
+    - Ich brauche Geld, **um Eier **zu kaufen**.
