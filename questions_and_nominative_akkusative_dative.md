@@ -275,4 +275,10 @@ But if you are sure, you use the conjunction **dass** instead of  **ob**:
 - Wissen Sie vielleicht, **wann** der Deutschkurs beginnt?
 - Kannst du mir erklären, **wie** der Geldautomat funktioniert?
 - Ich kann dir nicht sagen, **was** Gogo den ganzen Tag macht.
- 
+
+## Um einem Gefallen bitten - prasyti paslaugos
+
+- Könnte ich Sie um einen Gefallen bitten? - Aber natürlich! / Okay, ausnahmsweise.
+- Könnten Sie ab und zu nach dem Rechten sehen? (Ar galite karts no karto viska patikrinti?) - Ja, das mache ich doch gern!
+- Wäre es möglich, dass Sie unsere Post aus dem Briefkasten holen? - Selbstverständlich, gar kein Problem.
+- Würde es Ihnen etwas ausmachen (ar galite), wenn Sie unsere Pflanzen giessen? - Keineswegs (ne). Ich giesse gern Ihre Pflanzen.
