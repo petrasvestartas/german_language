@@ -133,3 +133,18 @@ Usage with the word **aus**:
 - die Lupe (Lupen) - padidinamasis stiklas
 - das Bargeld - grynieji
 - der Ausweis (Ausweise) - pasas
+
+
+## Die Reiseapotheke - kelionine vaistinele
+
+- die Reiseapotheke (Reiseapotheken) - kelionine vaistinele
+- die Wärmeflasche (Wärmeflaschen) - termosas
+- das Pflaster (Pflaster) - pleistras
+- das Verbandszeug - tvarsciai
+- das Madikament (Medikamente) - vaistai
+- die Tablette (Tabletten) - tabletes
+- die Salbe (Salben) - tepalas
+- das Desinfektionsmittel (Desinfektionsmittel) - dezinfekavimo priemone
+- das Fieberthermometer (Fieberthermometer) - termometras
+- der Ohrstöpsel (Ohrstöpsel) - ausu kimsutkai
+- das Taschentuch (Taschentücher) - nosine
