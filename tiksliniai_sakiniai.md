@@ -66,3 +66,17 @@ Modalniai veiksmazodziai: sollen, möchten. wollen pakeiciami **können**, kuris
     - Ich brauche Geld, **um** ein Auto **zu kaufen**.
     - Ich soll Eier kaufen.
     - Ich brauche Geld, **um Eier **zu kaufen**.
+
+## Zu + Nomen (im Dative)
+
+- **Wozu** brauchst du die Wärmeflasche?
+- Ich brauche sie, **um** einschlafen **zu** können.
+- Ich brauche sie **zum** Einschlafen.
+
+Is veiksmazodi galima formuoti daiktavardzius. Jie visada naudoaja neutralu priesdeli:
+
+- das Einschlafen - zu + dem (zum) Einschlafen
+- die Blumen + das Giesen = das Blumengiessen
+- Wozu brauchst du die Giesskanne? - zum Blumengiessen
+- Wozu braucht d Taschentücher? - zum Naseputzen
+
