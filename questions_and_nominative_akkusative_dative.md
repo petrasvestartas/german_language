@@ -282,3 +282,15 @@ But if you are sure, you use the conjunction **dass** instead of  **ob**:
 - Könnten Sie ab und zu nach dem Rechten sehen? (Ar galite karts no karto viska patikrinti?) - Ja, das mache ich doch gern!
 - Wäre es möglich, dass Sie unsere Post aus dem Briefkasten holen? - Selbstverständlich, gar kein Problem.
 - Würde es Ihnen etwas ausmachen (ar galite), wenn Sie unsere Pflanzen giessen? - Keineswegs (ne). Ich giesse gern Ihre Pflanzen.
+
+## Relativsätze: Nominativ
+
+Relatyvines salygos sakiniai duoda daugiau detaliu apie daiktavardi:
+
+**maskulin:** Der Rhein is einf **Fluss, der** sich in Deutschland befindet.
+
+**feminin:** Ich frag' mal die **Frau, die** da im Baum sitz.
+
+**neutral:** Das Elbsandsteingebirge is ein **Gebirge, die** in Deutschland liegen.
+
+**plural:** Bayern un Saschsen sind **Bundersländer, die** in Deutschland liegen.
