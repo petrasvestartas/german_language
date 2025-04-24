@@ -43,7 +43,18 @@
 - das Bett (Better) - lova
 - der Lattenrost (Lattenroste) - groteliu remas
 - die Matratze (Matrazen) - ciuzinys
-- die Decke/Bettdecke (Decken/Bettdecken) - uzklotas, lovos uzklotas
+- die Decke/Bettdecke (Decken/Bettdecken) - antklode, lovos uzklotas
+- das Kissen (Kissen) - pagalve
+- die Bettwäsche (Bettwäschen) - patalyne (bendra)
+- der Bezug (Bezüge) - uzvalkalas (korektus sofos ar lovos)
+- das Laken (Laken) - antklode
+- die Nachttischlampe (Nachttischlampen) - naktine lempa
+- der Teppisch (Teppische) - kilimas
+- der Vorhang (Vorhänge) - uzuolaida
+- die Heizung (Heizungen) - sildymas
+- die Kommode (Kommoden) - komoda
+- der Schlafanzug (Schlafanzüge) / der Pyjama (Pyjamas) - pizama
+
 
 <img width="434" alt="Screenshot 2025-04-24 at 09 41 11" src="https://github.com/user-attachments/assets/732ba7c0-91dc-4147-a816-deb1ac3f03e0" />
 
