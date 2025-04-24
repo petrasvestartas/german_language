@@ -345,3 +345,36 @@ When a fixed point or a place is indicated, the preoposition stands with the dat
 - Die Lampe hängt **über dem** Tisch. - The lamp hangs **above** the table.
 - Der Hund liegt **unter dem** Bett. - The dog lies **under** the bed.
 - Die Pflanze steht **zwichen dem** Sofa und **dem** Tisch. - The plant stands **between** the sofa and the table.
+
+## Kripties veiksmazodziai
+
+Yra 9 dvieju daliu prielinksniai: an, auf, hinter, in, neben, über, unter, von und zwischen.
+
+Prielinkniai su Akkusativ rodo judejima, krypti:
+
+- Der Vermieter legt die Schlüssel **unter die** Fussmatte.
+
+ Krypties veiksmazodziai: legen, stellen, hängen, setzen.
+
+ - Wohin legt der Vermieter die Schlüssel? Er legt die Schlüssel unter die Fussmatte.
+ - Wohin stellt Katie die Kerzen? Sie stellt die Kerzen in das Bad.
+ - Wohin hängt Katie die Jacke? Sie hängt die Jacke in den Schrank.
+ - Sie stellt die Flasche auf den Tisch.
+ - Sie legt das Buch auf den Tisch.
+ - Sie setzt die Katze auf den Tisch.
+ - Sie hängt die Lampe über den Tisch.
+
+<img width="578" alt="Screenshot 2025-04-24 at 09 09 39" src="https://github.com/user-attachments/assets/d972eb82-fc13-46ce-93fc-a1edef405969" />
+
+Krypties veiksmazodziai praeityje:
+- Sie hat die Flasche auf den Tisch gestellt.
+- Sie hat das Buch auf den Tisch gelegt.
+- Sie hat die Katze auf den Tisch gesetzt.
+- Sie hat die Lampe über den Tisch.
+
+Stellen ar legen:
+- Sie stellt das Buch auf den Tisch.
+- Sie legt das Buch auf den Tisch.
+
+<img width="578" alt="Screenshot 2025-04-24 at 09 13 53" src="https://github.com/user-attachments/assets/9184281f-53cd-47bf-be54-eb1754bd1efd" />
+
