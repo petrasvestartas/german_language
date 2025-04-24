@@ -37,4 +37,13 @@
 - der Vermieter - the landlord
 - der Nachbar(n) - the neighbor(s)
 - der Hausmeister - the janitor
-  
+
+## Im Schlafzimmer
+
+- das Bett (Better) - lova
+- der Lattenrost (Lattenroste) - groteliu remas
+- die Matratze (Matrazen) - ciuzinys
+- die Decke/Bettdecke (Decken/Bettdecken) - uzklotas, lovos uzklotas
+
+<img width="434" alt="Screenshot 2025-04-24 at 09 41 11" src="https://github.com/user-attachments/assets/732ba7c0-91dc-4147-a816-deb1ac3f03e0" />
+
