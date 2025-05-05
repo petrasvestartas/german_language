@@ -30,3 +30,5 @@ Daiktavardis iprastai naudojamas kaip akusatyvje, tampa veiknsiu:
 Taciau galima si veiksni ir pamineti, **von + dative**:
 
 - Die Eier werden **von Christin und Gogo** abgenommen.
+- Die Brötchen werden **von Margitta** gebacken.
+- Ich werde **von meinem Freunden** eingelande.
