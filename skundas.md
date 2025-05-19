@@ -13,3 +13,5 @@
 - Ich will, dass Sie uns entschädigen. - As noriu, kas Jus mums tai kompensuotumete.
 - Ich will mein Geld zurückhaben. - As noriu susigrazinti mano pinigus.
 - Ich wünsche mir, dass Sie mir die Kosten zurückerstatten. - As pageidauciau, kad jus man islaidas atlygintumete.
+- Ich erwarte von Ihnen eine Rückzahlung unserer Unterkunftskosten. - As tikiuosiu is jusu pinigus grazinimo uz apgyvendinima.
+- Ich verlage von Ihnen eine Entschädigung. - As reikalauju is jusu kompensacijos.
