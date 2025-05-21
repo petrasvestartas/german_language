@@ -37,3 +37,4 @@ Po **wegen** naudojame Genityva:
 **Trotz** naudojamas nelogiskai isvadai.
 
 **Trotz** der Unannemlichkeiten werden wir Sie positiv bewerten.
+**Trotz** der Kälte haben wir gut geschlafen.
