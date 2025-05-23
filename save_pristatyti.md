@@ -5,5 +5,5 @@
 - Ich wohne seit acht Jahre in der Schweiz.
 - Ich arbeite als Forscher an der ETHZ Zürich.
 - In meiner Freizeit gehe ich wandern in den Bergen und joggen.
-- Ich interessiere mich für Bauingenieurwesen aus Holz. Ich habe einen Doktortitel im Holzbau.
+- Ich interessiere mich für Bauingenieurwesen (civiline inzinerija) aus Holz. Ich habe einen Doktortitel im Holzbau.
 - Meine Muttersprache ist Litauisch, aber ich lerne seit zwei Jahren Deutsch.
