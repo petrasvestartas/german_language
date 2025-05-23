@@ -54,4 +54,41 @@
     - Was ist Ihr Lieblingsreiseziel (megstamiausia keliones kryptis)?
     - Reisen Sie lieber allein oder mit anderen?
 
+- Gesundheit und Sport
+    - Was tun Sie für Ihre Gesundheit?
+    - Treiben Sie regelmässig Sport? - reguliariai mankstinates?
 
+- Arbeit und Beruf
+    - Was ist Ihnen in Beruf wichtig?
+    - Was ist Ihr Traumberuf?
+ 
+- Lernen und Sprachen
+    - Warum lernen Sie Deutsch?
+    - Wie lernen Sie am liebsten?
+
+- Wohnen und Umgebung - bustas ir aplinka
+    - Wo wohnen Sie?
+    - Was gafällt Ihnen an Ihrem Wohnort?
+
+- Famielie und Freunde
+    - Wie wichtig sind Famielie und Freunde für Sie?
+
+- Enkaufen und Konsum
+    - Wo kaufen SIe normalerweise ein?
+    - Kaufen Sie lieber online oder im Geschäft?
+ 
+- Essen und Trinken
+    - Kochen Sie gern?
+    - Was essen Sie am liebsten?
+
+- Feiertage und Traditionen
+    - Welche Feste feiern Sie in Ihrem Land?
+    - Haben Sie ein Lieblingsfest?
+ 
+- Medien und Nachrichten - ziniasklaida ir naujienos
+    - Wie informieren Sie sich?
+    - Schauen Sie oft Nachrichten?
+
+- Schule und Ausbildung - Mokykla ir mokymasis
+    - Wie war Ihre Schulzeit?
+    - Welche Ausbildung haben Sie gemacht?
