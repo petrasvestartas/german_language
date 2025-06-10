@@ -1,0 +1,77 @@
+# Job Interviu
+
+- Vorstellungsgesprärch / Bewerbungsgespräch - job interview
+- Ich bereite mich auf das Vorstellungsgespräch.
+- Ich arbeite als Forscher.
+- Ich bewerbe mich als Pilot im Militär.
+- Ich habe eine Einladung zu Jobinterview.
+- Ich habe fünf Jahre Erfahrung als Software entwickler.
+- Bitte nehmen sie Platz.
+- Gestern war Arbeitsgeber nicht so gut mit mir.
+- Das Unternehmen ist gross.
+- Sizt - pagrdindine firmos bustine
+- Stärke - stiprybes
+- Schwäche - silpnybes
+- Welche Eingeschaft hast du? - Koks tu esi kaip zmogus?
+- Das gelungene ich. - As esu sekmingas
+- Geeignet seid - buti tinkamas
+- Warum denkst du, dass du für das Platz geeignet bist?
+- Wie bereitest du dich auf ein Vortellungsgespräch vor?
+- Die Person mir ... angebot. - zmogus pasiule man
+- Es gab 2 Runder.
+- Ich habe einen guten Eindruck hinterlernen. - As turiu gera ispudi su jumis susipazines.
+- Ich habe das Position bekommen.
+- Ein Vorstellungsgespräch hat oft fünf Phasen.
+
+- Begrüssung
+    - Guten Tag, Frau / Herr ... ! Schön, dass Sie da sind. Ich bin Frau / Herr ...
+    - Guten Tag, Frau / Herr ! Vielen Dank für die Einladung!
+    - Nehmen Sie Platz! Möchten Sie etwas trinken?
+    - Ja, ich nehme ..., danke. / Nein, danke.
+    - Hier bitte schön. Habe Sie gut zu uns gefunden?
+    - Ja, ich ... Heute ist das Wetter ja ...
+    - Das stimmt! Hoffentlich bleibt es so / wird es die nächsten Tage schöner. 
+    - Guten Tag, Frau / Herr ... ! Schön, dass Sie da sind. Ich bin Frau / Herr ...
+    - Guten Tag, Frau / Herr ... !
+    - Nehmen Sie Platz!
+- Kennenlernen
+    - Unser Unternehmen gibt es seit 2018 und hat seinen Sitz in Berlin.
+- Selbs-präsentation
+    - Woher kommen Sie? Wo sind Sie aufgewachsen?
+    - Ich bin Petras Vestartas aus Lituaen.
+    - Was haben Sie studiert? Welche Ausbildung haben Sie gemacht?
+    - Ich habe Architectur studiert.
+    - Mein höchster Abschluss ist Doktorand.
+    - Sehr interessant! Und haben Sie bereits Erfahrung in diesem Beruf?
+    - Ich habe schon als Forscher und Architekt gearbeitet.
+    - Zurzeit arbeit ich bei ETHZ als Forscher.
+    - Was gefällt Ihnen an dem Beruf als Forscher?
+- Rückfragen
+    - Welche Rückfragen kann der Arbeitgeber stellen?
+    - Welche professionelle Erfahrung haben Sie bereits?
+    - Was sind Ihre Stärken?
+    - Was sind Ihre Schwächen?
+    - Was zeichnet Sie aus? - Kuom jus issiskiriate?
+    - Warum haben Sie sich auf diese Stelle beworben? - Kodel aplikavote i sia pozicija?
+    - Welche Fragen haben Sie an uns?
+- Welche Eigenschaften sind wichtig?
+    - kompetent
+    - teamfähig
+    - direkt - indirekt
+    - ehrlich - saziningas
+    - freundlich
+    - selbständig
+    - verantwortungsbewusst - atsakingas
+    - mobil
+    - kompromissbereit - ieskantis kompromiso
+    - augeschlossen - atviro mastymo
+    - lernbereit - norintis ismokti
+    - humorvoll
+    - ziestrebig - orientuotas i tiksla
+    - überzeugungsfähig - itikinantis
+    - organisiert
+    - pükntlich
+- Warum denken Sie, dass Sie besonders gut für diese Position geeignet sind?
+    - Ich bin der richtige für diese Position, weil ich ...
+    - Ich denke, ich bin besonders geeignet, da ...
+    - Ich habe schon mal ...
