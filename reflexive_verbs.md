@@ -243,6 +243,7 @@ Kai zodziu tvarka sakinyje pakinta ar kai naudojame klaisimu, prelinksnis stovi 
 
 Tikrieji refleksiniai veiksmazodziai gali buti naudojami tik refleksyviai, bet netikrieji gali buti vartojami ir taip ir taip, priklausomai nuo zodzio reiksmes:
 
+Tikrieji
 - sich erholen (ilsetis) - Ich erhole mich.
 - sich bedanken für (dekoti) - Ich bedanke mich für die Einladung.
 - sich beeilen (paskubeti) - Gogo muss sich beeilen, weil er einen Termin hat.
@@ -250,3 +251,41 @@ Tikrieji refleksiniai veiksmazodziai gali buti naudojami tik refleksyviai, bet n
 - sich beschweren bei/über (skusti) - Katie beschwert sich bei Herrn Sauer über die Ferienwohnung.
 - sich freuen auf/über (laukti) - Wir freuen uns auf den Urlaub.
 - sich kümmern um (rupintis) - Der Vermieter kümmer sich um seine Gäste.
+
+Netikrieji
+- Die Tür öffnet sich. - Christin öffnet die Tür.
+- (sich) anschauen (paziureti i) - Gogo schaut sich im Spiegel an. Gogo schaut Christin an.
+- (sich) anziehen (ap(si)rengti) - Ich ziehe mich an. Ich ziehe meine Kinder an.
+- (sich) fühlen (jausti(s)) - Gogo fühlt sich unwohl. Gogo fühlt seine Beine nicht.
+- (sich) setzen (at(si)sesti) - Gogo setzt sich auf die Bank. Gogo setzt die Katze auf die Bank.
+- (sich) verstecken (pa(si)slepti) - Katie und Christin vertecken sich hinter einem Baum. Sie vertechekn die Handtücher hinter ihrem Rücken.
+
+## Refleksniai veiksmazodziai dative
+
+Refleksiniai veiksmazodziai naudojami su datyvu kai jie turi papildoma preveikmi:
+
+Ich ziehe mir **die Hose** an.
+
+Pirmame ir antrame  formose naudojame datyva, trecioje sich:
+
+- Ich ziehe **mir die Hose** an.
+- Du ziehst **dir die Hose** an.
+- Er/Sie/Es zieht **sich die Hose** an.
+- Wir ziehen **uns die Hose** an.
+- Ihr zieht **euch die Hose** an.
+- sie/Sie ziehen **sich die Hose** an.
+
+Palyginimas
+- Ich ziehe **mich** an. Ich ziehe **mir die Hose** an.
+- Du ziehst **dich** an. Du ziehst **dir die Hose** an.
+
+Pavyzdziai
+- Ich wasche mich. Ich wasche **mir die Haare**.
+- Du trocknest (dziovini) dich ab. Du trocknest **dir die Hände** ab.
+- Die Katze putzt sich. Das Kind putzt **sich die Zähne**.
+
+Kai kurie veiksmazodziai visada naudojami su datyvu
+- sich Sorgen machen (nerimauti) - Ich mache **mir Sorgen**.
+- sich etwas kaufen (nusipirkti) - Du kaufst **dir einen Spiegel**.
+- sich etwas leihen (pasiskolinti) - Er leiht **sich einen Rasierer**.
+- sich etwas wünschen (svajoti) - Wir wünschen **uns neue Fahrräder**.
