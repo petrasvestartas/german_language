@@ -198,3 +198,55 @@ The verb **vorstellen** changes its meaning when used the reflexive pronoun in t
           
 Breaking down the problem into small parts with a word and a small logo. Then zoom in to  certain thing.
 Stage gate process. Milestones.
+
+# Pakartojimas: reflexive verbs
+
+Refleksiniai veiksmazodziai yra veiksmazodziai su papildomu prieveiksmiu kurie nukreipti i veiksni. Sis prieveiksmis yra vadinamas refleksiniu prieveiksmiu:
+
+- **Ich** ziehe **mich** noch **um**.
+
+Refleksinis prieveiksmis yra priklausomas nuo prieveiksmio. Pirmoje ir antroje formoje naudojame akusatyva, trecioje formoje - sich.
+
+- Ich ziehe **mich** um.
+- Du ziehst **dich** um.
+- Er/Sie/Es zieht **sich** um.
+- Wir ziehen **uns** um.
+- Ihr zieht **euch** um.
+- Sie/Sie ziehen **sich** um.
+
+- sich entschuldingen (atsiprasyti) - Wir **entschuldigen uns** für die Verspätung.
+- sich erholen (atsipalaiduoti) - Sie **möchten sich** im Urlaub **erholen**.
+- sich erkälten (persisaldyti) - Bobbi **hat sich erkältet**.
+- sich freuen (laukti) - Ihr **freut euch** auf den Urlaub.
+- sich fühlen (jausti) - Gogo **hat sich** unwohl (nepatiogiai) **gefühlt**.
+- sich (um etwas) kümmern (pasirupinti) - Herr Sauer **kümmert sich** um das Problem.
+- sich setzen (atsisesti) - Gogo **setzt sich** in der Sauna.
+- sich verabreden (susitarti susitikti) - Katie **hat sich** mit Gogo in der Sauna **verabredet**.
+
+Dauguma refleksiniu veiksmazodziu stovi kartu su prelinksniu ir objetu
+- sich freuen **auf** (laukti) - Ihr freut euch **auf** den Urlaub.
+- sich kümmern **um** (rupintis) - Herr Sauer kümmer sich **um** das Problme.
+
+## Refleksinio veiksmazodio vieta sakinyje
+
+Reflektinis prieveiksmis priklauso nuo veiksnio todel jis visada stovi salia jo. Su modaliniais sakiniais, prieveiksmis stovi priesais modalini veiksmazodi
+- Ich **muss mich** noch **umziehen**.
+
+Kai zodziu tvarka sakinyje pakinta ar kai naudojame klaisimu, prelinksnis stovi salia veiksnio:
+
+- Jetzt **ziehe ich mich um**.
+- Wann **ziehst du dich um**?
+- Ziehst **du dich jetzt um**?
+- Ich komme später, weil **ich mich noch umziehen muss**.
+
+## Tikri ir netikri refleksiniai veiksmazodziai
+
+Tikrieji refleksiniai veiksmazodziai gali buti naudojami tik refleksyviai, bet netikrieji gali buti vartojami ir taip ir taip, priklausomai nuo zodzio reiksmes:
+
+- sich erholen (ilsetis) - Ich erhole mich.
+- sich bedanken für (dekoti) - Ich bedanke mich für die Einladung.
+- sich beeilen (paskubeti) - Gogo muss sich beeilen, weil er einen Termin hat.
+- sich bewerben um (kreiptis del darbo) - Ketie bewirbt sich um eine Stelle als Englischlehrerin.
+- sich beschweren bei/über (skusti) - Katie beschwert sich bei Herrn Sauer über die Ferienwohnung.
+- sich freuen auf/über (laukti) - Wir freuen uns auf den Urlaub.
+- sich kümmern um (rupintis) - Der Vermieter kümmer sich um seine Gäste.
