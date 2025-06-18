@@ -1,0 +1,31 @@
+# Meile - Liebe
+
+- der Kuss (Küsse)
+    - Christin gibt Margitta einen Kuss.
+- küssen
+    - Christin und Margitta küssen sich.
+- der Knutschfleck (Knutschflecke) - nasosas
+    - Ich habe einen Knutschfleck am Hals.
+- umarmen - apkabinti
+    - Ich umarme dich.
+- knuddeln - glebesciuotis
+    - Du bist do süss. Ich möcte dich knuddeln.
+- streicheln - glostyti
+    - Er streichelt ihren Rücken.
+- Ich bin verknallt - as turiu simpatija
+- Ich hab' mich auf den ersten Blick dich verliebt. - As isimelejau tave is pirmo zvilgsnio.
+- das Turteltäubchen - isimylejeliai
+    -  Na, ihr Turteltäubschen?
+- Ich habe Herzklopfen. - Jauciu sirdies plakima.
+- Mein Herz schlägt wie verrückt.
+- Ich habe Schmetterlinge im Bauch.
+- Ich liebe dich.
+- Ich hab' dich lieb.
+- Du bist die Frau/der Mann meines Lebens.
+- Du bist die Liebe meines Lebens. / Du bist meine grosse Liebe.
+- die Beziehung (Beziehungen) - Santykiai
+    -  Ich lebe in einer glücklichen Beziehung.
+- heiraten - susitkuoti
+    - Christin und Margitta werden heiraten.
+- der Heiratsantrag - pasipirsimas
+    - Margitta macht Christin einen Heiratsantrag.
