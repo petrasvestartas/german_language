@@ -1,0 +1,26 @@
+# Gesundheit und Krankenheit
+
+- gesund - sveikas
+- krank - susirges
+- krankenheit - liga
+- die Apotheke - vaistine
+- der Schmerz - skausmas
+- die Grippe - gripas
+- die Infektionskrankheit - infekcine liga
+- das Hausmittel - namu gydymo priemones
+- der Schnupfen - sloga
+- die Medicine - medikamentai
+- schlucken - praryti
+- schmerzmittel - nuskausminamieji
+- pünktlich - laiku
+- die Tablette - tablete
+- sich krank melden - pranesti susirgus
+- verletzen - susizaloti
+- sport is mord - sportas yra zudimas
+- sich erholen - pasveikti
+- sich ausruhen - ilsetis
+- Vorsorge - pasitikrinimas pas daktara
+- Hexenschuss - apatines nugaros dalies skausmas
+- ernähren - maitintis
+- Wann warst du das letze Mal krank? Was hast dir geholfen dich wieder besser zu fühlen?
+- Ich war das letze Mal vor einem halben Jahr krank. Ich hatte die Grippe und habe viel Schnupfen und Husten gehabt. Ich bin nicht zum Artzt gegangen, weil das sehr teuer ist. Ich bin im Bett geblieben und nac zwei wochen bin ich wieder gesund geworden. Und schliesslich habe ich mich erholt.
