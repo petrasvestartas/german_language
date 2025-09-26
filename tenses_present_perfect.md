@@ -180,4 +180,82 @@ Am Samstag bin ich um 10 Uhr aufgestanden. Dann habe ich mir die Zähne geputzt 
 - Du bist zu schnell gefahren.
 - Wir haben Freunde gern eigeladen und sind mit ihren spazierengefahren.
 
+## Regelmässige Verben
 
+### ge...t
+
+- machen - gemacht
+- wohnen - gewohnt
+- duschen - geduscht
+- kaufen - gekauft
+- kochen - gekocht
+- hören - gehört
+- lernen - gelernt
+- leben - gelebt
+- fragen - gefragt
+- träumen - geträumt
+- speichern - gespeichert
+
+### get...et
+
+- antworten - geantwortet
+- arbeiten - gearbeitet
+- warten - gewartet
+- rechnen - gerechnet (calculate)
+- öffnen - geöffnet
+
+### ...t
+
+- besuchen - besucht
+- erzählen - erzählt
+- bezahlen - bezahlt
+- probieren - probiert
+- telefonieren - telefoniert
+- diskutieren - diskutiert
+- studieren - studiert
+- passieren - passiert
+
+### ...ge...t
+
+- einkaufen - eingekauft
+- aufräumen - aufgeräumt
+- aufhören - aufgehört
+- aufpassen - aufgepasst
+- aufwachen - aufgewacht (wake up)
+- abholen - abgeholt (pick up)
+
+## Unregelmässige Verben + -en
+
+### ge...en
+
+- essen - gegessen
+- trinken - getrunken
+- fahren - gefahren
+- gehen - gegangen
+- fliegen - geflogen
+- nehmen - genommen
+- kommen - gekommen
+- finden - gefunden
+- schreiben - geschrieben
+- stehen - gestanden
+- sitzen - gessessen
+- liegen - gelegen
+- steigen - gestiegen (lipti)
+
+### ...en
+
+- verstehen - verstanden
+- vergessen - vergessen
+- bekommen - bekommen
+- beginnen - begonnen
+- emplfehlen - empfohlen
+- entscheiden - entschieden
+
+### ...ge...en
+
+- anfangen - angefangen
+- aussehen - ausgesehen
+- anrufen - angerufen
+- einschlafen - eingeschlafen
+- aufstehen - aufgestanden
+- fersehen - ferngesehen
