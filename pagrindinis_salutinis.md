@@ -9,4 +9,4 @@ Ju pozicija nekinta:
 - Damit **hat** Anna leider ein Problem.
 - Leider **hat** Anna damit ein Problem.
 
-Ich kann mich nicht erinnern, wann ich zum letzten Mal eine Karte per Post.
+Ich kann mich nicht erinnern, wann ich zum letzten Mal eine Karte per Post bekommen habe.
