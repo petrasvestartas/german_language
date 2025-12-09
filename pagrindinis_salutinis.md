@@ -5,6 +5,6 @@
 - Ich lese ein Buch, **damit** (su kuria) ich neue Wörter **lerne**.
 
 Ju pozicija nekinta:
-- Anna hat leider ein Problem damit.
-- Damit hat Anna leider ein Problem.
-- Leider hat Anna damit ein Problem.
+- Anna **hat** leider ein Problem damit.
+- Damit **hat** Anna leider ein Problem.
+- Leider **hat** Anna damit ein Problem.
