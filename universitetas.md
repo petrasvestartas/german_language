@@ -48,8 +48,8 @@
 - gamtos mokslas / gamtos mokslai
     - Zu den Naturwissenschaften gehören zum Beispiel Biologie, Chemie und Physik.
     - Gamtos mokslams priklauso pavyzdziui biologija, chemija  ir fizika.
-- die Technik
-- technika
+- die Technik / die Techniken
+- technika / technikos
     - Muss ich mich mit Technik auskennen?
     - Ar turiu ismanyti technika?
 - die Lehrveranstaltung / die Lehrveranstaltungen
