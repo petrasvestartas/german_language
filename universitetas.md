@@ -82,4 +82,7 @@
 - destytojo asistentas / asistente / asistentai / asistentess
     -  Unser Tutor ist sehr hilfsbereit.
     -  Musu destytojo asistentas yra labai paslaugus
-- der Kommilitone / die Kommilitonin / Kommilitonen / Kommilitoninnen 
+- der Kommilitone / die Kommilitonin / Kommilitonen / Kommilitoninnen
+- bendraklasis / bendraklase / bendraklasiai / bendraklases
+    -  Die Kommilitonen sind meine Studienkollegen.
+    -  Bendraklasiai yra mano studiju kolegos.
