@@ -1,0 +1,85 @@
+# In der Universität
+
+- die Universität / die Uni / die Universitäten
+- Universitetas  / Uni / Universitetetai
+    -  Gogo geht in die Universität. Ich studiere **an** einer Universität.
+    -  Gogo eine i universiteta. As studijuoju universitete.
+-  die Hochschule / die Hochschulen
+-  Kolegija / Kolegijos
+    - Die Universität wird auch Hochschule genannt.
+    - Universitetas yra taip pat vadinamas "die Hochschule."
+-  die Fakultät / die Fakultäten
+-  Fakultetas / Fakultetai
+    - Die Uni hat verschiedene Fakultäten.
+    - Universitetas turi skirtingus fakultetus.
+-  das Studium
+-  studijos
+    - Das Studium ist sehr theoretisch.
+    - Sutdijos yra labai teorines.
+-  studieren
+-  studijuoti
+    - Gogo möchte Brauwesen studieren.
+    - Gogo nori studijuoti aludaryste.
+-  die Studienberatung / die Studienberatungen
+-  Studiju konsultivas / studiju konsultavimai
+    - Die allgemeine Studienberatung informiert über alle Studiengänge.
+    - Bendroji studiju konsultavimo tarnyba iformuoja apie visas studiju programas.
+-  die Studienfachberatung / die Studienfachberatungen
+-  dalyko (studiju program) konsultacija / konsultacijos
+    - Die Studienfachberatung ist für einen konkreten Studiengang zuständig.
+    - Dalyko konsultavimas yra atsakingas uz konrecia studiju programa.
+-  der Studienfachberater / die Studienfachberaterin / die Studienfachberater / die Studienfachberaterinnen
+-  studiju patarejas / studiju patareja / studiju patarejei / studiju patarejos
+    - Die Studienfachberaterin erklärt Gogo die Studienhalte. 
+    - Studiju dalyko patareja paaiskino Gogo studiju turini.
+- der Studiengang / die Studiengänge
+- studiju programa / studiju programos
+    - Gogo möchte sich über den Studiengang Brauwesen informieren.
+    - Gogo noretu suzinoti apie aludarystes studiju programos turini.
+- das Studienfach / die Studienfächer
+- studiju sritis / studiju sritys
+    - Es gibt die Studienfächer Mathematik und Wirtschaft.
+    - Yea mathematikos ir ekonomikos studiju sritys.
+- die Ingenieurwissenschaft / die Ingenieurwissenschaften
+- inzinerija / inzinerijos mokslai
+    - Das Studium der Ingenieurwissenschaften verbindet Naturwissenschaften mit Technik.
+    - Inzinerijos mokslu studijus sujungia gamtos mokslus su technika.
+- die Naturwissenschaft / die Naturwissenschaften
+- gamtos mokslas / gamtos mokslai
+    - Zu den Naturwissenschaften gehören zum Beispiel Biologie, Chemie und Physik.
+    - Gamtos mokslams priklauso pavyzdziui biologija, chemija  ir fizika.
+- die Technik
+- technika
+    - Muss ich mich mit Technik auskennen?
+    - Ar turiu ismanyti technika?
+- die Lehrveranstaltung / die Lehrveranstaltungen
+- mokymo uzsiemimas / mokymo uzsiemimai
+    - die Vorlesung / die Vorlesungen
+    - paskaita / paskaitos
+        -  Die Studenten sitzen in einer Vorlesung.
+        -  Studentai sedi paskaitoje.
+    - das Seminar / die Seminare
+    - seminaras / seminarai
+        -  In einem Seminar müssen die Studenten Referate halten.
+        -  Seminare privalo studentai pristatyti referata.
+- die Grundlage / die Grundlagen
+- pagrindas / pagrindai
+    -  Die Grundlagen sind essenziell.
+    -  Pagrindai yra butini.
+- der Studen / die Studentin / Studenten / Studentinnen
+- studentas / studente / studentai / studentes
+    -  Ich bin Student an der Technischen Universität.
+    -  As esu universitetas techniniame universitete.
+- der Professor / die Professorin / Professoren / Professorinnen
+- profesorius / profesore / profesoriai / profesores
+    - Der Professor hält eine Vorlesung.
+    - Profesorius skaito paskaita.
+- der Dozent / die Dozentin / die Dozenten / die Dozentinnen
+- lektorius / lektore / lektoriai / lektores
+    - Der Dozent lehrt an verschiedenen Hochschulen.
+    - Lektorius moko ivariuose kolegijose.
+- der Tutor / die Tutorin / die Tutoren / die Tutorinnen
+- destytojo asistentas / asistente / asistentai / asistentess
+    -  Unser Tutor ist sehr hilfsbereit.
+    -  Musu destytojo asistentas yra labai paslaugus
+- der Kommilitone / die Kommilitonin / Kommilitonen / Kommilitoninnen 
