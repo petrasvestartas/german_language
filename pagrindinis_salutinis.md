@@ -14,6 +14,10 @@ Ich kann mich nicht erinnern, wann ich zum letzten Mal eine Karte per Post bekom
 
 ## Gruppe 1 - Ich fahre im Sommer ans Meer, weil ich die Sonne liebe.
 
+<img width="976" height="507" alt="image" src="https://github.com/user-attachments/assets/981add5f-b622-46a3-a5e3-f0c4b3980fd8" />
+<img width="1022" height="987" alt="image" src="https://github.com/user-attachments/assets/dd8cda89-1887-4fc2-85fe-af4d18f62b81" />
+
+
 - weil/da - nes
 - wenn - jeigu
 - als - kai (tik praeities laike)
