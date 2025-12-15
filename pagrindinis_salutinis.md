@@ -19,21 +19,37 @@ Ich kann mich nicht erinnern, wann ich zum letzten Mal eine Karte per Post bekom
 
 
 - weil/da - nes
+    -  Ich bleibe zu Hause, **weil** ich krank bin.
 - wenn - jeigu
+    -  **Wenn** es regnet, bleibe ich zu Hause.
 - als - kai (tik praeities laike)
+    -  **Als** ich ein Kidn war, spielte ich draussen.
 - seit - nuo
+    -  Ich arbeite hier, **seit** ich 20 Jahre alt bin.
 - bevor - pries
+    -  Ich dusche, **bevor** ich zur Arbeit gehe.
 - nachdem - po
+    -  **Nachdem** ich gegessen habe,  lerne ich Deutsch.
 - sobald - taip greit kaip
+    -  **Sobald** ich Zeit habe, rufe ich dich an.
 - während - per
+    -  **Während** ich koche, höre ich Musik.
 - bis - iki
+    -  Ich warte, **bis** du kommst.
 - obwohl - nors
+    -  Ich gehe spazieren, **obwohl** es kalt ist.
 - ob - ar
+    -  Ich weiss nicht, **ob** er heute kommt.
 - seitdem - nuo
+    -  **Seitdem** ich Deutsch lerne, vertehe ich mehr.
 - damit - tam kad
+    - Ich lerne viel, **damit** ich die Prüfung bestehe.
 - um... zu... - kad
+    -  Ich lerne Deutsch, **um** in Deutschland **zu** arbeiten.
 - falls - jeigu
+    -  **Falls** du Zeit hast, komm vorbei.
 - dass - kad
+    - Ich denke, **dass** er Recht hat.
 
 ## Gruppe 2 - Fahre und Tina haben kein Geld, trotzdem kaufen sie ein Auto. ..., sie kaufen trotzdem ein Auto.
 
