@@ -9,9 +9,47 @@ Ju pozicija nekinta:
 - Damit **hat** Anna leider ein Problem.
 - Leider **hat** Anna damit ein Problem.
 
-Ich kann mich nicht erinnern, wann ich zum letztecn Mal eine Karte per Post bekommen habe.
+Ich kann mich nicht erinnern, wann ich zum letzten Mal eine Karte per Post bekommen habe.
 
-## Aduso
+
+## Gruppe 1 - Ich fahre im Sommer ans Meer, weil ich die Sonne liebe.
+
+- weil/da - nes
+- wenn - jeigu
+- als - kai (tik praeities laike)
+- seit - nuo
+- bevor - pries
+- nachdem - po
+- sobald - taip greit kaip
+- während - per
+- bis - iki
+- obwohl - nors
+- ob - ar
+- seitdem - nuo
+- damit - tam kad
+- um... zu... - kad
+- falls - jeigu
+- dass - kad
+
+## Gruppe 2 - Fahre und Tina haben kein Geld, trotzdem kaufen sie ein Auto. ..., sie kaufen trotzdem ein Auto.
+
+- also - (jungia tik du pagrindinius sakinius) - taip 
+- jedoch - taciau
+- daher/deshalb/deswegen - todel
+- zuerst - pirmiausia
+- dann - tada
+- danach - po to
+- schliesslich - galiausiai
+- zuletzt - paskiausiai
+- gleichzeitig - tuo paciu metu
+- vorher - pries
+- nachher - po to
+- seitdem / seither - enuo tada
+- sonst - kitaip
+- trotzdem - nepaisant to
+- nämlich (immer nach verb) - bütent
+
+## Gruppe 3 - Aduso
 
 - a - **aber** - Sie liest viele Texte auf Englisch, **aber** sie **hat** Schwierigkeiten mit der Aussprache. 
 - d - **denn** - Ich rufe jetzt den Kundenservice an, **denn** das Paket **ist** nicht **angekommen**.
