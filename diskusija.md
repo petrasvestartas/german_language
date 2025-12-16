@@ -2,9 +2,7 @@
 
 ## Issakyti savo nuomone
 
-- Ich glaube, dass + Nebensatz
-- Ich finde, dass + Nebensatz
-- Ich denke, dass + Nebensatz
+- Ich glaube/finde/denke, dass + Nebensatz
 - Ich bin der Meinung, dass + Nebensatz
 - Ich sehe das so: ... (Hauptsatz)
 - Diese Aussage halte ich für richtig/falsch.
