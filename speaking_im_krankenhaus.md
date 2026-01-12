@@ -49,21 +49,34 @@
 - der Patient / die Patientin - the patient
     - Die alte Patietin kommt ins Krankenhaus, um mit die Krankenschwester zu sprechen, weil sie  sich einsam fühlt.
 - der Eingriff - the procedure
-    - Der Massageeingriff hilft dem Patien nach der Operation.
+    - Der Massageeingriff hilft dem Patient nach der Operation.
 - die Operation - the surgery
     - Der Patient wurde während den Operation in Narkose versetzt.
 - die Nebenwirkung - the side effect
     - Nach der Nakose  fühlte sich der Patient seltsam.
 - das Risiko - the risk
+    - In Winter gibt es Risiko um krank zu werden.
 - die Aufklärung - the informed consent / briefing
+    - Oft ist die Aufklärung nicht deteilreich genug.
 - der Befund - medical finding
+    - Der Artzt hat mir über meinen Befund eine E-mail gescrhieben.
 - varabreichen - to administer
+    - Der Krankrenschwester verabreicht den Impfstoff (vaccine).
 - überwachen - to monitor
+    - Die erste Gerät, um einen Patienten zu überwachen is das Stethoskop.
 - sich verschlechtern - to worsen
+    - Der krake Mann muss sich zuerst verschlechtern. bevor er ins Krankehhaus geht.
 - sich stabilisieren - to stabilise
+    - Mein Körpertemperatür steigt sich nicht mehr an, es hat stabiliziert.
 - abbrechen - to discontinue
+    - Wenn du Schmerzmittel hast, dann musst du nach 2 Wochen die Behandlung abbrechen.
 - vorsorglich - precautionary
-- verantwortungsvoll - reposible
+    - In diesem Jahr habe ich mict vorsorglich impfen lassen.
+- verantwortungsvoll - resposible
+    - Im Medizinsystem der USA ist niemand ganz vertwortungsvoll gegenüber den Patientin.
 - belastend - stressful
+    - Es ist belastend, ins Krankenhaus zu gehen.
 - komplikationsfrei - without complications
-- behandelnd - treating
+    - Sehr wenige Medikamente sind komplikationsfrei.
+- behandelnd - treating (doctor)
+    - Gesund Leben und gesun Essent macht jeden behandelnden Arzt glücklich.
