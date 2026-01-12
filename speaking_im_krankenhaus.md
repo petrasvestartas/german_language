@@ -1,0 +1,63 @@
+# Im Krankenhaus
+
+- der Termin - the appointment
+    -  Ich habe einen Termin im Krankenhaus, weil ich eine Grippe habe.
+- die Untersuchung - the examination
+    -  Ich hatte eine Untersuchung beim Arzt, weil ich ein Attest vom der Arbeit brauche.
+- die Behandlung - the treatment
+    - Der Arzt hat mir die Behandlung beschrieben mit der ich gredung werden kann.
+- die Diagnose - the diagnosis
+    - Der Arzt hat keine Diagnose für den Patient gestellt (make), weil der Patient gesund leben und viel sport machen muss.
+- das Rezept - the prescription
+    -  I kann mit dem Rezept die Medikament kaufen, um gesund zu werden.
+- die Spritze - the injection
+    -  I hasse Spritze so sehr, dass ich meine Augen schliessen muss.
+- die Tablette - the pill
+    -  I habe eine Tabletten gegen Rückenschmerzen genommen, weil ich schlafen wollte.
+- die Abteilung - the department
+    -  Ich habe in de Abteilung für schwere Verletzunen gelegen, weil ich meine Beine vertletzt habe.
+- der Aufenthalt - the stay
+    -  Für den Aufenthalt im Krankenhaus habe ich nichts gezahlt, weil man in litauen Stauern zahlt.
+- die Entlassung - the discharge
+    - I hatte eine Entlassung aus dem Krankenhaus, weil ich ein bisschen gesünder geworden bin.
+- sich verletzen - to get injured
+    - Ich habe mich verletzt, weil ich eine Kartoffel geschnitten habe.
+- sich fühlen - to feel
+    - Ich fühle mich besser, darum werde ich morgen zur Arbeit gehen.
+- erklären - to explain
+    - Der Arzt hat mich erklärt, welche Medikamente ich nehmen muss.
+- unterschreiben - to sign
+  	- Der Artzt hat das Rezept unterschrieben aber Ich kann dass nicht lesen.
+- warten auf - to wait for
+    - Ich warte auf die Behandlung in der Nataufnahme weil ich mir den Finger verletzt habe.
+- nüchtern - fasting
+    - Ich bin nüchtern und esse den ganzen Tag nichts, weil ich Bauchsmerzen habe.
+- notwending - necessary
+    - Es ist notwending, zum Arzt zu gehen, weil ich schon mehr als drei Tage krank bin.
+- schmerzhaft - painful
+    - Der Arzt hat die Behandlung schmerzhaft gemacht, darum hat sich der Patient so viel beschwert.
+- ernst - serious
+    - Wenn Ich eine ernste Verletzung habe, rufe icg sofort die Notrufnummer an.
+- ambulant - outpatient
+    - Der Patien wurde ambulant behandelt und musste nicht im Krankenhaus bleiben.
+- das Krankenhaus - the hospital
+    - Zum Glück war ich nie im Krankenhaus, weil ich in der Schweiz wohne.
+- der Arzt / die Ärztin - the doctor
+- die Krankenschwester / der Krankenpfleger - nurse
+- der Patient / die Patientin - the patient
+- der Eingriff - the procedure
+- die Operation - the surgery
+- die Nebenwirkung - the side effect
+- das Risiko - the risk
+- die Aufklärung - the informed consent / briefing
+- der Befund - medical finding
+- varabreichen - to administer
+- überwachen - to monitor
+- sich verschlechtern - to worsen
+- sich stabilisieren - to stabilise
+- abbrechen - to discontinue
+- vorsorglich - precautionary
+- verantwortungsvoll - reposible
+- belastend - stressful
+- komplikationsfrei - without complications
+- behandelnd - treating
