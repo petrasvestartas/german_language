@@ -43,11 +43,17 @@
 - das Krankenhaus - the hospital
     - Zum Glück war ich nie im Krankenhaus, weil ich in der Schweiz wohne.
 - der Arzt / die Ärztin - the doctor
+    - Der Arzt war sehr nett, weil er mir nach der Behandlung eine Cola gebracht hat.
 - die Krankenschwester / der Krankenpfleger - nurse
+    - Die Krankenschwester hilft dem Arzt während der Behandlung. 
 - der Patient / die Patientin - the patient
+    - Die alte Patietin kommt ins Krankenhaus, um mit die Krankenschwester zu sprechen, weil sie  sich einsam fühlt.
 - der Eingriff - the procedure
+    - Der Massageeingriff hilft dem Patien nach der Operation.
 - die Operation - the surgery
+    - Der Patient wurde während den Operation in Narkose versetzt.
 - die Nebenwirkung - the side effect
+    - Nach der Nakose  fühlte sich der Patient seltsam.
 - das Risiko - the risk
 - die Aufklärung - the informed consent / briefing
 - der Befund - medical finding
