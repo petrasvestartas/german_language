@@ -1,3 +1,43 @@
+# Das Gesundsheitssystem
+
+- der Arztbesuch - the doctor's viist
+- die Apotheke - the pharmacy
+- Der Krankenwagen - ambulance 
+- die Notaufname - the emergency
+    - Letztes Jahr war ich in der Notaufnahme.
+- die Hilfe . the help
+    -Jeder muss Erste Hilfe können.
+- die kosten - the costs
+    - Was sind die Konsten von dem Medikament in der Apotheke?
+- die Karte - the card
+    - In der Arztpraxis muss ich die Karte zeigen.
+- das Geld
+    - Wenn man Zahnkrone macht, braucht man viel Geld.
+- die Versicherung - insurance
+    - In der Schweiz zahlen wir immer monatlich die Versicherung und müssen trotzdem bei Arztbescuhen bezahlen. Wir habe 2000 Euro Eigenantei.
+- der Notfall - emergency
+    - Es ist ein Notfall!
+- bezahlen - to pay
+    - Wenn mann zum Arzt gegangen ist, dann muss man bezahlen.
+- helfen - to help
+    - Als ich im Krankenhaus war, hat mir die Handyübersetzung (translation by phone) mehrere Male geholfen.
+- brauchen
+    - Wir braucchen mehr Sonne und hörere Temperatur.
+- warten
+    - Man muss in der Notaufnahme warten.
+- bekommen - to get
+    - Normalerweise bekommt man ein Rezept beim Arzt.
+- teuer
+    - Ohne Versciherung ist es sehr teuer im Krankehaus.
+- kostenlos
+    - In Deutschland ist der Arztbesuch kostenlos.
+- wichtig
+    - Der Arztbesuch ist wichtig! Vergessen Sie den Termin nicht!
+- schnell - fast
+    - Der Arztbesuc ist nicht schnell.
+- langsam - slow
+    - Wiederkehrende (Recurring) Termine zu bekommen ist sehr langsam, weil es lange dauert, überhaupt den ersten Termin zu bekommen!
+
 # Im Krankenhaus
 
 - der Termin - the appointment
