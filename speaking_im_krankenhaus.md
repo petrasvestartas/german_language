@@ -93,7 +93,7 @@
 - die Operation - the surgery
     - Der Patient wurde während den Operation in Narkose versetzt.
 - die Nebenwirkung - the side effect
-    - Nach der Nakose  fühlte sich der Patient seltsam.
+    - Wegen der Nakose fühlte sich der Patient seltsam.
 - das Risiko - the risk
     - In Winter gibt es Risiko um krank zu werden.
 - die Aufklärung - the informed consent / briefing
