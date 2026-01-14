@@ -97,11 +97,11 @@
 - das Risiko - the risk
     - In Winter gibt es Risiko um krank zu werden.
 - die Aufklärung - the informed consent / briefing
-    - Oft ist die Aufklärung nicht deteilreich genug.
+    - Bevor du eine Operation hast, musst du den Aufklärungszettel unterschreiben.
 - der Befund - medical finding
     - Der Artzt hat mir über meinen Befund eine E-mail gescrhieben.
 - varabreichen - to administer
-    - Der Krankrenschwester verabreicht den Impfstoff (vaccine).
+    - Die Krankrenschwester verabreicht den Impfstoff (vaccine).
 - überwachen - to monitor
     - Die erste Gerät, um einen Patienten zu überwachen is das Stethoskop.
 - sich verschlechtern - to worsen
@@ -118,5 +118,6 @@
     - Es ist belastend, ins Krankenhaus zu gehen.
 - komplikationsfrei - without complications
     - Sehr wenige Medikamente sind komplikationsfrei.
+    - Wenn man ein Risiko eingeht, dann hofft man, dass alles komplikationsfrei verläulft.
 - behandelnd - treating (doctor)
     - Gesund Leben und gesun Essent macht jeden behandelnden Arzt glücklich.
