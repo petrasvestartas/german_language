@@ -37,6 +37,30 @@
     - Der Arztbesuc ist nicht schnell.
 - langsam - slow
     - Wiederkehrende (Recurring) Termine zu bekommen ist sehr langsam, weil es lange dauert, überhaupt den ersten Termin zu bekommen!
+- die Krankenversicherung - the health insurance
+- die Krankenversicherungskarte - the health insurance card
+- der Hausarzt - the general practitioner
+- der Facharzt - the specialist
+- die Überweizung - the referral
+- die Effizienz - the effciency
+- die Wartezeit - the waiting time
+- Die Kostenübernahme - the cost coverage
+- Zuzalung - the co-payment
+  - Im schweizer System ist eine Zuzahlung bis 700 pro Jahr obligatorisch.
+- der Anspruch - the entitlement
+  - Sie haben einen Anspruch auf Kindergeld.
+- sich versichern - to get insured
+    - Fremde haben drei Monate Zeit, um sich zu versichern.
+- wechseln - change
+    - Jedes Jahr wechsle ich meine Krankenversicherung in den USA.
+- beantragen - to apply for
+    - In meinem Heimatland bekommt man viele Anrufe, wenn man eine Versicherung bentragt.
+- gesetzlich - statutory (obligatory)
+- privat - private
+- verpflichtend - mandatory
+- freiwiling - voluntary
+- zugänglich - accessible
+    
 
 # Im Krankenhaus
 
