@@ -294,3 +294,65 @@ Relatyvines salygos sakiniai duoda daugiau detaliu apie daiktavardi:
 **neutral:** Das Elbsandsteingebirge is ein **Gebirge, die** in Deutschland liegen.
 
 **plural:** Bayern un Saschsen sind **Bundersländer, die** in Deutschland liegen.
+
+## Adjektivendungen (Adjective Endings)
+
+### Mit bestimmtem Artikel (der, die, das)
+
+**Nominativ:**
+- der alt**e** Mann
+- die jung**e** Frau
+- das klein**e** Kind
+- die neu**en** Schuhe
+
+**Akkusativ:**
+- den alt**en** Mann
+- die jung**e** Frau
+- das klein**e** Kind
+- die neu**en** Schuhe
+
+**Dativ:**
+- dem alt**en** Mann
+- der jung**en** Frau
+- dem klein**en** Kind
+- den neu**en** Schuhen
+
+### Mit unbestimmtem Artikel (ein, eine, ein)
+
+**Nominativ:**
+- ein alt**er** Mann
+- eine jung**e** Frau
+- ein klein**es** Kind
+- - neu**e** Schuhe
+
+**Akkusativ:**
+- einen alt**en** Mann
+- eine jung**e** Frau
+- ein klein**es** Kind
+- - neu**e** Schuhe
+
+**Dativ:**
+- einem alt**en** Mann
+- einer jung**en** Frau
+- einem klein**en** Kind
+- - neu**en** Schuhen
+
+### Ohne Artikel (Nullartikel)
+
+**Nominativ:**
+- alt**er** Wein
+- jung**e** Milch
+- klein**es** Bier
+- neu**e** Schuhe
+
+**Akkusativ:**
+- alt**en** Wein
+- jung**e** Milch
+- klein**es** Bier
+- neu**e** Schuhe
+
+**Dativ:**
+- alt**em** Wein
+- jung**er** Milch
+- klein**em** Bier
+- neu**en** Schuhen
